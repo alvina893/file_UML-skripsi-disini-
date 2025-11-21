@@ -2452,8 +2452,32 @@
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Backup dan&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Restore Data&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="305" y="438" as="geometry" />
         </mxCell>
+        <mxCell id="C00pwqgJsaeA2lpdnca2-6" edge="1" parent="1" source="C00pwqgJsaeA2lpdnca2-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="C00pwqgJsaeA2lpdnca2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C00pwqgJsaeA2lpdnca2-7" edge="1" parent="1" source="C00pwqgJsaeA2lpdnca2-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="C00pwqgJsaeA2lpdnca2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C00pwqgJsaeA2lpdnca2-8" edge="1" parent="1" source="C00pwqgJsaeA2lpdnca2-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="C00pwqgJsaeA2lpdnca2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C00pwqgJsaeA2lpdnca2-9" edge="1" parent="1" source="C00pwqgJsaeA2lpdnca2-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="C00pwqgJsaeA2lpdnca2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Kasir" vertex="1">
           <mxGeometry height="60" width="30" x="630" y="378" as="geometry" />
+        </mxCell>
+        <mxCell id="C00pwqgJsaeA2lpdnca2-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Pembelian" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="C00pwqgJsaeA2lpdnca2-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Supplier" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="482" as="geometry" />
+        </mxCell>
+        <mxCell id="C00pwqgJsaeA2lpdnca2-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Pengguna" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="C00pwqgJsaeA2lpdnca2-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="278" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
