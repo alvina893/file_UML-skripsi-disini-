@@ -2468,16 +2468,16 @@
           <mxGeometry height="60" width="30" x="630" y="368" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Scan Barcode&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="760" y="404" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="413" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Cetak Struk Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="760" y="472" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="498" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="760" y="336" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="327" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="60" width="120" x="760" y="268" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="242" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-10" edge="1" parent="1" source="C00pwqgJsaeA2lpdnca2-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="C00pwqgJsaeA2lpdnca2-18">
           <mxGeometry relative="1" as="geometry" />
@@ -2495,16 +2495,16 @@
           <mxGeometry height="60" width="30" x="1060" y="368" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tangani Pesanan Pickup atau Delivery" vertex="1">
-          <mxGeometry height="60" width="160" x="1190" y="404" as="geometry" />
+          <mxGeometry height="60" width="160" x="1190" y="413" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
-          <mxGeometry height="60" width="120" x="1190" y="472" as="geometry" />
+          <mxGeometry height="60" width="120" x="1190" y="498" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Pantau dan&lt;div&gt;Update Stok&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1190" y="336" as="geometry" />
+          <mxGeometry height="60" width="120" x="1190" y="327" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="60" width="120" x="1190" y="268" as="geometry" />
+          <mxGeometry height="60" width="120" x="1190" y="242" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
