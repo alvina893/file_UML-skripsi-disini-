@@ -2398,6 +2398,9 @@
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Supplier" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="410" as="geometry" />
         </mxCell>
+        <mxCell id="KzSZXPxtIppuCFI6Lqcn-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Barang" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="490" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
