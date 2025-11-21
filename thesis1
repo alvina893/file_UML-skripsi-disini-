@@ -2468,16 +2468,16 @@
           <mxGeometry height="60" width="30" x="630" y="378" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="750" y="414" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="414" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="750" y="482" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="482" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Pengguna" vertex="1">
-          <mxGeometry height="60" width="120" x="750" y="346" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="346" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="60" width="120" x="750" y="278" as="geometry" />
+          <mxGeometry height="60" width="120" x="760" y="278" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
