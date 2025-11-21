@@ -2497,7 +2497,7 @@
         <mxCell id="C00pwqgJsaeA2lpdnca2-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Karyawan" vertex="1">
           <mxGeometry height="60" width="30" x="1060" y="368" as="geometry" />
         </mxCell>
-        <mxCell id="C00pwqgJsaeA2lpdnca2-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tangani Pesanan Pickup atau Delivery" vertex="1">
+        <mxCell id="C00pwqgJsaeA2lpdnca2-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Tangani Penjualan Pickup atau Delivery" vertex="1">
           <mxGeometry height="60" width="160" x="1180" y="413" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
