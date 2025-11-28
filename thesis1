@@ -3004,10 +3004,10 @@
         <mxCell id="rCb2eiMoYhiCWRohR7WJ-2" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan List Supplier&amp;nbsp; dan Form Supplier Baru" vertex="1">
           <mxGeometry height="50" width="135" x="87.5" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="f5u25KnTtSxhrPYpN8t4-2" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Barang" vertex="1">
+        <mxCell id="f5u25KnTtSxhrPYpN8t4-2" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Supplier" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="f5u25KnTtSxhrPYpN8t4-1" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Barang Baru" vertex="1">
+        <mxCell id="f5u25KnTtSxhrPYpN8t4-1" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Supplier Baru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="610" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-24" edge="1" parent="1" source="EMKHfyKzKm_afmR1EEB3-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EMKHfyKzKm_afmR1EEB3-2">
@@ -3025,6 +3025,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fxCx2B0HSiP1bdO9JFW9-6" edge="1" parent="1" source="rCb2eiMoYhiCWRohR7WJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fxCx2B0HSiP1bdO9JFW9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f5u25KnTtSxhrPYpN8t4-8" edge="1" parent="1" source="f5u25KnTtSxhrPYpN8t4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="f5u25KnTtSxhrPYpN8t4-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
