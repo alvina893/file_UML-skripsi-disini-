@@ -2864,8 +2864,11 @@
         <mxCell id="1eIafAM1mV06f6Xi7pdY-2" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Cek Stok dan Min Stok Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="EUScuQPbRrJSguZwzaE2-11" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="1eIafAM1mV06f6Xi7pdY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="EUScuQPbRrJSguZwzaE2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1eIafAM1mV06f6Xi7pdY-4" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Stok Barang Aman" vertex="1">
-          <mxGeometry height="50" width="100" x="190" y="380" as="geometry" />
+          <mxGeometry height="50" width="100" x="192.5" y="380" as="geometry" />
         </mxCell>
         <mxCell id="EUScuQPbRrJSguZwzaE2-2" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="ObJeLeI23ykCL9_R5fME-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1eIafAM1mV06f6Xi7pdY-4">
           <mxGeometry relative="1" as="geometry" />
@@ -2886,11 +2889,17 @@
         <mxCell id="ObJeLeI23ykCL9_R5fME-1" parent="EXahoBi8N_f_pk358-Yt-42" style="rhombus;whiteSpace=wrap;html=1;" value="cek" vertex="1">
           <mxGeometry height="40" width="75" x="117.5" y="310" as="geometry" />
         </mxCell>
+        <mxCell id="EUScuQPbRrJSguZwzaE2-10" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="EUScuQPbRrJSguZwzaE2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EUScuQPbRrJSguZwzaE2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EUScuQPbRrJSguZwzaE2-5" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Stok Barang Menipis" vertex="1">
           <mxGeometry height="50" width="100" x="17.5" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="EUScuQPbRrJSguZwzaE2-8" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Stok Barang Aman" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="500" as="geometry" />
+        <mxCell id="EUScuQPbRrJSguZwzaE2-8" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Status Stok Barang" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="EUScuQPbRrJSguZwzaE2-9" parent="EXahoBi8N_f_pk358-Yt-42" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="75" x="117.5" y="460" as="geometry" />
         </mxCell>
         <mxCell id="5rC1mDAmDbNRErBGzYk2-1" edge="1" parent="1" source="5rC1mDAmDbNRErBGzYk2-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EXahoBi8N_f_pk358-Yt-2">
           <mxGeometry relative="1" as="geometry">
