@@ -3244,7 +3244,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-pengembalian" id="xfdz4Cy4TYtA-JAfU7Ya">
-    <mxGraphModel dx="1707" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-0" />
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-1" parent="pJdGSmwLWUdJQ1yrRtWR-0" />
@@ -3448,8 +3448,8 @@
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-52" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-1" source="pJdGSmwLWUdJQ1yrRtWR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="965" y="1290" />
-              <mxPoint x="655" y="1290" />
+              <mxPoint x="965" y="1370" />
+              <mxPoint x="655" y="1370" />
             </Array>
           </mxGeometry>
         </mxCell>
