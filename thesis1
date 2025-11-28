@@ -3263,8 +3263,8 @@
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-6" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-3" source="pJdGSmwLWUdJQ1yrRtWR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-7" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Pembelian&#39; pada Navigasi Sidebar" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
+        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-7" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Pengembalian&#39; pada Navigasi Sidebar" vertex="1">
+          <mxGeometry height="50" width="125" x="92.5" y="200" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-8" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-3" source="pJdGSmwLWUdJQ1yrRtWR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-11">
           <mxGeometry relative="1" as="geometry" />
@@ -3336,7 +3336,7 @@
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-27" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-28" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pembelian Baru dan&lt;div&gt;List Pembelian&lt;/div&gt;" vertex="1">
+        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-28" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pengembalian Baru dan&lt;div&gt;List Pembelian&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="135" x="87.5" y="200" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-29" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Hitung Subtotal dan Total Barang" vertex="1">
