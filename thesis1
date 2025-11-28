@@ -2599,7 +2599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-barang" id="YzfhHQrpiMf0nIn3FK_U">
-    <mxGraphModel dx="2557" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1988" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-1" parent="8rPaMRM0daE1oujM9DhI-0" />
@@ -2612,8 +2612,14 @@
         <mxCell id="32ciXODmveB4sjqUtKcA-5" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Barang&#39; pada Navigasi Sidebar" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="iEfOS3-rPD90qZT58yaT-5" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="iEfOS3-rPD90qZT58yaT-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iEfOS3-rPD90qZT58yaT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iEfOS3-rPD90qZT58yaT-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan atau Input&lt;br&gt;Kode Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="iEfOS3-rPD90qZT58yaT-6" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="iEfOS3-rPD90qZT58yaT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iEfOS3-rPD90qZT58yaT-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iEfOS3-rPD90qZT58yaT-2" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Nama Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="360" as="geometry" />
