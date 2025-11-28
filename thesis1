@@ -2870,7 +2870,7 @@
         <mxCell id="EUScuQPbRrJSguZwzaE2-2" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="ObJeLeI23ykCL9_R5fME-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1eIafAM1mV06f6Xi7pdY-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ObJeLeI23ykCL9_R5fME-1" parent="EXahoBi8N_f_pk358-Yt-42" style="rhombus;whiteSpace=wrap;html=1;" value="stok - min stok" vertex="1">
+        <mxCell id="ObJeLeI23ykCL9_R5fME-1" parent="EXahoBi8N_f_pk358-Yt-42" style="rhombus;whiteSpace=wrap;html=1;" value="cek" vertex="1">
           <mxGeometry height="40" width="75" x="117.5" y="310" as="geometry" />
         </mxCell>
         <mxCell id="5rC1mDAmDbNRErBGzYk2-1" edge="1" parent="1" source="5rC1mDAmDbNRErBGzYk2-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EXahoBi8N_f_pk358-Yt-2">
