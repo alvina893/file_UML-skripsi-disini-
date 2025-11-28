@@ -2618,6 +2618,9 @@
         <mxCell id="iEfOS3-rPD90qZT58yaT-2" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Nama Barang" vertex="1">
           <mxGeometry height="50" width="100" x="50" y="360" as="geometry" />
         </mxCell>
+        <mxCell id="iEfOS3-rPD90qZT58yaT-3" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Kategori Barang" vertex="1">
+          <mxGeometry height="50" width="100" x="50" y="440" as="geometry" />
+        </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-7" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="570" width="200" x="200" as="geometry" />
         </mxCell>
