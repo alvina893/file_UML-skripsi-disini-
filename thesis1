@@ -3056,7 +3056,7 @@
         <mxCell id="0ESF_keQ80qXtmsPh_5W-5" edge="1" parent="0ESF_keQ80qXtmsPh_5W-2" source="0ESF_keQ80qXtmsPh_5W-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ESF_keQ80qXtmsPh_5W-6" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Supplier&#39; pada Navigasi Sidebar" vertex="1">
+        <mxCell id="0ESF_keQ80qXtmsPh_5W-6" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Users&#39; pada Navigasi Sidebar" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-7" edge="1" parent="0ESF_keQ80qXtmsPh_5W-2" source="0ESF_keQ80qXtmsPh_5W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-10">
