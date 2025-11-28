@@ -2604,7 +2604,7 @@
         <mxCell id="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-1" parent="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-2" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="570" width="200" as="geometry" />
+          <mxGeometry height="680" width="200" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-3" parent="8rPaMRM0daE1oujM9DhI-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="88.5" y="40" as="geometry" />
@@ -2622,7 +2622,7 @@
           <mxGeometry height="50" width="100" x="50" y="440" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-7" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="570" width="200" x="200" as="geometry" />
+          <mxGeometry height="680" width="200" x="200" as="geometry" />
         </mxCell>
         <mxCell id="32ciXODmveB4sjqUtKcA-8" edge="1" parent="8rPaMRM0daE1oujM9DhI-7" source="8rPaMRM0daE1oujM9DhI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="32ciXODmveB4sjqUtKcA-7">
           <mxGeometry relative="1" as="geometry" />
