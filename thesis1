@@ -2523,6 +2523,9 @@
         <mxCell id="segYk1lWUch8yqNIUHLY-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="430" width="200" as="geometry" />
         </mxCell>
+        <mxCell id="_RYvpxEGwJmtoQe-EZwO-6" edge="1" parent="segYk1lWUch8yqNIUHLY-1" source="_RYvpxEGwJmtoQe-EZwO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_RYvpxEGwJmtoQe-EZwO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_RYvpxEGwJmtoQe-EZwO-1" parent="segYk1lWUch8yqNIUHLY-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="88.5" y="40" as="geometry" />
         </mxCell>
