@@ -3356,7 +3356,7 @@
           <mxGeometry height="50" width="100" x="105" y="899" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-30" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Isi ID Supplier dari Database" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="670" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="660" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-31" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cari dan Isi&amp;nbsp;Nama dan Satuan Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="830" as="geometry" />
@@ -3481,6 +3481,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yx40CWLP_ZwPxJurlPvS-7" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-1" source="JVqp3NThhDBlLh3byQOU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UDGrNjXIlrpmK1fUrucM-0" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-1" source="pJdGSmwLWUdJQ1yrRtWR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
