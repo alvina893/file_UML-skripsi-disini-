@@ -2532,6 +2532,12 @@
         <mxCell id="segYk1lWUch8yqNIUHLY-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="430" width="200" x="200" as="geometry" />
         </mxCell>
+        <mxCell id="_RYvpxEGwJmtoQe-EZwO-4" parent="segYk1lWUch8yqNIUHLY-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Login" vertex="1">
+          <mxGeometry height="50" width="100" x="50" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_RYvpxEGwJmtoQe-EZwO-5" edge="1" parent="1" source="_RYvpxEGwJmtoQe-EZwO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_RYvpxEGwJmtoQe-EZwO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
