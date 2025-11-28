@@ -3062,25 +3062,25 @@
         <mxCell id="0ESF_keQ80qXtmsPh_5W-7" edge="1" parent="0ESF_keQ80qXtmsPh_5W-2" source="0ESF_keQ80qXtmsPh_5W-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ESF_keQ80qXtmsPh_5W-8" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Nama Supplier" vertex="1">
+        <mxCell id="0ESF_keQ80qXtmsPh_5W-8" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Nama User Baru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="310" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-9" edge="1" parent="0ESF_keQ80qXtmsPh_5W-2" source="0ESF_keQ80qXtmsPh_5W-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ESF_keQ80qXtmsPh_5W-10" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak" vertex="1">
+        <mxCell id="0ESF_keQ80qXtmsPh_5W-10" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Username" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="400" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-11" edge="1" parent="0ESF_keQ80qXtmsPh_5W-2" source="0ESF_keQ80qXtmsPh_5W-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ESF_keQ80qXtmsPh_5W-12" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Alamat" vertex="1">
+        <mxCell id="0ESF_keQ80qXtmsPh_5W-12" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Password" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="500" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-13" edge="1" parent="0ESF_keQ80qXtmsPh_5W-2" source="0ESF_keQ80qXtmsPh_5W-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ESF_keQ80qXtmsPh_5W-14" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Catatan" vertex="1">
+        <mxCell id="0ESF_keQ80qXtmsPh_5W-14" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Role User" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="600" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-15" parent="0ESF_keQ80qXtmsPh_5W-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Save" vertex="1">
@@ -3110,13 +3110,13 @@
         <mxCell id="0ESF_keQ80qXtmsPh_5W-22" edge="1" parent="0ESF_keQ80qXtmsPh_5W-17" source="0ESF_keQ80qXtmsPh_5W-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ESF_keQ80qXtmsPh_5W-23" parent="0ESF_keQ80qXtmsPh_5W-17" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Supplier" vertex="1">
+        <mxCell id="0ESF_keQ80qXtmsPh_5W-23" parent="0ESF_keQ80qXtmsPh_5W-17" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List User" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="780" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-24" edge="1" parent="0ESF_keQ80qXtmsPh_5W-17" source="0ESF_keQ80qXtmsPh_5W-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ESF_keQ80qXtmsPh_5W-25" parent="0ESF_keQ80qXtmsPh_5W-17" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Supplier Baru" vertex="1">
+        <mxCell id="0ESF_keQ80qXtmsPh_5W-25" parent="0ESF_keQ80qXtmsPh_5W-17" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan User Baru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="690" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-26" edge="1" parent="0ESF_keQ80qXtmsPh_5W-1" source="0ESF_keQ80qXtmsPh_5W-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="0ESF_keQ80qXtmsPh_5W-3">
