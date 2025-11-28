@@ -3183,7 +3183,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sZB2CP7lKKuYpajfbTQW-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="list lengkap?" vertex="1">
-          <mxGeometry height="40" width="75" x="927.5" y="1390" as="geometry" />
+          <mxGeometry height="40" width="75" x="630" y="1400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
