@@ -2649,6 +2649,14 @@
             <mxPoint x="18" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-5" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="YxV5wcmu4bWtHFXNA4vS-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iEfOS3-rPD90qZT58yaT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-6" connectable="0" parent="IY7dwhEqgg_wRWHcR9fZ-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ada kategori sesuai" vertex="1">
+          <mxGeometry relative="1" x="0.4176" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YxV5wcmu4bWtHFXNA4vS-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rhombus;whiteSpace=wrap;html=1;" value="kategori?" vertex="1">
           <mxGeometry height="40" width="75" x="117.5" y="520" as="geometry" />
         </mxCell>
