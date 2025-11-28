@@ -2636,24 +2636,24 @@
         <mxCell id="8rPaMRM0daE1oujM9DhI-21" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="8rPaMRM0daE1oujM9DhI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8rPaMRM0daE1oujM9DhI-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iEfOS3-rPD90qZT58yaT-8" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="iEfOS3-rPD90qZT58yaT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+        <mxCell id="iEfOS3-rPD90qZT58yaT-8" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="iEfOS3-rPD90qZT58yaT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YxV5wcmu4bWtHFXNA4vS-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-1" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="YxV5wcmu4bWtHFXNA4vS-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IY7dwhEqgg_wRWHcR9fZ-0">
+        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-1" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="YxV5wcmu4bWtHFXNA4vS-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IY7dwhEqgg_wRWHcR9fZ-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-2" connectable="0" parent="IY7dwhEqgg_wRWHcR9fZ-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak ada kategori sesuai" vertex="1">
           <mxGeometry relative="1" x="-0.4065" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="24" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YxV5wcmu4bWtHFXNA4vS-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rhombus;whiteSpace=wrap;html=1;" value="kategori?" vertex="1">
-          <mxGeometry height="40" width="75" x="42.5" y="520" as="geometry" />
+          <mxGeometry height="40" width="75" x="117.5" y="520" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik &#39;+&#39; Tambah Kategori Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="177.5" y="550" as="geometry" />
+          <mxGeometry height="50" width="100" x="192.5" y="580" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-7" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="680" width="310" x="200" as="geometry" />
