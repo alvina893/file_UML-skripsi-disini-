@@ -3107,23 +3107,11 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-18" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-19" parent="qSfW9CH8Ka733of-UM4c-16" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="140" y="860" as="geometry" />
-        </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-20" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pembelian Baru dan&lt;div&gt;List Pembelian&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="135" x="87.5" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-21" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="qSfW9CH8Ka733of-UM4c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-22" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Supplier" vertex="1">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-22" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Hitung Subtotal Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="780" as="geometry" />
-        </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-23" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="qSfW9CH8Ka733of-UM4c-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-24" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Supplier Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="690" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-25" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="qSfW9CH8Ka733of-UM4c-2">
           <mxGeometry relative="1" as="geometry">
