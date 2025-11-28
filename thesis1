@@ -2516,7 +2516,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjjgekzDuZisRvIzVVK_" name="admin-activity-login">
-    <mxGraphModel dx="488" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1463" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2599,7 +2599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-barang" id="YzfhHQrpiMf0nIn3FK_U">
-    <mxGraphModel dx="2130" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1669" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-1" parent="8rPaMRM0daE1oujM9DhI-0" />
