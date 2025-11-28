@@ -2598,6 +2598,14 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="WHuSyiZR5QvUj76w856L" name="Page-26">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="admin-activity-barang" id="YzfhHQrpiMf0nIn3FK_U">
     <mxGraphModel dx="2215" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2686,7 +2694,7 @@
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-25" connectable="0" parent="IY7dwhEqgg_wRWHcR9fZ-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak ada satuan sesuai" vertex="1">
           <mxGeometry relative="1" x="0.5183" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-24" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="IY7dwhEqgg_wRWHcR9fZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IY7dwhEqgg_wRWHcR9fZ-16">
@@ -2784,14 +2792,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="WHuSyiZR5QvUj76w856L" name="Page-26">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
