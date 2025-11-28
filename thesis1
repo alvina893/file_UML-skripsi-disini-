@@ -3110,7 +3110,7 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-20" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pembelian Baru dan&lt;div&gt;List Pembelian&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="135" x="87.5" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-22" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Hitung Subtotal Barang" vertex="1">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-22" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Hitung Subtotal dan Total Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="820" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-34" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Isi ID Supplier dari Database" vertex="1">
