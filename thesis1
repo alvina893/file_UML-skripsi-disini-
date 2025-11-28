@@ -2875,8 +2875,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EUScuQPbRrJSguZwzaE2-6" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="ObJeLeI23ykCL9_R5fME-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EUScuQPbRrJSguZwzaE2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUScuQPbRrJSguZwzaE2-7" connectable="0" parent="EUScuQPbRrJSguZwzaE2-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="stok &amp;lt; min stok" vertex="1">
+          <mxGeometry relative="1" x="0.4408" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ObJeLeI23ykCL9_R5fME-1" parent="EXahoBi8N_f_pk358-Yt-42" style="rhombus;whiteSpace=wrap;html=1;" value="cek" vertex="1">
           <mxGeometry height="40" width="75" x="117.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="EUScuQPbRrJSguZwzaE2-5" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Stok Barang Menipis" vertex="1">
+          <mxGeometry height="50" width="100" x="17.5" y="380" as="geometry" />
         </mxCell>
         <mxCell id="5rC1mDAmDbNRErBGzYk2-1" edge="1" parent="1" source="5rC1mDAmDbNRErBGzYk2-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EXahoBi8N_f_pk358-Yt-2">
           <mxGeometry relative="1" as="geometry">
