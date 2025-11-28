@@ -3117,6 +3117,9 @@
         <mxCell id="V6v30hVfR8jZXQF5jndL-5" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="sZB2CP7lKKuYpajfbTQW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V6v30hVfR8jZXQF5jndL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="kKNImgg_JXlsvav27e1p-2" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Pembelian yang Telah Disimpan" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="1240" as="geometry" />
+        </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1360" width="310" x="810" y="400" as="geometry" />
         </mxCell>
@@ -3150,10 +3153,10 @@
         <mxCell id="uLjrsxImxXesXMk2FjS1-15" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="uLjrsxImxXesXMk2FjS1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uLjrsxImxXesXMk2FjS1-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uLjrsxImxXesXMk2FjS1-2" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Pembelian" vertex="1">
+        <mxCell id="uLjrsxImxXesXMk2FjS1-2" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Stok Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="1160" as="geometry" />
         </mxCell>
-        <mxCell id="uLjrsxImxXesXMk2FjS1-14" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Stok Barang" vertex="1">
+        <mxCell id="uLjrsxImxXesXMk2FjS1-14" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Pembelian" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-25" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="qSfW9CH8Ka733of-UM4c-2">
@@ -3221,6 +3224,9 @@
         </mxCell>
         <mxCell id="uLjrsxImxXesXMk2FjS1-1" edge="1" parent="1" source="V6v30hVfR8jZXQF5jndL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V6v30hVfR8jZXQF5jndL-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kKNImgg_JXlsvav27e1p-1" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1380" y="1740" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
