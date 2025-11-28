@@ -3444,7 +3444,7 @@
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-58" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-1" source="pJdGSmwLWUdJQ1yrRtWR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JVqp3NThhDBlLh3byQOU-0" parent="pJdGSmwLWUdJQ1yrRtWR-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Masukkan Kode Pengembalian" vertex="1">
+        <mxCell id="JVqp3NThhDBlLh3byQOU-0" parent="pJdGSmwLWUdJQ1yrRtWR-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Masukkan Metode Pengembalian" vertex="1">
           <mxGeometry height="50" width="100" x="690" y="830" as="geometry" />
         </mxCell>
       </root>
