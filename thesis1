@@ -2843,7 +2843,7 @@
         <mxCell id="EXahoBi8N_f_pk358-Yt-2" parent="EXahoBi8N_f_pk358-Yt-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-11" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu Stok Barang" vertex="1">
+        <mxCell id="EXahoBi8N_f_pk358-Yt-11" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu ;Stok Barang&#39; pada SideBar" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-12" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-11">
@@ -2919,6 +2919,15 @@
           <mxGeometry height="70" width="100" x="460" y="330" as="geometry" />
         </mxCell>
         <mxCell id="1eIafAM1mV06f6Xi7pdY-1" edge="1" parent="1" source="EXahoBi8N_f_pk358-Yt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pd5KD2uUXG6oOKZhlRU-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
+          <mxGeometry height="50" width="100" x="1490" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pd5KD2uUXG6oOKZhlRU-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
+          <mxGeometry height="50" width="100" x="1800" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="5Pd5KD2uUXG6oOKZhlRU-3" edge="1" parent="1" source="5Pd5KD2uUXG6oOKZhlRU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5Pd5KD2uUXG6oOKZhlRU-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
