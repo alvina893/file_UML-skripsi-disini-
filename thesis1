@@ -2982,7 +2982,7 @@
           <mxGeometry height="30" width="30" x="140" y="610" as="geometry" />
         </mxCell>
         <mxCell id="rCb2eiMoYhiCWRohR7WJ-2" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan List Supplier&amp;nbsp; dan Form Supplier Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
+          <mxGeometry height="50" width="135" x="87.5" y="200" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-24" edge="1" parent="1" source="EMKHfyKzKm_afmR1EEB3-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EMKHfyKzKm_afmR1EEB3-2">
           <mxGeometry relative="1" as="geometry">
