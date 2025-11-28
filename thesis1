@@ -3048,7 +3048,7 @@
           <mxGeometry height="440" width="490" x="550" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="1360" width="310" x="500" y="400" as="geometry" />
+          <mxGeometry height="1400" width="310" x="500" y="400" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-2" parent="qSfW9CH8Ka733of-UM4c-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -3121,7 +3121,7 @@
           <mxGeometry height="50" width="100" x="105" y="1240" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1360" width="310" x="810" y="400" as="geometry" />
+          <mxGeometry height="1400" width="310" x="810" y="400" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-17" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="qSfW9CH8Ka733of-UM4c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-20">
           <mxGeometry relative="1" as="geometry">
@@ -3158,6 +3158,9 @@
         </mxCell>
         <mxCell id="uLjrsxImxXesXMk2FjS1-14" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Pembelian" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="kKNImgg_JXlsvav27e1p-4" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Rincian Pembelian" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-25" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="qSfW9CH8Ka733of-UM4c-2">
           <mxGeometry relative="1" as="geometry">
@@ -3227,6 +3230,12 @@
         </mxCell>
         <mxCell id="kKNImgg_JXlsvav27e1p-1" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="1380" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="kKNImgg_JXlsvav27e1p-3" edge="1" parent="1" source="uLjrsxImxXesXMk2FjS1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kKNImgg_JXlsvav27e1p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kKNImgg_JXlsvav27e1p-5" edge="1" parent="1" source="kKNImgg_JXlsvav27e1p-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kKNImgg_JXlsvav27e1p-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
