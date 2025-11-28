@@ -2676,7 +2676,7 @@
           <mxGeometry height="50" width="100" x="192.5" y="750" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-16" parent="8rPaMRM0daE1oujM9DhI-2" style="rhombus;whiteSpace=wrap;html=1;" value="satuan" vertex="1">
-          <mxGeometry height="40" width="75" x="42.5" y="680" as="geometry" />
+          <mxGeometry height="40" width="75" x="42.5" y="810" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-7" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="880" width="310" x="200" as="geometry" />
