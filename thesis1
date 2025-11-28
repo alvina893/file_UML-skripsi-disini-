@@ -2833,140 +2833,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WHuSyiZR5QvUj76w856L" name="Page-26">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EXahoBi8N_f_pk358-Yt-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="1700" width="310" x="590" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-2" parent="EXahoBi8N_f_pk358-Yt-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
-          <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-3" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Barang&#39; pada Navigasi Sidebar" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="170" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-4" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-5" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan atau Input&lt;br&gt;Kode Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-6" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-7" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Nama Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="360" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-8" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Kategori Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="440" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-9" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-10" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Kategori Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="590" as="geometry" />
-        </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-11" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-12" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-13" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-14" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-15" connectable="0" parent="EXahoBi8N_f_pk358-Yt-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak ada kategori sesuai" vertex="1">
-          <mxGeometry relative="1" x="-0.4065" y="1" as="geometry">
-            <mxPoint x="18" y="21" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-16" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-17" connectable="0" parent="EXahoBi8N_f_pk358-Yt-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ada kategori sesuai" vertex="1">
-          <mxGeometry relative="1" x="0.4176" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-18" parent="EXahoBi8N_f_pk358-Yt-1" style="rhombus;whiteSpace=wrap;html=1;" value="sesuai?" vertex="1">
-          <mxGeometry height="40" width="75" x="117.5" y="520" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-19" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik &#39;+&#39; Tambah Kategori Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="192.5" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-20" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-21" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kategori Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="192.5" y="670" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-22" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Save" vertex="1">
-          <mxGeometry height="50" width="100" x="192.5" y="750" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-23" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-24" parent="EXahoBi8N_f_pk358-Yt-1" style="rhombus;whiteSpace=wrap;html=1;" value="sesuai?" vertex="1">
-          <mxGeometry height="40" width="75" x="42.5" y="830" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-25" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik &#39;+&#39; Tambah Satuan Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="117.5" y="900" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-26" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-27" connectable="0" parent="EXahoBi8N_f_pk358-Yt-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak ada satuan sesuai" vertex="1">
-          <mxGeometry relative="1" x="0.5183" y="1" as="geometry">
-            <mxPoint x="-1" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-28" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-24">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-29" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Satuan Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="670" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-30" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-31" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Satuan&lt;div&gt;Baru&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="117.5" y="990" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-32" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Save" vertex="1">
-          <mxGeometry height="50" width="100" x="117.5" y="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-33" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-34" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Satuan Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="1170" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-35" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-36" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Harga Jual Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="1250" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-37" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-38" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Stok" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="1330" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-39" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="EXahoBi8N_f_pk358-Yt-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-40" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Minimal Stok" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="1410" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-41" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Save" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-42" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1700" width="310" x="900" y="280" as="geometry" />
@@ -2974,43 +2849,19 @@
         <mxCell id="EXahoBi8N_f_pk358-Yt-43" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-44" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan List Barang dan Form Barang Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-45" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form PopUp Tambah Kategori Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="590" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-46" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Kategori Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="750" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-47" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form PopUp Tambah Satuan Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="900" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-48" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Satuan Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="1080" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-49" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="EXahoBi8N_f_pk358-Yt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-50" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Barang Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="1490" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-51" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="EXahoBi8N_f_pk358-Yt-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-53">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-52" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="1570" as="geometry" />
-        </mxCell>
-        <mxCell id="EXahoBi8N_f_pk358-Yt-53" parent="EXahoBi8N_f_pk358-Yt-42" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="140" y="1650" as="geometry" />
+        <mxCell id="EXahoBi8N_f_pk358-Yt-2" parent="EXahoBi8N_f_pk358-Yt-42" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
         </mxCell>
         <mxCell id="5rC1mDAmDbNRErBGzYk2-1" edge="1" parent="1" source="5rC1mDAmDbNRErBGzYk2-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EXahoBi8N_f_pk358-Yt-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="874" y="451" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5rC1mDAmDbNRErBGzYk2-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="User sudah berhasil login" vertex="1">
-          <mxGeometry height="70" width="100" x="460" y="330" as="geometry" />
+        <mxCell id="5rC1mDAmDbNRErBGzYk2-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="User sudah disimpan" vertex="1">
+          <mxGeometry height="70" width="100" x="1230" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="EXahoBi8N_f_pk358-Yt-12" edge="1" parent="1" source="EXahoBi8N_f_pk358-Yt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
