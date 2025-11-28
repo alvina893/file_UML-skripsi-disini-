@@ -2956,6 +2956,18 @@
         <mxCell id="rCb2eiMoYhiCWRohR7WJ-1" parent="EMKHfyKzKm_afmR1EEB3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Supplier&#39; pada Navigasi Sidebar" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
+        <mxCell id="fxCx2B0HSiP1bdO9JFW9-2" parent="EMKHfyKzKm_afmR1EEB3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Nama Supplier" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="fxCx2B0HSiP1bdO9JFW9-3" parent="EMKHfyKzKm_afmR1EEB3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="fxCx2B0HSiP1bdO9JFW9-4" parent="EMKHfyKzKm_afmR1EEB3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Alamat" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="fxCx2B0HSiP1bdO9JFW9-5" parent="EMKHfyKzKm_afmR1EEB3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Catatan" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="610" as="geometry" />
+        </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="670" width="310" x="900" y="280" as="geometry" />
         </mxCell>
