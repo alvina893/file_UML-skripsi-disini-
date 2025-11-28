@@ -3264,19 +3264,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-7" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Pengembalian&#39; pada Navigasi Sidebar" vertex="1">
-          <mxGeometry height="50" width="125" x="92.5" y="190" as="geometry" />
+          <mxGeometry height="50" width="125" x="92.5" y="180" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-8" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-3" source="pJdGSmwLWUdJQ1yrRtWR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JVqp3NThhDBlLh3byQOU-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-9" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Tanggal Pengembalian" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-10" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-3" source="pJdGSmwLWUdJQ1yrRtWR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="260" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-11" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Metode Pengembalian" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="427" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="420" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-12" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Nama Supplier" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="500" as="geometry" />
@@ -3328,7 +3325,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVqp3NThhDBlLh3byQOU-0" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Masukkan Kode Pengembalian" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="353" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="340" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-25" parent="pJdGSmwLWUdJQ1yrRtWR-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1500" width="310" x="810" y="340" as="geometry" />
@@ -3343,13 +3340,13 @@
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-28" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pengembalian Baru dan&lt;div&gt;List&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengembalian&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="135" x="87.5" y="190" as="geometry" />
+          <mxGeometry height="50" width="135" x="87.5" y="180" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-29" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Hitung Subtotal dan Total Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="899" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-30" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Isi ID Supplier dari Database" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="620" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="640" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-31" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cari dan Isi&amp;nbsp;Nama dan Satuan Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="809" as="geometry" />
@@ -3378,20 +3375,29 @@
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-39" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="140" y="1479" as="geometry" />
         </mxCell>
+        <mxCell id="yx40CWLP_ZwPxJurlPvS-4" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-25" source="JVqp3NThhDBlLh3byQOU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="JVqp3NThhDBlLh3byQOU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JVqp3NThhDBlLh3byQOU-2" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Total Pengembalian Dana 0 / Null" vertex="1">
-          <mxGeometry height="50" width="100" x="40" y="500" as="geometry" />
+          <mxGeometry height="50" width="100" x="40" y="520" as="geometry" />
         </mxCell>
         <mxCell id="yx40CWLP_ZwPxJurlPvS-2" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-25" source="JVqp3NThhDBlLh3byQOU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JVqp3NThhDBlLh3byQOU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="yx40CWLP_ZwPxJurlPvS-3" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-25" source="JVqp3NThhDBlLh3byQOU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JVqp3NThhDBlLh3byQOU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JVqp3NThhDBlLh3byQOU-3" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rhombus;whiteSpace=wrap;html=1;" value="metode?" vertex="1">
-          <mxGeometry height="40" width="75" x="117.5" y="432" as="geometry" />
+          <mxGeometry height="40" width="75" x="117.5" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="yx40CWLP_ZwPxJurlPvS-5" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-25" source="JVqp3NThhDBlLh3byQOU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JVqp3NThhDBlLh3byQOU-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JVqp3NThhDBlLh3byQOU-6" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Total Pengembalian Stok 0 / Null" vertex="1">
-          <mxGeometry height="50" width="100" x="170" y="500" as="geometry" />
+          <mxGeometry height="50" width="100" x="170" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="JVqp3NThhDBlLh3byQOU-8" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rhombus;whiteSpace=wrap;html=1;" value="metode?" vertex="1">
-          <mxGeometry height="40" width="75" x="117.5" y="570" as="geometry" />
+        <mxCell id="JVqp3NThhDBlLh3byQOU-8" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rhombus;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="75" x="117.5" y="580" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-40" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-1" source="pJdGSmwLWUdJQ1yrRtWR-41" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="pJdGSmwLWUdJQ1yrRtWR-4">
           <mxGeometry relative="1" as="geometry">
