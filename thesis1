@@ -2702,6 +2702,9 @@
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-11" parent="8rPaMRM0daE1oujM9DhI-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Kategori Baru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="750" as="geometry" />
         </mxCell>
+        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-21" parent="8rPaMRM0daE1oujM9DhI-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form PopUp Tambah Satuan Baru" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="870" as="geometry" />
+        </mxCell>
         <mxCell id="32ciXODmveB4sjqUtKcA-2" edge="1" parent="8rPaMRM0daE1oujM9DhI-1" source="32ciXODmveB4sjqUtKcA-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="8rPaMRM0daE1oujM9DhI-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
