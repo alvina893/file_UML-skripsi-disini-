@@ -3285,7 +3285,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-15" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="809" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="830" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-16" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-3" source="pJdGSmwLWUdJQ1yrRtWR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-13">
           <mxGeometry relative="1" as="geometry" />
@@ -3306,7 +3306,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="1099" />
-              <mxPoint x="80" y="735" />
+              <mxPoint x="80" y="790" />
+              <mxPoint x="105" y="790" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3349,7 +3350,7 @@
           <mxGeometry height="50" width="100" x="105" y="670" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-31" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cari dan Isi&amp;nbsp;Nama dan Satuan Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="809" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="830" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-32" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-25" source="pJdGSmwLWUdJQ1yrRtWR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-35">
           <mxGeometry relative="1" as="geometry" />
