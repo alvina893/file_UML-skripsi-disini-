@@ -2695,7 +2695,7 @@
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-23" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Satuan Barang" vertex="1">
           <mxGeometry height="50" width="100" x="30" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-26" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik &#39;+&#39; Tambah Satuan Baru" vertex="1">
+        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-26" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Satuan&lt;div&gt;Baru&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="110" y="960" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-7" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
