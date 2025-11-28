@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1" pages="25">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0" pages="25">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1246" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2516,12 +2516,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjjgekzDuZisRvIzVVK_" name="admin-activity-login">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1171" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="segYk1lWUch8yqNIUHLY-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="430" width="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_RYvpxEGwJmtoQe-EZwO-1" parent="segYk1lWUch8yqNIUHLY-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+          <mxGeometry height="22" width="23" x="88.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_RYvpxEGwJmtoQe-EZwO-3" parent="segYk1lWUch8yqNIUHLY-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
+          <mxGeometry height="50" width="100" x="50" y="80" as="geometry" />
         </mxCell>
         <mxCell id="segYk1lWUch8yqNIUHLY-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="430" width="200" x="200" as="geometry" />
