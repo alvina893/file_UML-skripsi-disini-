@@ -2607,7 +2607,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-barang" id="YzfhHQrpiMf0nIn3FK_U">
-    <mxGraphModel dx="2215" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1277" dy="223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-1" parent="8rPaMRM0daE1oujM9DhI-0" />
@@ -2715,8 +2715,14 @@
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-28" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Save" vertex="1">
           <mxGeometry height="50" width="100" x="117.5" y="1080" as="geometry" />
         </mxCell>
+        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-38" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="IY7dwhEqgg_wRWHcR9fZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IY7dwhEqgg_wRWHcR9fZ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-35" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Satuan Barang" vertex="1">
           <mxGeometry height="50" width="100" x="30" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-37" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Harga Jual Barang" vertex="1">
+          <mxGeometry height="50" width="100" x="30" y="1250" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-7" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1320" width="310" x="200" as="geometry" />
