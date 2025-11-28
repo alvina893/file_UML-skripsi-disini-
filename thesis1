@@ -3044,8 +3044,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qSfW9CH8Ka733of-UM4c-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="350" width="440" x="590" y="1020" as="geometry" />
+        </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="900" width="310" x="500" y="400" as="geometry" />
+          <mxGeometry height="1000" width="310" x="500" y="400" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-2" parent="qSfW9CH8Ka733of-UM4c-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -3089,8 +3092,11 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-32" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Harga Beli" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="820" as="geometry" />
         </mxCell>
+        <mxCell id="qSfW9CH8Ka733of-UM4c-46" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tambah Barang" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="910" as="geometry" />
+        </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="900" width="310" x="810" y="400" as="geometry" />
+          <mxGeometry height="1000" width="310" x="810" y="400" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-17" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="qSfW9CH8Ka733of-UM4c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-20">
           <mxGeometry relative="1" as="geometry">
@@ -3145,9 +3151,6 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-39" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="260" width="440" x="590" y="1020" as="geometry" />
-        </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-44" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Proses Input&lt;div&gt;LIst Barang yang Dibeli&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" x="1160" y="1090" as="geometry" />
         </mxCell>
@@ -3155,6 +3158,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1110" y="986" as="sourcePoint" />
             <mxPoint x="1284" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qSfW9CH8Ka733of-UM4c-47" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="965" y="1290" />
+              <mxPoint x="655" y="1290" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
