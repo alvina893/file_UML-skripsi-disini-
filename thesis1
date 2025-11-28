@@ -2612,7 +2612,7 @@
         <mxCell id="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-1" parent="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-2" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="1580" width="310" x="-110" as="geometry" />
+          <mxGeometry height="1700" width="310" x="-110" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-3" parent="8rPaMRM0daE1oujM9DhI-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -2743,7 +2743,7 @@
           <mxGeometry height="50" width="100" x="30" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-7" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1580" width="310" x="200" as="geometry" />
+          <mxGeometry height="1700" width="310" x="200" as="geometry" />
         </mxCell>
         <mxCell id="32ciXODmveB4sjqUtKcA-7" parent="8rPaMRM0daE1oujM9DhI-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
@@ -2765,6 +2765,9 @@
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-45" parent="8rPaMRM0daE1oujM9DhI-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Barang Baru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="IY7dwhEqgg_wRWHcR9fZ-48" parent="8rPaMRM0daE1oujM9DhI-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Barang Baru" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="32ciXODmveB4sjqUtKcA-2" edge="1" parent="8rPaMRM0daE1oujM9DhI-1" source="32ciXODmveB4sjqUtKcA-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="8rPaMRM0daE1oujM9DhI-3">
           <mxGeometry relative="1" as="geometry" />
@@ -2826,7 +2829,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-20" parent="8rPaMRM0daE1oujM9DhI-1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="590" y="1500" as="geometry" />
+          <mxGeometry height="30" width="30" x="330" y="1790" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
