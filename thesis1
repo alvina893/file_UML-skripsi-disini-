@@ -3074,10 +3074,7 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-11" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Nama dan ID Supplier" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="500" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-12" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="qSfW9CH8Ka733of-UM4c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-13" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan / Input&lt;div&gt;Kode, Nama dan Satuan Barang&lt;/div&gt;" vertex="1">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-13" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan / Input&lt;div&gt;Kode Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="600" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-33" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="qSfW9CH8Ka733of-UM4c-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-32">
@@ -3113,6 +3110,9 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-34" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Isi ID Supplier dari Database" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="500" as="geometry" />
         </mxCell>
+        <mxCell id="qSfW9CH8Ka733of-UM4c-36" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cari dan Isi&amp;nbsp;Nama dan Satuan Barang&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="600" as="geometry" />
+        </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-25" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="qSfW9CH8Ka733of-UM4c-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="784" y="571" as="targetPoint" />
@@ -3134,6 +3134,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-35" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qSfW9CH8Ka733of-UM4c-37" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
