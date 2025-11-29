@@ -3661,13 +3661,22 @@
         <mxCell id="DidADssE-AhpUTGSSXYv-23" parent="DidADssE-AhpUTGSSXYv-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="role: varchar" vertex="1">
           <mxGeometry height="26" width="180" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="DidADssE-AhpUTGSSXYv-28" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tbluser" vertex="1">
+        <mxCell id="DidADssE-AhpUTGSSXYv-28" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tblsatuan" vertex="1">
           <mxGeometry height="78" width="180" x="510" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DidADssE-AhpUTGSSXYv-29" parent="DidADssE-AhpUTGSSXYv-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="satuan_ID: integer" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
         </mxCell>
         <mxCell id="DidADssE-AhpUTGSSXYv-30" parent="DidADssE-AhpUTGSSXYv-28" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nma_satuan: varchar" vertex="1">
+          <mxGeometry height="26" width="180" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="DidADssE-AhpUTGSSXYv-34" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tblkategori" vertex="1">
+          <mxGeometry height="78" width="180" x="510" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DidADssE-AhpUTGSSXYv-35" parent="DidADssE-AhpUTGSSXYv-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="kategori_ID: integer" vertex="1">
+          <mxGeometry height="26" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DidADssE-AhpUTGSSXYv-36" parent="DidADssE-AhpUTGSSXYv-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nma_kategori: varchar" vertex="1">
           <mxGeometry height="26" width="180" y="52" as="geometry" />
         </mxCell>
       </root>
