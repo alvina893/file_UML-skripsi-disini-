@@ -3143,7 +3143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZkdKDVLzf9ZRBfxSJ7LL" name="admin-activity-pembelian">
-    <mxGraphModel dx="1862" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="445" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3313,7 +3313,7 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-39" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-44" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Loop Proses Input&lt;div&gt;LIst Barang&lt;/div&gt;&lt;div&gt;yang Dibeli&lt;/div&gt;" vertex="1">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-44" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Loop Proses&lt;div&gt;Input&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;List Barang&lt;/span&gt;&lt;div&gt;yang Dibeli&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" x="750" y="750" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-45" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;exitX=1.007;exitY=0.466;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="qSfW9CH8Ka733of-UM4c-44">
@@ -3352,7 +3352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-pengembalian" id="xfdz4Cy4TYtA-JAfU7Ya">
-    <mxGraphModel dx="731" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-0" />
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-1" parent="pJdGSmwLWUdJQ1yrRtWR-0" />
