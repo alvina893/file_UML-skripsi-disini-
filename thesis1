@@ -3040,12 +3040,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-users" id="F8msxoU-VFEAUoOPyxk2">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="613" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-0" />
         <mxCell id="0ESF_keQ80qXtmsPh_5W-1" parent="0ESF_keQ80qXtmsPh_5W-0" />
         <mxCell id="0ESF_keQ80qXtmsPh_5W-2" parent="0ESF_keQ80qXtmsPh_5W-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="900" width="310" x="590" y="280" as="geometry" />
+          <mxGeometry height="900" width="310" x="980" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-3" parent="0ESF_keQ80qXtmsPh_5W-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -3090,7 +3090,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-17" parent="0ESF_keQ80qXtmsPh_5W-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="900" width="310" x="900" y="280" as="geometry" />
+          <mxGeometry height="900" width="310" x="1290" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-18" edge="1" parent="0ESF_keQ80qXtmsPh_5W-17" source="0ESF_keQ80qXtmsPh_5W-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-21">
           <mxGeometry relative="1" as="geometry">
@@ -3121,11 +3121,11 @@
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-26" edge="1" parent="0ESF_keQ80qXtmsPh_5W-1" source="0ESF_keQ80qXtmsPh_5W-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="0ESF_keQ80qXtmsPh_5W-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="874" y="451" as="targetPoint" />
+            <mxPoint x="1264" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-27" parent="0ESF_keQ80qXtmsPh_5W-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="User sudah berhasil login" vertex="1">
-          <mxGeometry height="70" width="100" x="460" y="330" as="geometry" />
+          <mxGeometry height="70" width="100" x="850" y="50" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-28" edge="1" parent="0ESF_keQ80qXtmsPh_5W-1" source="0ESF_keQ80qXtmsPh_5W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-19">
           <mxGeometry relative="1" as="geometry" />
