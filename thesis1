@@ -2524,43 +2524,10 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use-case-karyawan" id="jKzd1uPcraXHfVYgzzwF">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="JxvNrINzljddjq5fo3BZ-0" />
         <mxCell id="JxvNrINzljddjq5fo3BZ-1" parent="JxvNrINzljddjq5fo3BZ-0" />
-        <mxCell id="JxvNrINzljddjq5fo3BZ-2" edge="1" parent="JxvNrINzljddjq5fo3BZ-1" source="JxvNrINzljddjq5fo3BZ-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="JxvNrINzljddjq5fo3BZ-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-3" edge="1" parent="JxvNrINzljddjq5fo3BZ-1" source="JxvNrINzljddjq5fo3BZ-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="JxvNrINzljddjq5fo3BZ-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-4" edge="1" parent="JxvNrINzljddjq5fo3BZ-1" source="JxvNrINzljddjq5fo3BZ-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="JxvNrINzljddjq5fo3BZ-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-5" edge="1" parent="JxvNrINzljddjq5fo3BZ-1" source="JxvNrINzljddjq5fo3BZ-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="JxvNrINzljddjq5fo3BZ-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-6" edge="1" parent="JxvNrINzljddjq5fo3BZ-1" source="JxvNrINzljddjq5fo3BZ-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="JxvNrINzljddjq5fo3BZ-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-7" parent="JxvNrINzljddjq5fo3BZ-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Kasir" vertex="1">
-          <mxGeometry height="60" width="30" y="126" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-8" parent="JxvNrINzljddjq5fo3BZ-1" style="ellipse;whiteSpace=wrap;html=1;" value="Scan Barcode&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="130" y="171" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-9" parent="JxvNrINzljddjq5fo3BZ-1" style="ellipse;whiteSpace=wrap;html=1;" value="Cetak Struk Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="130" y="256" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-10" parent="JxvNrINzljddjq5fo3BZ-1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="130" y="85" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-11" parent="JxvNrINzljddjq5fo3BZ-1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="60" width="120" x="130" as="geometry" />
-        </mxCell>
-        <mxCell id="JxvNrINzljddjq5fo3BZ-12" parent="JxvNrINzljddjq5fo3BZ-1" style="ellipse;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
-          <mxGeometry height="60" width="120" x="130" y="340" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
