@@ -2446,7 +2446,7 @@
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
           <mxGeometry height="60" width="120" x="305" as="geometry" />
         </mxCell>
-        <mxCell id="KzSZXPxtIppuCFI6Lqcn-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Lihat Laporan" vertex="1">
+        <mxCell id="KzSZXPxtIppuCFI6Lqcn-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Lihat Summary Laporan" vertex="1">
           <mxGeometry height="60" width="120" x="305" y="666" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Backup dan&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Restore Data&lt;/span&gt;" vertex="1">
