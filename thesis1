@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TY08jii9LgwZ9tSwlUbK" name="use-case-administrator">
-    <mxGraphModel dx="2560" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2417,40 +2417,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Pemilik Toko&lt;div&gt;(Administrator)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="60" y="380" as="geometry" />
+          <mxGeometry height="60" width="30" x="30" y="380" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="148" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="148" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="222" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="222" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="296" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="296" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Data Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="590" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="590" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola&lt;div&gt;Pengembalian&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="518" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="518" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Pantau Stok dan Notifikasi" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="368" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="368" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="740" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="740" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Kelola Pengguna" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="74" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="74" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="60" width="120" x="305" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Lihat Summary Laporan" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="666" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="666" as="geometry" />
         </mxCell>
         <mxCell id="KzSZXPxtIppuCFI6Lqcn-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Backup dan&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Restore Data&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="444" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="444" as="geometry" />
         </mxCell>
         <mxCell id="C00pwqgJsaeA2lpdnca2-10" edge="1" parent="1" source="C00pwqgJsaeA2lpdnca2-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="C00pwqgJsaeA2lpdnca2-18">
           <mxGeometry relative="1" as="geometry" />
