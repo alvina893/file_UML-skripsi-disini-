@@ -3614,7 +3614,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DidADssE-AhpUTGSSXYv-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tblbarang" vertex="1">
-          <mxGeometry height="234" width="180" x="80" y="40" as="geometry" />
+          <mxGeometry height="260" width="180" x="80" y="40" as="geometry" />
         </mxCell>
         <mxCell id="DidADssE-AhpUTGSSXYv-2" parent="DidADssE-AhpUTGSSXYv-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="barang_ID: integer" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -3637,8 +3637,11 @@
         <mxCell id="DidADssE-AhpUTGSSXYv-16" parent="DidADssE-AhpUTGSSXYv-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="stok: integer" vertex="1">
           <mxGeometry height="26" width="180" y="182" as="geometry" />
         </mxCell>
-        <mxCell id="DidADssE-AhpUTGSSXYv-14" parent="DidADssE-AhpUTGSSXYv-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="min_stok: integer" vertex="1">
+        <mxCell id="DidADssE-AhpUTGSSXYv-17" parent="DidADssE-AhpUTGSSXYv-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="min_stok: integer" vertex="1">
           <mxGeometry height="26" width="180" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="DidADssE-AhpUTGSSXYv-14" parent="DidADssE-AhpUTGSSXYv-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="barcode: blob" vertex="1">
+          <mxGeometry height="26" width="180" y="234" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
