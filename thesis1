@@ -2833,12 +2833,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WHuSyiZR5QvUj76w856L" name="admin-activity-stok">
-    <mxGraphModel dx="1280" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2560" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EXahoBi8N_f_pk358-Yt-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="770" width="310" x="590" y="280" as="geometry" />
+          <mxGeometry height="770" width="310" x="130" as="geometry" />
         </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-2" parent="EXahoBi8N_f_pk358-Yt-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -2853,7 +2853,7 @@
           <mxGeometry height="50" width="100" x="105" y="100" as="geometry" />
         </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-42" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="770" width="310" x="900" y="280" as="geometry" />
+          <mxGeometry height="770" width="310" x="440" as="geometry" />
         </mxCell>
         <mxCell id="1eIafAM1mV06f6Xi7pdY-3" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="EXahoBi8N_f_pk358-Yt-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1eIafAM1mV06f6Xi7pdY-2">
           <mxGeometry relative="1" as="geometry" />
@@ -2918,11 +2918,11 @@
         </mxCell>
         <mxCell id="5rC1mDAmDbNRErBGzYk2-1" edge="1" parent="1" source="5rC1mDAmDbNRErBGzYk2-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EXahoBi8N_f_pk358-Yt-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="874" y="451" as="targetPoint" />
+            <mxPoint x="414" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5rC1mDAmDbNRErBGzYk2-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Sudah login dan sudah simpan barang pada sistem" vertex="1">
-          <mxGeometry height="70" width="100" x="460" y="330" as="geometry" />
+          <mxGeometry height="70" width="100" y="50" as="geometry" />
         </mxCell>
         <mxCell id="1eIafAM1mV06f6Xi7pdY-1" edge="1" parent="1" source="EXahoBi8N_f_pk358-Yt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-43">
           <mxGeometry relative="1" as="geometry" />
