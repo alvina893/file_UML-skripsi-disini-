@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="1365" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1463" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -2461,7 +2461,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3axIqAc7zUdBJzdx_HqD-5" parent="MM1PgJB5sDvGe2ciH064-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Kasir" vertex="1">
-          <mxGeometry height="60" width="30" x="630" y="428" as="geometry" />
+          <mxGeometry height="60" width="30" x="1000" y="356" as="geometry" />
         </mxCell>
         <mxCell id="3axIqAc7zUdBJzdx_HqD-11" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="MM1PgJB5sDvGe2ciH064-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="3axIqAc7zUdBJzdx_HqD-5">
           <mxGeometry relative="1" as="geometry" />
