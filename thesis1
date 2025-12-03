@@ -2468,7 +2468,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-54" parent="oj6noQf9VgoxcanLBJzV-20" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Manajemen Stok" vertex="1">
-          <mxGeometry height="60" width="120" x="280" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="280" y="230" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-55" edge="1" parent="oj6noQf9VgoxcanLBJzV-20" source="oj6noQf9VgoxcanLBJzV-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" target="oj6noQf9VgoxcanLBJzV-54">
           <mxGeometry relative="1" as="geometry">
