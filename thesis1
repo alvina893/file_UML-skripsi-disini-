@@ -2395,10 +2395,10 @@
           <mxGeometry height="60" width="30" x="30" y="380" as="geometry" />
         </mxCell>
         <mxCell id="MM1PgJB5sDvGe2ciH064-22" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Login" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="130" y="130" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-20" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Barang" vertex="1">
-          <mxGeometry height="320" width="410" x="220" y="250" as="geometry" />
+          <mxGeometry height="320" width="410" x="250" y="200" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-21" edge="1" parent="oj6noQf9VgoxcanLBJzV-20" source="oj6noQf9VgoxcanLBJzV-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="oj6noQf9VgoxcanLBJzV-26">
           <mxGeometry relative="1" as="geometry" />
