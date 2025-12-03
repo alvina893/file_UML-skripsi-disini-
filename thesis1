@@ -2398,14 +2398,17 @@
         <mxCell id="oj6noQf9VgoxcanLBJzV-4" edge="1" parent="oj6noQf9VgoxcanLBJzV-0" source="oj6noQf9VgoxcanLBJzV-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="oj6noQf9VgoxcanLBJzV-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oj6noQf9VgoxcanLBJzV-5" edge="1" parent="oj6noQf9VgoxcanLBJzV-0" source="oj6noQf9VgoxcanLBJzV-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" target="oj6noQf9VgoxcanLBJzV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-1" parent="oj6noQf9VgoxcanLBJzV-0" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Kelola Barang" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="70" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-2" parent="oj6noQf9VgoxcanLBJzV-0" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Tambah Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="20" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="10" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-3" parent="oj6noQf9VgoxcanLBJzV-0" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Kelola Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="175" y="100" as="geometry" />
+          <mxGeometry height="60" width="120" x="175" y="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
