@@ -2466,6 +2466,21 @@
         <mxCell id="3axIqAc7zUdBJzdx_HqD-11" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="MM1PgJB5sDvGe2ciH064-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="3axIqAc7zUdBJzdx_HqD-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="C9lPFXrZxRVSw_vSsHgD-1" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="C9lPFXrZxRVSw_vSsHgD-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="C9lPFXrZxRVSw_vSsHgD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lPFXrZxRVSw_vSsHgD-2" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="C9lPFXrZxRVSw_vSsHgD-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="C9lPFXrZxRVSw_vSsHgD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lPFXrZxRVSw_vSsHgD-4" parent="MM1PgJB5sDvGe2ciH064-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Karyawan" vertex="1">
+          <mxGeometry height="60" width="30" x="740" y="766" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lPFXrZxRVSw_vSsHgD-5" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;" value="Tangani Penjualan&lt;div&gt;Pickup atau Delivery&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="860" y="811" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lPFXrZxRVSw_vSsHgD-7" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;" value="Pantau dan&lt;div&gt;Update Stok&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="880" y="725" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
