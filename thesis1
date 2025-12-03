@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="1463" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1862" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -2444,7 +2444,7 @@
           <mxGeometry height="60" width="120" x="275" y="74" as="geometry" />
         </mxCell>
         <mxCell id="MM1PgJB5sDvGe2ciH064-22" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Login" vertex="1">
-          <mxGeometry height="60" width="120" x="275" as="geometry" />
+          <mxGeometry height="60" width="120" x="275" y="-40" as="geometry" />
         </mxCell>
         <mxCell id="MM1PgJB5sDvGe2ciH064-23" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Lihat Summary Laporan" vertex="1">
           <mxGeometry height="60" width="120" x="275" y="666" as="geometry" />
@@ -2480,6 +2480,9 @@
         </mxCell>
         <mxCell id="C9lPFXrZxRVSw_vSsHgD-7" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;" value="Pantau dan&lt;div&gt;Update Stok&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="880" y="725" as="geometry" />
+        </mxCell>
+        <mxCell id="C9lPFXrZxRVSw_vSsHgD-10" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Kelola Pengguna" vertex="1">
+          <mxGeometry height="60" width="120" x="425" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
