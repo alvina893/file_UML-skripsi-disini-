@@ -2622,7 +2622,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-23" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengembalian" vertex="1">
-          <mxGeometry height="340" width="380" x="290" y="830" as="geometry" />
+          <mxGeometry height="340" width="380" x="290" y="810" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-24" edge="1" parent="kOapazWglloASJR2U3gI-23" source="kOapazWglloASJR2U3gI-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="kOapazWglloASJR2U3gI-27">
           <mxGeometry relative="1" as="geometry" />
@@ -2714,7 +2714,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-53" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengguna (User)" vertex="1">
-          <mxGeometry height="320" width="350" x="290" y="1210" as="geometry" />
+          <mxGeometry height="320" width="350" x="290" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-54" edge="1" parent="kOapazWglloASJR2U3gI-53" source="kOapazWglloASJR2U3gI-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="kOapazWglloASJR2U3gI-59">
           <mxGeometry relative="1" as="geometry" />
