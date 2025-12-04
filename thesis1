@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="2898" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1638" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -2832,10 +2832,32 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="419a63a_iopIq4f3sQxc-1" parent="kOapazWglloASJR2U3gI-69" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Cetak Struk Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="365" y="80" as="geometry" />
+          <mxGeometry height="60" width="120" x="355" y="40" as="geometry" />
         </mxCell>
         <mxCell id="1Kn8WIzt3ozXdrf0q4cj-0" parent="kOapazWglloASJR2U3gI-69" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Scan Barcode&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="235" y="50" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1Kn8WIzt3ozXdrf0q4cj-1" edge="1" parent="kOapazWglloASJR2U3gI-69" source="1Kn8WIzt3ozXdrf0q4cj-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="kOapazWglloASJR2U3gI-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="248" as="sourcePoint" />
+            <mxPoint x="200" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Kn8WIzt3ozXdrf0q4cj-2" connectable="0" parent="1Kn8WIzt3ozXdrf0q4cj-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0462" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Kn8WIzt3ozXdrf0q4cj-3" edge="1" parent="kOapazWglloASJR2U3gI-69" source="419a63a_iopIq4f3sQxc-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="kOapazWglloASJR2U3gI-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="225" y="100" as="sourcePoint" />
+            <mxPoint x="245" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1Kn8WIzt3ozXdrf0q4cj-4" connectable="0" parent="1Kn8WIzt3ozXdrf0q4cj-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0462" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m8h1nMfh1WURX6b9nuGs-7" parent="MM1PgJB5sDvGe2ciH064-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" value="Karyawan" vertex="1">
           <mxGeometry height="60" width="30" x="1130" y="610" as="geometry" />
