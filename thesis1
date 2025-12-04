@@ -2807,7 +2807,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-84" parent="MM1PgJB5sDvGe2ciH064-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" value="Kasir" vertex="1">
-          <mxGeometry height="60" width="30" x="1160" y="290" as="geometry" />
+          <mxGeometry height="60" width="30" x="1160" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
