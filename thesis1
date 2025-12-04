@@ -2485,7 +2485,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-37" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
-          <mxGeometry height="320" width="350" x="670" y="300" as="geometry" />
+          <mxGeometry height="320" width="350" x="670" y="280" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-38" edge="1" parent="oj6noQf9VgoxcanLBJzV-37" source="oj6noQf9VgoxcanLBJzV-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="oj6noQf9VgoxcanLBJzV-43">
           <mxGeometry relative="1" as="geometry" />
