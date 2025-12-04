@@ -2488,7 +2488,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-37" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
-          <mxGeometry height="320" width="400" x="-260" y="790" as="geometry" />
+          <mxGeometry height="300" width="400" x="-270" y="740" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-38" edge="1" parent="oj6noQf9VgoxcanLBJzV-37" source="oj6noQf9VgoxcanLBJzV-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="oj6noQf9VgoxcanLBJzV-43">
           <mxGeometry relative="1" as="geometry" />
@@ -2513,7 +2513,7 @@
           <mxGeometry height="60" width="120" x="270" y="140" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-44" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Update Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="220" y="220" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-45" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Hapus Supplier" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="190" as="geometry" />
