@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="888" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1243" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -2687,10 +2687,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kOapazWglloASJR2U3gI-47" parent="kOapazWglloASJR2U3gI-23" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Update Pembelian" vertex="1">
+        <mxCell id="kOapazWglloASJR2U3gI-47" parent="kOapazWglloASJR2U3gI-23" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Update Pengembalian" vertex="1">
           <mxGeometry height="60" width="120" x="170" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="kOapazWglloASJR2U3gI-48" parent="kOapazWglloASJR2U3gI-23" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Hapus Pembelian" vertex="1">
+        <mxCell id="kOapazWglloASJR2U3gI-48" parent="kOapazWglloASJR2U3gI-23" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Hapus&lt;div&gt;Pengembalian&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="100" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-50" edge="1" parent="kOapazWglloASJR2U3gI-23" source="kOapazWglloASJR2U3gI-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" target="kOapazWglloASJR2U3gI-48">
