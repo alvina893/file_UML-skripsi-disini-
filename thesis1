@@ -2838,7 +2838,19 @@
           <mxGeometry height="60" width="30" x="1160" y="270" as="geometry" />
         </mxCell>
         <mxCell id="m8h1nMfh1WURX6b9nuGs-7" parent="MM1PgJB5sDvGe2ciH064-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" value="Karyawan" vertex="1">
-          <mxGeometry height="60" width="30" x="1150" y="410" as="geometry" />
+          <mxGeometry height="60" width="30" x="1160" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="m8h1nMfh1WURX6b9nuGs-8" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="m8h1nMfh1WURX6b9nuGs-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="m8h1nMfh1WURX6b9nuGs-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1258" y="320" as="sourcePoint" />
+            <mxPoint x="1080" y="359" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8h1nMfh1WURX6b9nuGs-9" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="m8h1nMfh1WURX6b9nuGs-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="m8h1nMfh1WURX6b9nuGs-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="450" as="sourcePoint" />
+            <mxPoint x="1100" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
