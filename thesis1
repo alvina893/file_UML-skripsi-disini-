@@ -2541,7 +2541,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-3" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembelian" vertex="1">
-          <mxGeometry height="320" width="350" x="210" y="790" as="geometry" />
+          <mxGeometry height="300" width="350" x="210" y="790" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-4" edge="1" parent="kOapazWglloASJR2U3gI-3" source="kOapazWglloASJR2U3gI-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="kOapazWglloASJR2U3gI-9">
           <mxGeometry relative="1" as="geometry" />
