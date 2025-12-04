@@ -2837,6 +2837,9 @@
         <mxCell id="kOapazWglloASJR2U3gI-84" parent="MM1PgJB5sDvGe2ciH064-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" value="Kasir" vertex="1">
           <mxGeometry height="60" width="30" x="1160" y="270" as="geometry" />
         </mxCell>
+        <mxCell id="m8h1nMfh1WURX6b9nuGs-7" parent="MM1PgJB5sDvGe2ciH064-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" value="Karyawan" vertex="1">
+          <mxGeometry height="60" width="30" x="1150" y="410" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
