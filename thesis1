@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="1243" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -2504,10 +2504,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-42" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Kelola Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="140" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-43" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Tambah Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="90" y="30" as="geometry" />
+          <mxGeometry height="60" width="120" x="70" y="40" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-44" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Update Supplier" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="90" as="geometry" />
