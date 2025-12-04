@@ -2507,13 +2507,13 @@
           <mxGeometry height="60" width="120" x="20" y="130" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-43" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Tambah Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="70" y="30" as="geometry" />
+          <mxGeometry height="60" width="120" x="90" y="30" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-44" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Update Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="90" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="90" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-45" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Hapus Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="200" as="geometry" />
+          <mxGeometry height="60" width="120" x="190" y="200" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-46" edge="1" parent="oj6noQf9VgoxcanLBJzV-37" source="oj6noQf9VgoxcanLBJzV-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" target="oj6noQf9VgoxcanLBJzV-45">
           <mxGeometry relative="1" as="geometry">
@@ -2527,7 +2527,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-48" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Cari Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="30" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="240" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-49" edge="1" parent="oj6noQf9VgoxcanLBJzV-37" source="oj6noQf9VgoxcanLBJzV-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" target="oj6noQf9VgoxcanLBJzV-42">
           <mxGeometry relative="1" as="geometry">
