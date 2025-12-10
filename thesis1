@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="706" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -2521,7 +2521,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-42" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Kelola Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="230" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="40" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-43" parent="oj6noQf9VgoxcanLBJzV-37" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Tambah Supplier" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="170" as="geometry" />
@@ -2589,7 +2589,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-17" parent="kOapazWglloASJR2U3gI-3" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Update Stok" vertex="1">
-          <mxGeometry height="60" width="120" x="70" y="230" as="geometry" />
+          <mxGeometry height="60" width="120" x="80" y="230" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-20" edge="1" parent="kOapazWglloASJR2U3gI-3" source="kOapazWglloASJR2U3gI-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="kOapazWglloASJR2U3gI-17">
           <mxGeometry relative="1" as="geometry">
@@ -2751,20 +2751,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-63" connectable="0" parent="kOapazWglloASJR2U3gI-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.1566" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kOapazWglloASJR2U3gI-64" parent="kOapazWglloASJR2U3gI-53" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Ganti Password" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="120" as="geometry" />
-        </mxCell>
-        <mxCell id="kOapazWglloASJR2U3gI-65" edge="1" parent="kOapazWglloASJR2U3gI-53" source="kOapazWglloASJR2U3gI-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="kOapazWglloASJR2U3gI-58">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="160" y="195" as="sourcePoint" />
-            <mxPoint x="130" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kOapazWglloASJR2U3gI-66" connectable="0" parent="kOapazWglloASJR2U3gI-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1566" y="-2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
