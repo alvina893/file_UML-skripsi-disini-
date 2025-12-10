@@ -4483,7 +4483,7 @@
         <mxCell id="aWHdGkKKbTbBAsQwKWmN-5" parent="aWHdGkKKbTbBAsQwKWmN-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;harga_baru: decimal&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="104" as="geometry" />
         </mxCell>
-        <mxCell id="aWHdGkKKbTbBAsQwKWmN-6" parent="aWHdGkKKbTbBAsQwKWmN-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;mode_perubahan: varchar&lt;/span&gt;" vertex="1">
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-6" parent="aWHdGkKKbTbBAsQwKWmN-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;mode_perubahan: enum&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="130" as="geometry" />
         </mxCell>
         <mxCell id="aWHdGkKKbTbBAsQwKWmN-7" parent="aWHdGkKKbTbBAsQwKWmN-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;nilai_perubahan: decimal&amp;nbsp;&lt;/span&gt;" vertex="1">
