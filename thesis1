@@ -3979,6 +3979,14 @@
             <mxPoint x="1260" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="c82wmpA-trZrPosOsK4I-19" edge="1" parent="1" source="c82wmpA-trZrPosOsK4I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="c82wmpA-trZrPosOsK4I-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1215" y="-260" />
+              <mxPoint x="1625" y="-260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Kategori" vertex="1">
           <mxGeometry height="78" width="180" x="1125" y="-210" as="geometry" />
         </mxCell>
