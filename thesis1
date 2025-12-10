@@ -4372,7 +4372,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="freNpaHGzFVdYhCH1ksg" name="Page-37">
-    <mxGraphModel dx="890" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="1528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4415,7 +4415,7 @@
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tbldetailpembelian ----------------------- detail_ID: int no_pembelian: varchar(30) kode_barang: varchar(50) nama_barang: varchar(150) qty: int satuan: varchar(50) harga_beli: decimal subtotal: decimal" vertex="1">
           <mxGeometry height="180" width="360" x="100" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tblpenjualan ----------------------- penjualan_ID: int tanggal: datetime no_penjualan: varchar(50) jenis_penjualan: enum (total_penjualan etc.) total_penjualan: decimal dana_diterima: decimal kembalian: decimal metode_pembayaran: enum status_penjualan: enum catatan: varchar(250) atas_nama: varchar(100) kontak_penerima: varchar(50) alamat: text status_pengiriman: enum barcode_pengiriman: blob" vertex="1">
+        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="-----------------------&amp;nbsp; &amp;nbsp; (total_penjualan etc.)&amp;nbsp; &amp;nbsp; &amp;nbsp; (250) atas_nama: varchar(100) kontak_penerima: varchar(50) alamat: text status_pengiriman: enum barcode_pengiriman: blob" vertex="1">
           <mxGeometry height="300" width="360" x="970" y="580" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tbldetailpenjualan ----------------------- detail_ID: int no_penjualan: varchar(50) kode_barang: varchar(50) nama_barang: varchar(150) qty: int satuan: varchar(50) harga: decimal subtotal: decimal" vertex="1">
@@ -4506,6 +4506,39 @@
         </mxCell>
         <mxCell id="aWHdGkKKbTbBAsQwKWmN-14" parent="aWHdGkKKbTbBAsQwKWmN-11" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;dana_uangKecil: decimal&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-20" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tblpenjualan" vertex="1">
+          <mxGeometry height="286" width="180" x="1430" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-21" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;penjualan_ID: int&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-22" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;tanggal: datetime&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-23" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;no_penjualan: varchar&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-24" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;jenis_penjualan: enum&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-25" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;total_penjualan: decimal&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-26" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;dana_diterima: decimal&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-27" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;kembalian: decimal&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-30" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;metode_pembayaran: enum&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="208" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-31" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;status_penjualan: enum&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="aWHdGkKKbTbBAsQwKWmN-32" parent="aWHdGkKKbTbBAsQwKWmN-20" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;catatan: varchar&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
