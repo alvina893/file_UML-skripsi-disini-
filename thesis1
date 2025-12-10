@@ -4427,9 +4427,6 @@
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tbldetailpengembalian ----------------------- detail_ID: int no_pengembalian: varchar(30) kode_barang: varchar(50) nama_barang: varchar(150) qty: int satuan: varchar(50) harga: decimal subtotal: decimal" vertex="1">
           <mxGeometry height="160" width="320" x="420" y="760" as="geometry" />
         </mxCell>
-        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="-----------------------&amp;nbsp;" vertex="1">
-          <mxGeometry height="160" width="360" x="1430" y="40" as="geometry" />
-        </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tbluangKecil ----------------------- uangKecil_ID: int tanggal: date dana_uangKecil: decimal" vertex="1">
           <mxGeometry height="100" width="300" x="1460" y="260" as="geometry" />
         </mxCell>
@@ -4463,7 +4460,7 @@
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-29" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-17" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="0XlWqtdvGIdpc-v3Cv4M-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-30" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-18" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;dashed=1" target="0XlWqtdvGIdpc-v3Cv4M-11">
+        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-30" edge="1" parent="1" source="aWHdGkKKbTbBAsQwKWmN-5" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="0XlWqtdvGIdpc-v3Cv4M-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-31" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-14" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;dashed=1" target="0XlWqtdvGIdpc-v3Cv4M-8">
@@ -4476,7 +4473,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aWHdGkKKbTbBAsQwKWmN-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tblhargajualhistory" vertex="1">
-          <mxGeometry height="208" width="180" x="1840" y="110" as="geometry" />
+          <mxGeometry height="208" width="180" x="1460" y="30" as="geometry" />
         </mxCell>
         <mxCell id="aWHdGkKKbTbBAsQwKWmN-2" parent="aWHdGkKKbTbBAsQwKWmN-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;history_id: int&amp;nbsp;&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
