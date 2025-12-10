@@ -2404,7 +2404,7 @@
           <mxGeometry height="60" width="120" x="275" y="240" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-20" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Barang" vertex="1">
-          <mxGeometry height="360" width="460" x="550" y="410" as="geometry" />
+          <mxGeometry height="360" width="440" x="550" y="410" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-21" edge="1" parent="oj6noQf9VgoxcanLBJzV-20" source="oj6noQf9VgoxcanLBJzV-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="oj6noQf9VgoxcanLBJzV-26">
           <mxGeometry relative="1" as="geometry" />
