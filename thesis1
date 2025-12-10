@@ -2379,7 +2379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="1946" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2714" dy="1182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -2474,7 +2474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-54" parent="oj6noQf9VgoxcanLBJzV-20" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Manajemen Stok" vertex="1">
-          <mxGeometry height="60" width="120" x="290" y="180" as="geometry" />
+          <mxGeometry height="60" width="120" x="295" y="170" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-55" edge="1" parent="oj6noQf9VgoxcanLBJzV-20" source="oj6noQf9VgoxcanLBJzV-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" target="oj6noQf9VgoxcanLBJzV-54">
           <mxGeometry relative="1" as="geometry">
@@ -2860,7 +2860,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m8h1nMfh1WURX6b9nuGs-7" parent="MM1PgJB5sDvGe2ciH064-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;" value="Karyawan" vertex="1">
-          <mxGeometry height="60" width="30" x="1085" y="600" as="geometry" />
+          <mxGeometry height="60" width="30" x="1085" y="550" as="geometry" />
         </mxCell>
         <mxCell id="m8h1nMfh1WURX6b9nuGs-8" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="m8h1nMfh1WURX6b9nuGs-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="m8h1nMfh1WURX6b9nuGs-0">
           <mxGeometry relative="1" as="geometry">
