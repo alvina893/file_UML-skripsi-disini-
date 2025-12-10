@@ -4006,7 +4006,7 @@
           <mxGeometry height="26" width="180" y="156" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="78" width="180" x="1610" y="-219" as="geometry" />
+          <mxGeometry height="78" width="180" x="1610" y="-237" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-20" parent="c82wmpA-trZrPosOsK4I-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;inputPenjualan()&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -4015,7 +4015,7 @@
           <mxGeometry height="26" width="180" y="52" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
-          <mxGeometry height="104" width="180" x="1375" y="-238" as="geometry" />
+          <mxGeometry height="104" width="180" x="1375" y="-250" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-17" parent="c82wmpA-trZrPosOsK4I-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;ajukanPengembalian()&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
