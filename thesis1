@@ -3609,7 +3609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="freNpaHGzFVdYhCH1ksg" name="class-diagram-pos">
-    <mxGraphModel dx="294" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3985,7 +3985,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Administrator" vertex="1">
-          <mxGeometry height="182" width="180" x="1140" y="-289" as="geometry" />
+          <mxGeometry height="234" width="180" x="1140" y="-356" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-22" parent="c82wmpA-trZrPosOsK4I-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;kelolaUser()&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -4004,6 +4004,12 @@
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-28" parent="c82wmpA-trZrPosOsK4I-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;verifikasiPengembalian()&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="c82wmpA-trZrPosOsK4I-32" parent="c82wmpA-trZrPosOsK4I-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;kelolaKategori()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="c82wmpA-trZrPosOsK4I-33" parent="c82wmpA-trZrPosOsK4I-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;kelolaSatuan()&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="208" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
           <mxGeometry height="78" width="180" x="1610" y="-237" as="geometry" />
