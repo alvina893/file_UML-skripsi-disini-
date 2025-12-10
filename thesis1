@@ -2653,7 +2653,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-31" parent="kOapazWglloASJR2U3gI-23" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Update Stok dari Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="210" y="170" as="geometry" />
+          <mxGeometry height="60" width="120" x="230" y="180" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-32" edge="1" parent="kOapazWglloASJR2U3gI-23" source="kOapazWglloASJR2U3gI-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" target="kOapazWglloASJR2U3gI-31">
           <mxGeometry relative="1" as="geometry">
@@ -2694,7 +2694,7 @@
           <mxGeometry height="60" width="120" x="170" y="40" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-48" parent="kOapazWglloASJR2U3gI-23" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Hapus&lt;div&gt;Pengembalian&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="100" as="geometry" />
+          <mxGeometry height="60" width="120" x="230" y="110" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-50" edge="1" parent="kOapazWglloASJR2U3gI-23" source="kOapazWglloASJR2U3gI-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;endFill=0;dashed=1;" target="kOapazWglloASJR2U3gI-48">
           <mxGeometry relative="1" as="geometry">
