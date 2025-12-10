@@ -4372,7 +4372,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="freNpaHGzFVdYhCH1ksg" name="Page-37">
-    <mxGraphModel dx="2276" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4391,8 +4391,8 @@
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D0021B;strokeWidth=3;fillColor=none" value="Returns" vertex="1">
           <mxGeometry height="360" width="520" x="20" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9B9B9B;strokeWidth=3;fillColor=none" value="Logs" vertex="1">
-          <mxGeometry height="420" width="420" x="1120" y="20" as="geometry" />
+        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9B9B9B;strokeWidth=3;fillColor=none" value="" vertex="1">
+          <mxGeometry height="420" width="420" x="1400" y="10" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tbluser ----------------------- user_ID: int name: varchar(100) username: varchar(50) role: varchar(50) password_hash: varchar(255) password_salt: varchar(255)" vertex="1">
           <mxGeometry height="160" width="240" x="40" y="40" as="geometry" />
@@ -4428,10 +4428,10 @@
           <mxGeometry height="160" width="320" x="420" y="760" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tblhargajualhistory ----------------------- history_id: int kode_barang: varchar(50) harga_lama: decimal harga_baru: decimal mode_perubahan: varchar(30) nilai_perubahan: decimal tanggal: datetime" vertex="1">
-          <mxGeometry height="160" width="360" x="1140" y="40" as="geometry" />
+          <mxGeometry height="160" width="360" x="1420" y="40" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tbluangKecil ----------------------- uangKecil_ID: int tanggal: date dana_uangKecil: decimal" vertex="1">
-          <mxGeometry height="100" width="300" x="1140" y="220" as="geometry" />
+          <mxGeometry height="100" width="300" x="1440" y="260" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-20" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-11" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="0XlWqtdvGIdpc-v3Cv4M-9">
           <mxGeometry relative="1" as="geometry" />
