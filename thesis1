@@ -4137,7 +4137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5G79Gu1qEizVc-FOGNmj" name="class diagram">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2560" dy="1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4206,6 +4206,84 @@
         </mxCell>
         <mxCell id="DidADssE-AhpUTGSSXYv-36" parent="DidADssE-AhpUTGSSXYv-34" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="nma_kategori: varchar" vertex="1">
           <mxGeometry height="26" width="180" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A90E2;strokeColor=#2F6FB5;fontColor=#ffffff" value="tbluser ---------------------- user_ID: int name: varchar(100) username: varchar(50) role: varchar(50) password_hash: varchar(255) password_salt: varchar(255)" vertex="1">
+          <mxGeometry height="160" width="220" x="80" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A90E2;strokeColor=#2F6FB5;fontColor=#ffffff" value="tblsupplier ---------------------- supplier_ID: int nama_supplier: varchar(150) kontak: varchar(100) alamat: varchar(250) catatan: varchar(250)" vertex="1">
+          <mxGeometry height="160" width="240" x="80" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A90E2;strokeColor=#2F6FB5;fontColor=#ffffff" value="tblkategori ---------------------- kategori_ID: int nama_kategori: varchar(100)" vertex="1">
+          <mxGeometry height="100" width="220" x="360" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4A90E2;strokeColor=#2F6FB5;fontColor=#ffffff" value="tblsatuan ---------------------- satuan_ID: int nama_satuan: varchar(100)" vertex="1">
+          <mxGeometry height="100" width="220" x="360" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7ED321;strokeColor=#5CA81A;fontColor=#000000" value="tblbarang ---------------------- barang_ID: int kode_barang: varchar(50) nama_barang: varchar(150) kategori_ID: int satuan_ID: int harga_beli: decimal harga_jual: decimal min_stok: int stok: int barcode: blob" vertex="1">
+          <mxGeometry height="240" width="300" x="620" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#50E3C2;strokeColor=#36BFA6;fontColor=#000000" value="tblpembelian ---------------------- pembelian_ID: int no_pembelian: varchar(30) tanggal: date supplier_ID: int nama_supplier: varchar(150) total: decimal" vertex="1">
+          <mxGeometry height="140" width="280" x="80" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#50E3C2;strokeColor=#36BFA6;fontColor=#000000" value="tbldetailpembelian ---------------------- detail_ID: int no_pembelian: varchar(30) kode_barang: varchar(50) nama_barang: varchar(150) qty: int satuan: varchar(50) harga_beli: decimal subtotal: decimal" vertex="1">
+          <mxGeometry height="200" width="320" x="400" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5A623;strokeColor=#D48909;fontColor=#000000" value="tblpenjualan ---------------------- penjualan_ID: int tanggal: datetime no_penjualan: varchar(50) jenis_penjualan: enum(&#39;Langsung&#39;,&#39;Delivery&#39;,&#39;Pickup&#39;) total_penjualan: decimal dana_diterima: decimal kembalian: decimal metode_pembayaran: enum(&#39;Tunai&#39;,&#39;Non-Tunai&#39;) status_penjualan: enum(&#39;Lunas&#39;,&#39;Pending&#39;) catatan: varchar(250) atas_nama: varchar(100) kontak_penerima: varchar(50) alamat: text status_pengiriman: enum(&#39;Pending&#39;,&#39;Packing&#39;,&#39;Siap Pickup&#39;,&#39;Siap Diantar&#39;,&#39;Selesai&#39;) barcode_pengiriman: blob" vertex="1">
+          <mxGeometry height="380" width="320" x="780" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F5A623;strokeColor=#D48909;fontColor=#000000" value="tbldetailpenjualan ---------------------- detail_ID: int no_penjualan: varchar(50) kode_barang: varchar(50) nama_barang: varchar(150) qty: int satuan: varchar(50) harga: decimal subtotal: decimal" vertex="1">
+          <mxGeometry height="200" width="320" x="400" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0021B;strokeColor=#9B0015;fontColor=#ffffff" value="tblpengembalian ---------------------- pengembalian_ID: int no_pengembalian: varchar(30) tanggal: date metode_pengembalian: enum(&#39;Tukar Guling&#39;,&#39;Refund (Dana)&#39;,&#39;Batal&#39;) supplier_ID: int nama_supplier: varchar(150) total_retur: decimal status_pengembalian: enum(&#39;Telah Diajukan&#39;,&#39;Konfirmasi&#39;,&#39;Batal&#39;)" vertex="1">
+          <mxGeometry height="200" width="320" x="80" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0021B;strokeColor=#9B0015;fontColor=#ffffff" value="tbldetailpengembalian ---------------------- detail_ID: int no_pengembalian: varchar(30) kode_barang: varchar(50) nama_barang: varchar(150) qty: int satuan: varchar(50) harga: decimal subtotal: decimal" vertex="1">
+          <mxGeometry height="180" width="320" x="80" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9B9B9B;strokeColor=#7A7A7A;fontColor=#000000" value="tblhargajualhistory ---------------------- history_id: int kode_barang: varchar(50) harga_lama: decimal harga_baru: decimal mode_perubahan: varchar(30) nilai_perubahan: decimal tanggal: datetime" vertex="1">
+          <mxGeometry height="180" width="300" x="1020" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9B9B9B;strokeColor=#7A7A7A;fontColor=#000000" value="tbluangKecil ---------------------- uangKecil_ID: int tanggal: date dana_uangKecil: decimal" vertex="1">
+          <mxGeometry height="120" width="260" x="1020" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-14" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-5" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-15" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-5" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-16" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-6" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-17" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-7" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-18" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-7" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-19" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-9" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-20" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-9" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-21" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-10" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-22" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-11" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-23" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-11" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="7Pt81c7I7_SeQsF3Y6Oh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-24" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-12" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000;dashed=1" target="7Pt81c7I7_SeQsF3Y6Oh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-25" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-8" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000;dashed=1" target="7Pt81c7I7_SeQsF3Y6Oh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7Pt81c7I7_SeQsF3Y6Oh-26" edge="1" parent="1" source="7Pt81c7I7_SeQsF3Y6Oh-8" style="endArrow=classic;rounded=0;orthogonalLoop=1;strokeColor=#000000;dashed=1" target="7Pt81c7I7_SeQsF3Y6Oh-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
