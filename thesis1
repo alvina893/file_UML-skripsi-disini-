@@ -3609,7 +3609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="freNpaHGzFVdYhCH1ksg" name="class-diagram-pos">
-    <mxGraphModel dx="819" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1463" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3626,7 +3626,7 @@
           <mxGeometry height="520" width="560" x="810" y="540" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D0021B;strokeWidth=3;fillColor=none" value="" vertex="1">
-          <mxGeometry height="360" width="520" x="20" y="740" as="geometry" />
+          <mxGeometry height="360" width="520" x="165" y="770" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9B9B9B;strokeWidth=3;fillColor=none" value="" vertex="1">
           <mxGeometry height="420" width="290" x="1400" y="10" as="geometry" />
@@ -3752,7 +3752,7 @@
           <mxGeometry height="26" width="180" y="208" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tbldetailpengembalian" vertex="1">
-          <mxGeometry height="234" width="180" x="90" y="790" as="geometry" />
+          <mxGeometry height="234" width="180" x="235" y="820" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-2" parent="QDe_VTnt0rIk6QRO4zF1-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;detail_ID: int&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -3779,7 +3779,7 @@
           <mxGeometry height="26" width="180" y="208" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tblpengembalian" vertex="1">
-          <mxGeometry height="260" width="180" x="320" y="790" as="geometry" />
+          <mxGeometry height="260" width="180" x="465" y="820" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-11" parent="QDe_VTnt0rIk6QRO4zF1-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;pengembalian_ID: int&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
