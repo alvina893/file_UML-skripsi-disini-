@@ -3629,7 +3629,7 @@
           <mxGeometry height="520" width="560" x="995" y="530" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#D0021B;strokeWidth=3;fillColor=none" value="" vertex="1">
-          <mxGeometry height="360" width="485" x="200" y="770" as="geometry" />
+          <mxGeometry height="360" width="485" x="183" y="380" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#9B9B9B;strokeWidth=3;fillColor=none" value="" vertex="1">
           <mxGeometry height="420" width="260" x="1330" y="30" as="geometry" />
@@ -3755,7 +3755,7 @@
           <mxGeometry height="26" width="180" y="208" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Detail Pengembalian" vertex="1">
-          <mxGeometry height="234" width="180" x="235" y="820" as="geometry" />
+          <mxGeometry height="234" width="180" x="218" y="430" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-2" parent="QDe_VTnt0rIk6QRO4zF1-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;detail_ID: int&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -3782,7 +3782,7 @@
           <mxGeometry height="26" width="180" y="208" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Pengembalian" vertex="1">
-          <mxGeometry height="260" width="180" x="465" y="820" as="geometry" />
+          <mxGeometry height="260" width="180" x="448" y="430" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-11" parent="QDe_VTnt0rIk6QRO4zF1-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;pengembalian_ID: int&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
