@@ -3609,12 +3609,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="freNpaHGzFVdYhCH1ksg" name="class-diagram-pos">
-    <mxGraphModel dx="882" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2028" dy="2170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="c82wmpA-trZrPosOsK4I-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000, #4481c7);strokeWidth=3;fillColor=none" value="" vertex="1">
-          <mxGeometry height="550" width="720" x="1100" y="-640" as="geometry" />
+          <mxGeometry height="550" width="720" x="1100" y="-787" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A90E2;strokeWidth=3;fillColor=none" value="" vertex="1">
           <mxGeometry height="260" width="520" x="180" y="-380" as="geometry" />
@@ -3935,7 +3935,7 @@
           <mxGeometry height="26" width="180" y="130" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-99" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="User" vertex="1">
-          <mxGeometry height="182" width="180" x="1374" y="-620" as="geometry" />
+          <mxGeometry height="182" width="180" x="1374" y="-767" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-100" parent="QDe_VTnt0rIk6QRO4zF1-99" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;user_ID: int&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -3985,7 +3985,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Administrator" vertex="1">
-          <mxGeometry height="286" width="180" x="1140" y="-395" as="geometry" />
+          <mxGeometry height="286" width="180" x="1140" y="-542" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-22" parent="c82wmpA-trZrPosOsK4I-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;kelolaUser()&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -4018,7 +4018,7 @@
           <mxGeometry height="26" width="180" y="260" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="78" width="180" x="1610" y="-237" as="geometry" />
+          <mxGeometry height="78" width="180" x="1610" y="-384" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-20" parent="c82wmpA-trZrPosOsK4I-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;inputPenjualan()&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -4027,7 +4027,7 @@
           <mxGeometry height="26" width="180" y="52" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-15" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
-          <mxGeometry height="104" width="180" x="1374" y="-250" as="geometry" />
+          <mxGeometry height="104" width="180" x="1374" y="-397" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-17" parent="c82wmpA-trZrPosOsK4I-15" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;ajukanPengembalian()&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -4045,6 +4045,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-31" edge="1" parent="1" source="QDe_VTnt0rIk6QRO4zF1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.472;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="QDe_VTnt0rIk6QRO4zF1-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c82wmpA-trZrPosOsK4I-36" edge="1" parent="1" source="c82wmpA-trZrPosOsK4I-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="0XlWqtdvGIdpc-v3Cv4M-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
