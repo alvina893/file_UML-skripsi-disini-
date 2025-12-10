@@ -4327,7 +4327,7 @@
           <mxGeometry height="240" width="420" x="810" y="-220" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="tbldetailpembelian ----------------------- detail_ID: int no_pembelian: varchar(30) kode_barang: varchar(50) nama_barang: varchar(150) qty: int satuan: varchar(50) harga_beli: decimal subtotal: decimal" vertex="1">
-          <mxGeometry height="180" width="360" x="100" y="530" as="geometry" />
+          <mxGeometry height="180" width="360" x="-420" y="310" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-20" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-11" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="0XlWqtdvGIdpc-v3Cv4M-9">
           <mxGeometry relative="1" as="geometry" />
@@ -4338,10 +4338,10 @@
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-22" edge="1" parent="1" source="QDe_VTnt0rIk6QRO4zF1-30" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="0XlWqtdvGIdpc-v3Cv4M-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-23" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-13" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="QDe_VTnt0rIk6QRO4zF1-35">
+        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-23" edge="1" parent="1" source="QDe_VTnt0rIk6QRO4zF1-44" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="QDe_VTnt0rIk6QRO4zF1-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-24" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-13" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="0XlWqtdvGIdpc-v3Cv4M-11">
+        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-24" edge="1" parent="1" source="QDe_VTnt0rIk6QRO4zF1-39" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="0XlWqtdvGIdpc-v3Cv4M-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-25" edge="1" parent="1" source="aWHdGkKKbTbBAsQwKWmN-43" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="aWHdGkKKbTbBAsQwKWmN-35">
@@ -4569,7 +4569,7 @@
           <mxGeometry height="26" width="180" y="208" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-30" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tblpembelian" vertex="1">
-          <mxGeometry height="182" width="180" x="-200" y="443" as="geometry" />
+          <mxGeometry height="182" width="180" x="40" y="430" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-31" parent="QDe_VTnt0rIk6QRO4zF1-30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;pembelian_ID: int&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
@@ -4588,6 +4588,33 @@
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-36" parent="QDe_VTnt0rIk6QRO4zF1-30" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;total: decimal&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-39" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tbldetailpengembalian" vertex="1">
+          <mxGeometry height="234" width="180" x="-230" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-40" parent="QDe_VTnt0rIk6QRO4zF1-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;detail_ID: int&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-41" parent="QDe_VTnt0rIk6QRO4zF1-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;no_pengembalian: varchar&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-42" parent="QDe_VTnt0rIk6QRO4zF1-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;kode_barang: varchar&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="78" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-43" parent="QDe_VTnt0rIk6QRO4zF1-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;nama_barang: varchar&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="104" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-44" parent="QDe_VTnt0rIk6QRO4zF1-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;qty: int&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-45" parent="QDe_VTnt0rIk6QRO4zF1-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;satuan: varchar&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-46" parent="QDe_VTnt0rIk6QRO4zF1-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;harga: decimal&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="182" as="geometry" />
+        </mxCell>
+        <mxCell id="QDe_VTnt0rIk6QRO4zF1-47" parent="QDe_VTnt0rIk6QRO4zF1-39" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;subtotal: decimal&lt;/span&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="208" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
