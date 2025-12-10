@@ -2710,7 +2710,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-53" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengguna (User)" vertex="1">
-          <mxGeometry height="280" width="350" x="10" y="390" as="geometry" />
+          <mxGeometry height="280" width="350" x="10" y="280" as="geometry" />
         </mxCell>
         <mxCell id="kOapazWglloASJR2U3gI-54" edge="1" parent="kOapazWglloASJR2U3gI-53" source="kOapazWglloASJR2U3gI-58" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="kOapazWglloASJR2U3gI-59">
           <mxGeometry relative="1" as="geometry">
