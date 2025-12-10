@@ -4289,7 +4289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="freNpaHGzFVdYhCH1ksg" name="class-diagram-pos">
-    <mxGraphModel dx="1024" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1874" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4333,7 +4333,7 @@
           <mxGeometry height="180" width="360" x="100" y="530" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000" value="----------------------- pengembalian_ID: int no_pengembalian: varchar(30) tanggal: date metode_pengembalian: enum supplier_ID: int nama_supplier: varchar(150) total_retur: decimal status_pengembalian: enum" vertex="1">
-          <mxGeometry height="160" width="360" x="40" y="760" as="geometry" />
+          <mxGeometry height="160" width="360" x="-250" y="836" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-20" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-11" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="0XlWqtdvGIdpc-v3Cv4M-9">
           <mxGeometry relative="1" as="geometry" />
@@ -4356,10 +4356,10 @@
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-26" edge="1" parent="1" source="aWHdGkKKbTbBAsQwKWmN-38" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="0XlWqtdvGIdpc-v3Cv4M-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-27" edge="1" parent="1" source="0XlWqtdvGIdpc-v3Cv4M-16" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000" target="0XlWqtdvGIdpc-v3Cv4M-8">
+        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-27" edge="1" parent="1" source="QDe_VTnt0rIk6QRO4zF1-10" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="0XlWqtdvGIdpc-v3Cv4M-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-28" edge="1" parent="1" source="QDe_VTnt0rIk6QRO4zF1-1" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="0XlWqtdvGIdpc-v3Cv4M-16">
+        <mxCell id="0XlWqtdvGIdpc-v3Cv4M-28" edge="1" parent="1" source="QDe_VTnt0rIk6QRO4zF1-1" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="QDe_VTnt0rIk6QRO4zF1-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0XlWqtdvGIdpc-v3Cv4M-29" edge="1" parent="1" source="QDe_VTnt0rIk6QRO4zF1-1" style="endArrow=block;rounded=0;orthogonalLoop=1;strokeColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="0XlWqtdvGIdpc-v3Cv4M-11">
@@ -4518,7 +4518,7 @@
           <mxGeometry height="26" width="180" y="208" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-10" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="tblpengembalian" vertex="1">
-          <mxGeometry height="234" width="180" x="500" y="1160" as="geometry" />
+          <mxGeometry height="234" width="180" x="60" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="QDe_VTnt0rIk6QRO4zF1-11" parent="QDe_VTnt0rIk6QRO4zF1-10" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: center;&quot;&gt;-&lt;/span&gt;" vertex="1">
           <mxGeometry height="26" width="180" y="26" as="geometry" />
