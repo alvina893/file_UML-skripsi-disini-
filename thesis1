@@ -2968,7 +2968,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZkdKDVLzf9ZRBfxSJ7LL" name="admin-activity-pembelian">
-    <mxGraphModel dx="706" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1825" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3002,28 +3002,28 @@
           <mxGeometry height="50" width="100" x="135" y="381" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-13" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan atau Input&lt;div&gt;Kode Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="230" y="618" as="geometry" />
+          <mxGeometry height="50" width="100" x="60" y="618" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-14" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty" vertex="1">
-          <mxGeometry height="50" width="100" x="230" y="698" as="geometry" />
+          <mxGeometry height="50" width="100" x="60" y="698" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-15" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="qSfW9CH8Ka733of-UM4c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qSfW9CH8Ka733of-UM4c-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-46" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tambah ke List" vertex="1">
-          <mxGeometry height="50" width="100" x="230" y="798" as="geometry" />
+          <mxGeometry height="50" width="100" x="60" y="798" as="geometry" />
         </mxCell>
         <mxCell id="V6v30hVfR8jZXQF5jndL-4" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Simpan Pembelian" vertex="1">
-          <mxGeometry height="50" width="100" x="230" y="1031" as="geometry" />
+          <mxGeometry height="50" width="100" x="60" y="1031" as="geometry" />
         </mxCell>
         <mxCell id="sZB2CP7lKKuYpajfbTQW-1" parent="qSfW9CH8Ka733of-UM4c-1" style="rhombus;whiteSpace=wrap;html=1;" value="pembelian lengkap?" vertex="1">
-          <mxGeometry height="40" width="100" x="230" y="906" as="geometry" />
+          <mxGeometry height="40" width="100" x="60" y="906" as="geometry" />
         </mxCell>
         <mxCell id="V6v30hVfR8jZXQF5jndL-2" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="sZB2CP7lKKuYpajfbTQW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="926" />
-              <mxPoint x="180" y="643" />
+              <mxPoint x="23.5" y="926" />
+              <mxPoint x="23.5" y="643" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3040,29 +3040,18 @@
             <mxPoint x="-2" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CVOz3VTjPCm7RbOz1h-t-6" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="CVOz3VTjPCm7RbOz1h-t-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CVOz3VTjPCm7RbOz1h-t-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.93" y="478" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CVOz3VTjPCm7RbOz1h-t-9" connectable="0" parent="CVOz3VTjPCm7RbOz1h-t-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak ada" vertex="1">
-          <mxGeometry relative="1" x="0.4272" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CVOz3VTjPCm7RbOz1h-t-1" parent="qSfW9CH8Ka733of-UM4c-1" style="rhombus;whiteSpace=wrap;html=1;" value="ada barangnya?" vertex="1">
           <mxGeometry height="40" width="100" x="135" y="528" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-35" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="CVOz3VTjPCm7RbOz1h-t-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qSfW9CH8Ka733of-UM4c-35" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="CVOz3VTjPCm7RbOz1h-t-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="78.5" y="548" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CVOz3VTjPCm7RbOz1h-t-3" connectable="0" parent="qSfW9CH8Ka733of-UM4c-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="ada" vertex="1">
           <mxGeometry relative="1" x="-0.0614" y="-1" as="geometry">
             <mxPoint x="1" y="11" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="CVOz3VTjPCm7RbOz1h-t-4" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Barang Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="35" y="618" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1270" width="290" x="440" y="3" as="geometry" />
@@ -3180,6 +3169,20 @@
             <mxPoint x="595" y="433" as="sourcePoint" />
             <mxPoint x="285" y="523" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CVOz3VTjPCm7RbOz1h-t-6" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CVOz3VTjPCm7RbOz1h-t-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="400" as="sourcePoint" />
+            <mxPoint x="4.930000000000007" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVOz3VTjPCm7RbOz1h-t-9" connectable="0" parent="CVOz3VTjPCm7RbOz1h-t-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak ada" vertex="1">
+          <mxGeometry relative="1" x="0.4272" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CVOz3VTjPCm7RbOz1h-t-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Barang Baru" vertex="1">
+          <mxGeometry height="50" width="100" x="-110" y="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
