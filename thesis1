@@ -2996,13 +2996,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-7" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Tanggal Pembelian" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="310" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="281" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-11" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Nama Supplier" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="400" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="381" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-13" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan atau Input&lt;div&gt;Kode Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="531" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="521" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-14" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="611" as="geometry" />
@@ -3022,8 +3022,8 @@
         <mxCell id="V6v30hVfR8jZXQF5jndL-2" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="sZB2CP7lKKuYpajfbTQW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="911" />
-              <mxPoint x="80" y="556" />
+              <mxPoint x="60" y="911" />
+              <mxPoint x="60" y="546" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3059,7 +3059,7 @@
           <mxGeometry height="50" width="135" x="87.5" y="190" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-34" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Isi ID Supplier dari Database" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="400" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="380" as="geometry" />
         </mxCell>
         <mxCell id="uLjrsxImxXesXMk2FjS1-3" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="V6v30hVfR8jZXQF5jndL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uLjrsxImxXesXMk2FjS1-2">
           <mxGeometry relative="1" as="geometry" />
@@ -3108,7 +3108,7 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-28" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-29" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-7">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-29" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-10" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-34">
