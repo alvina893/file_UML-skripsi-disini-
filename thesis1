@@ -3609,7 +3609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="freNpaHGzFVdYhCH1ksg" name="class-diagram-pos">
-    <mxGraphModel dx="1078" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="731" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4051,6 +4051,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="220" as="sourcePoint" />
             <mxPoint x="1260" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P1HskN1CNY6rRQQ86gnZ-18" connectable="0" parent="c82wmpA-trZrPosOsK4I-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1..*" vertex="1">
+          <mxGeometry relative="1" x="-0.821" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-19" edge="1" parent="1" source="c82wmpA-trZrPosOsK4I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c82wmpA-trZrPosOsK4I-15">
