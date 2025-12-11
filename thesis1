@@ -3051,6 +3051,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CVOz3VTjPCm7RbOz1h-t-4" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Barang Baru" vertex="1">
+          <mxGeometry height="50" width="100" x="30" y="458" as="geometry" />
+        </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-16" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1270" width="290" x="440" y="3" as="geometry" />
         </mxCell>
