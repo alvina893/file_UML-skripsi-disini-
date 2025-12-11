@@ -2615,7 +2615,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-barang" id="YzfhHQrpiMf0nIn3FK_U">
-    <mxGraphModel dx="931" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-1" parent="8rPaMRM0daE1oujM9DhI-0" />
@@ -2676,7 +2676,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YxV5wcmu4bWtHFXNA4vS-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rhombus;whiteSpace=wrap;html=1;" value="sesuai?" vertex="1">
+        <mxCell id="YxV5wcmu4bWtHFXNA4vS-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rhombus;whiteSpace=wrap;html=1;" value="tersedia" vertex="1">
           <mxGeometry height="40" width="75" x="117.5" y="520" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik &#39;+&#39; Tambah Kategori Baru" vertex="1">
