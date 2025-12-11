@@ -2990,20 +2990,16 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-5" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Pembelian&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-6" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="qSfW9CH8Ka733of-UM4c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qSfW9CH8Ka733of-UM4c-6" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="qSfW9CH8Ka733of-UM4c-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-7" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Tanggal Pembelian" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-8" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="qSfW9CH8Ka733of-UM4c-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-9" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Masukkan Kode Pembelian" vertex="1">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-11" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Supplier" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="400" as="geometry" />
-        </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-11" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Nama Supplier" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="500" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-13" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan / Input&lt;div&gt;Kode Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="640" as="geometry" />
@@ -3072,7 +3068,7 @@
           <mxGeometry height="50" width="100" x="105" y="820" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-34" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Isi ID Supplier dari Database" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="500" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="400" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-36" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cari dan Isi&amp;nbsp;Nama dan Satuan Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="730" as="geometry" />
