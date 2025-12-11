@@ -4058,6 +4058,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="P1HskN1CNY6rRQQ86gnZ-19" connectable="0" parent="c82wmpA-trZrPosOsK4I-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1..*" vertex="1">
+          <mxGeometry relative="1" x="0.8695" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="c82wmpA-trZrPosOsK4I-19" edge="1" parent="1" source="c82wmpA-trZrPosOsK4I-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="c82wmpA-trZrPosOsK4I-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
