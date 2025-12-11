@@ -3095,7 +3095,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uLjrsxImxXesXMk2FjS1-2" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Stok Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="1137" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1147" as="geometry" />
         </mxCell>
         <mxCell id="uLjrsxImxXesXMk2FjS1-14" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Pembelian" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="1220" as="geometry" />
