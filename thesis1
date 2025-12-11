@@ -4210,7 +4210,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="1138" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="706" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -4232,7 +4232,7 @@
           <mxGeometry height="60" width="30" x="510" y="430" as="geometry" />
         </mxCell>
         <mxCell id="MM1PgJB5sDvGe2ciH064-22" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Login" vertex="1">
-          <mxGeometry height="40" width="80" x="450" y="360" as="geometry" />
+          <mxGeometry height="40" width="80" x="450" y="330" as="geometry" />
         </mxCell>
         <mxCell id="oj6noQf9VgoxcanLBJzV-20" parent="MM1PgJB5sDvGe2ciH064-1" style="swimlane;whiteSpace=wrap;html=1;" value="Barang" vertex="1">
           <mxGeometry height="330" width="425" x="705" y="400" as="geometry" />
@@ -4733,6 +4733,15 @@
         </mxCell>
         <mxCell id="7KCYs-_9metpXfgbYz1i-21" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Login" vertex="1">
           <mxGeometry height="40" width="80" x="1140" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="CrgaVw-BSL1apN8-LNPz-1" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="MM1PgJB5sDvGe2ciH064-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="CrgaVw-BSL1apN8-LNPz-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="410" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrgaVw-BSL1apN8-LNPz-2" parent="MM1PgJB5sDvGe2ciH064-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Backup dan Restore Database" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
