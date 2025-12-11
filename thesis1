@@ -3221,7 +3221,7 @@
         <mxCell id="dahKemnSM7VH1qRMd_MF-0" />
         <mxCell id="dahKemnSM7VH1qRMd_MF-1" parent="dahKemnSM7VH1qRMd_MF-0" />
         <mxCell id="dahKemnSM7VH1qRMd_MF-2" parent="dahKemnSM7VH1qRMd_MF-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="830" width="280" x="130" as="geometry" />
+          <mxGeometry height="870" width="280" x="130" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-3" parent="dahKemnSM7VH1qRMd_MF-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="128.5" y="40" as="geometry" />
@@ -3274,7 +3274,7 @@
           <mxGeometry height="50" width="100" x="90" y="670" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-7" parent="dahKemnSM7VH1qRMd_MF-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="830" width="310" x="410" as="geometry" />
+          <mxGeometry height="870" width="310" x="410" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-9" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Stok Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
@@ -3285,11 +3285,20 @@
         <mxCell id="dahKemnSM7VH1qRMd_MF-26" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="100" as="geometry" />
         </mxCell>
+        <mxCell id="tdLoQLts1n676adYL69i-16" edge="1" parent="dahKemnSM7VH1qRMd_MF-7" source="tdLoQLts1n676adYL69i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tdLoQLts1n676adYL69i-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tdLoQLts1n676adYL69i-13" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Pembalian Baru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="tdLoQLts1n676adYL69i-15" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="RefreshPembalian Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="760" as="geometry" />
+        <mxCell id="tdLoQLts1n676adYL69i-17" edge="1" parent="dahKemnSM7VH1qRMd_MF-7" source="tdLoQLts1n676adYL69i-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tdLoQLts1n676adYL69i-15" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh Pembalian Baru" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="dahKemnSM7VH1qRMd_MF-25" parent="dahKemnSM7VH1qRMd_MF-7" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="140" y="827" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-27" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="dahKemnSM7VH1qRMd_MF-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="dahKemnSM7VH1qRMd_MF-3">
           <mxGeometry relative="1" as="geometry">
@@ -3313,9 +3322,6 @@
         </mxCell>
         <mxCell id="POGWcfrYSUyBe0MPOnZQ-0" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="z46HymlZt9gvfOL-1rAK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-22">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dahKemnSM7VH1qRMd_MF-25" parent="dahKemnSM7VH1qRMd_MF-1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="850" y="700" as="geometry" />
         </mxCell>
         <mxCell id="tdLoQLts1n676adYL69i-1" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="dahKemnSM7VH1qRMd_MF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="tdLoQLts1n676adYL69i-0" value="">
           <mxGeometry relative="1" as="geometry">
