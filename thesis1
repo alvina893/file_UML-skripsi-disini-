@@ -3769,7 +3769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="!karyawan-activity-pengembalian" id="20I_fYIZdwkp5JXCCq9U">
-    <mxGraphModel dx="1138" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1463" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yFGjEewnk6zipsU0tE6d-0" />
         <mxCell id="yFGjEewnk6zipsU0tE6d-1" parent="yFGjEewnk6zipsU0tE6d-0" />
@@ -3916,7 +3916,7 @@
             <mxPoint x="414" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFGjEewnk6zipsU0tE6d-48" parent="yFGjEewnk6zipsU0tE6d-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="User sudah berhasil login" vertex="1">
+        <mxCell id="yFGjEewnk6zipsU0tE6d-48" parent="yFGjEewnk6zipsU0tE6d-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin sudah login, karyawan ada ajukan pengembalian" vertex="1">
           <mxGeometry height="70" width="100" y="110" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-49" edge="1" parent="yFGjEewnk6zipsU0tE6d-1" source="yFGjEewnk6zipsU0tE6d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="yFGjEewnk6zipsU0tE6d-25">
