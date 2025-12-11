@@ -3769,7 +3769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="!karyawan-activity-pengembalian" id="20I_fYIZdwkp5JXCCq9U">
-    <mxGraphModel dx="1205" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="445" dy="233" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yFGjEewnk6zipsU0tE6d-0" />
         <mxCell id="yFGjEewnk6zipsU0tE6d-1" parent="yFGjEewnk6zipsU0tE6d-0" />
@@ -3832,13 +3832,13 @@
         <mxCell id="9drwE3eR9g25YAIwxK7k-31" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9drwE3eR9g25YAIwxK7k-11" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pililh Tukar Guling (Barang)" vertex="1">
+        <mxCell id="9drwE3eR9g25YAIwxK7k-11" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Refund (Dana)" vertex="1">
           <mxGeometry height="50" width="100" x="17.5" y="840" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-14" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9drwE3eR9g25YAIwxK7k-17" connectable="0" parent="9drwE3eR9g25YAIwxK7k-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="stok" vertex="1">
+        <mxCell id="9drwE3eR9g25YAIwxK7k-17" connectable="0" parent="9drwE3eR9g25YAIwxK7k-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="dana" vertex="1">
           <mxGeometry relative="1" x="0.4713" y="2" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3846,7 +3846,7 @@
         <mxCell id="9drwE3eR9g25YAIwxK7k-16" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9drwE3eR9g25YAIwxK7k-18" connectable="0" parent="9drwE3eR9g25YAIwxK7k-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="dana" vertex="1">
+        <mxCell id="9drwE3eR9g25YAIwxK7k-18" connectable="0" parent="9drwE3eR9g25YAIwxK7k-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="stok" vertex="1">
           <mxGeometry relative="1" x="0.3449" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -3857,7 +3857,7 @@
         <mxCell id="9drwE3eR9g25YAIwxK7k-32" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9drwE3eR9g25YAIwxK7k-15" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Refund (Dana)" vertex="1">
+        <mxCell id="9drwE3eR9g25YAIwxK7k-15" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pililh Tukar Guling (Barang)" vertex="1">
           <mxGeometry height="50" width="100" x="192.5" y="840" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-21" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Konfirmasi Pengembalian Ditolak" vertex="1">
