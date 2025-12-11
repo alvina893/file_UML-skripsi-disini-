@@ -3802,12 +3802,22 @@
             <mxPoint x="400" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-6" connectable="0" parent="yFGjEewnk6zipsU0tE6d-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
+          <mxGeometry relative="1" x="0.4103" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-4" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tolak" vertex="1">
           <mxGeometry height="50" width="100" x="192.5" y="480" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-40" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="yFGjEewnk6zipsU0tE6d-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-5" connectable="0" parent="yFGjEewnk6zipsU0tE6d-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
+          <mxGeometry relative="1" x="0.3752" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-23" parent="yFGjEewnk6zipsU0tE6d-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
