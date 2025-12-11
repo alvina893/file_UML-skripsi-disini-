@@ -3005,7 +3005,7 @@
           <mxGeometry height="50" width="100" x="105" y="531" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-14" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="621" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="611" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-15" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="qSfW9CH8Ka733of-UM4c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="qSfW9CH8Ka733of-UM4c-13">
           <mxGeometry relative="1" as="geometry" />
@@ -3089,7 +3089,7 @@
           <mxGeometry height="50" width="100" x="105" y="710" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-36" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cari dan Autofill Nama, Satuan dan Harga Beli Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="135" x="87.5" y="620" as="geometry" />
+          <mxGeometry height="50" width="135" x="87.5" y="610" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-48" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tambahkan Barang ke List Detail Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="780" as="geometry" />
