@@ -3092,7 +3092,7 @@
           <mxGeometry height="50" width="135" x="87.5" y="610" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-48" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tambahkan Barang ke List Detail Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="780" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="800" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-25" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="qSfW9CH8Ka733of-UM4c-2">
           <mxGeometry relative="1" as="geometry">
@@ -3147,7 +3147,7 @@
         <mxCell id="V6v30hVfR8jZXQF5jndL-1" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="sZB2CP7lKKuYpajfbTQW-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-49" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-48">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-49" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uLjrsxImxXesXMk2FjS1-1" edge="1" parent="1" source="V6v30hVfR8jZXQF5jndL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V6v30hVfR8jZXQF5jndL-6">
