@@ -2981,13 +2981,13 @@
         <mxCell id="dahKemnSM7VH1qRMd_MF-6" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="100" as="geometry" />
         </mxCell>
+        <mxCell id="KDdctBE9eMKrA6LH6f-A-0" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tab &#39;Low Stok&#39;" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="300" as="geometry" />
+        </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-7" parent="dahKemnSM7VH1qRMd_MF-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="770" width="310" x="410" as="geometry" />
         </mxCell>
-        <mxCell id="dahKemnSM7VH1qRMd_MF-8" edge="1" parent="dahKemnSM7VH1qRMd_MF-7" source="dahKemnSM7VH1qRMd_MF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dahKemnSM7VH1qRMd_MF-9" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan List Stok Barang" vertex="1">
+        <mxCell id="dahKemnSM7VH1qRMd_MF-9" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Manajemen Stok Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-10" edge="1" parent="dahKemnSM7VH1qRMd_MF-7" source="dahKemnSM7VH1qRMd_MF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-18">
@@ -3060,6 +3060,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-31" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="dahKemnSM7VH1qRMd_MF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dahKemnSM7VH1qRMd_MF-8" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="dahKemnSM7VH1qRMd_MF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="KDdctBE9eMKrA6LH6f-A-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
