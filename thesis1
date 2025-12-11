@@ -3769,7 +3769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="!karyawan-activity-pengembalian" id="20I_fYIZdwkp5JXCCq9U">
-    <mxGraphModel dx="1078" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yFGjEewnk6zipsU0tE6d-0" />
         <mxCell id="yFGjEewnk6zipsU0tE6d-1" parent="yFGjEewnk6zipsU0tE6d-0" />
@@ -3863,29 +3863,38 @@
         <mxCell id="yFGjEewnk6zipsU0tE6d-24" edge="1" parent="yFGjEewnk6zipsU0tE6d-23" source="yFGjEewnk6zipsU0tE6d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yFGjEewnk6zipsU0tE6d-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="155" y="200" as="targetPoint" />
+            <mxPoint x="137.45" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-25" parent="yFGjEewnk6zipsU0tE6d-23" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
+          <mxGeometry height="50" width="100" x="87.45" y="90" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-26" parent="yFGjEewnk6zipsU0tE6d-23" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;List&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengembalian&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="180" as="geometry" />
+          <mxGeometry height="50" width="100" x="87.45" y="180" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-37" parent="yFGjEewnk6zipsU0tE6d-23" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="140" y="1479" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-0" parent="yFGjEewnk6zipsU0tE6d-23" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Rincian Pengembalian yang Diajukan" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="280" as="geometry" />
+          <mxGeometry height="50" width="100" x="87.45" y="280" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-7" parent="yFGjEewnk6zipsU0tE6d-23" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form Popup Konfirmasi Pengembalian" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="630" as="geometry" />
+          <mxGeometry height="50" width="100" x="87.45" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-27" edge="1" parent="yFGjEewnk6zipsU0tE6d-23" source="9drwE3eR9g25YAIwxK7k-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="222.45" y="575" />
+              <mxPoint x="222.45" y="745" />
+              <mxPoint x="137.45" y="745" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-24" parent="yFGjEewnk6zipsU0tE6d-23" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Update Pengembalian" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="550" as="geometry" />
+          <mxGeometry height="50" width="100" x="87.45" y="550" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-25" parent="yFGjEewnk6zipsU0tE6d-23" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Refresh List Pengembalian" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="840" as="geometry" />
+          <mxGeometry height="50" width="100" x="87.45" y="890" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-47" edge="1" parent="yFGjEewnk6zipsU0tE6d-1" source="yFGjEewnk6zipsU0tE6d-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="yFGjEewnk6zipsU0tE6d-4">
           <mxGeometry relative="1" as="geometry">
