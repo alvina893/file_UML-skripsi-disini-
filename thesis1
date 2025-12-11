@@ -3791,7 +3791,7 @@
         <mxCell id="yFGjEewnk6zipsU0tE6d-8" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Pengembalian yang Diajukan" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="yFGjEewnk6zipsU0tE6d-9" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Nama Supplier" vertex="1">
+        <mxCell id="yFGjEewnk6zipsU0tE6d-9" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Konfirmasi" vertex="1">
           <mxGeometry height="50" width="100" x="17.5" y="480" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-42" parent="yFGjEewnk6zipsU0tE6d-3" style="rhombus;whiteSpace=wrap;html=1;" value="opsi?" vertex="1">
@@ -3802,7 +3802,7 @@
             <mxPoint x="400" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9drwE3eR9g25YAIwxK7k-4" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Nama Supplier" vertex="1">
+        <mxCell id="9drwE3eR9g25YAIwxK7k-4" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tolak" vertex="1">
           <mxGeometry height="50" width="100" x="192.5" y="480" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-40" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="yFGjEewnk6zipsU0tE6d-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-4">
