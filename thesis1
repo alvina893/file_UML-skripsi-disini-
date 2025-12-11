@@ -3820,6 +3820,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-13" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-9" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Metode Pengembalian" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-11" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Metode Pengembalian" vertex="1">
+          <mxGeometry height="50" width="100" x="17.5" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-14" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-16" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-12" parent="yFGjEewnk6zipsU0tE6d-3" style="rhombus;whiteSpace=wrap;html=1;" value="opsi?" vertex="1">
+          <mxGeometry height="40" width="75" x="117.5" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-15" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Metode Pengembalian" vertex="1">
+          <mxGeometry height="50" width="100" x="192.5" y="770" as="geometry" />
+        </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-23" parent="yFGjEewnk6zipsU0tE6d-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1530" width="280" x="440" as="geometry" />
         </mxCell>
@@ -3870,6 +3891,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-8" edge="1" parent="yFGjEewnk6zipsU0tE6d-1" source="yFGjEewnk6zipsU0tE6d-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-10" edge="1" parent="yFGjEewnk6zipsU0tE6d-1" source="9drwE3eR9g25YAIwxK7k-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
