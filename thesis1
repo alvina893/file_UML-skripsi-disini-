@@ -3769,7 +3769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="!karyawan-activity-pengembalian" id="20I_fYIZdwkp5JXCCq9U">
-    <mxGraphModel dx="2048" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1205" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yFGjEewnk6zipsU0tE6d-0" />
         <mxCell id="yFGjEewnk6zipsU0tE6d-1" parent="yFGjEewnk6zipsU0tE6d-0" />
@@ -3829,6 +3829,9 @@
         <mxCell id="9drwE3eR9g25YAIwxK7k-9" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Metode Pengembalian" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="690" as="geometry" />
         </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-31" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-11" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pililh Tukar Guling (Barang)" vertex="1">
           <mxGeometry height="50" width="100" x="17.5" y="840" as="geometry" />
         </mxCell>
@@ -3851,11 +3854,20 @@
         <mxCell id="9drwE3eR9g25YAIwxK7k-12" parent="yFGjEewnk6zipsU0tE6d-3" style="rhombus;whiteSpace=wrap;html=1;" value="opsi?" vertex="1">
           <mxGeometry height="40" width="75" x="117.5" y="770" as="geometry" />
         </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-32" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-15" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Refund (Dana)" vertex="1">
           <mxGeometry height="50" width="100" x="192.5" y="840" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-21" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Konfirmasi Pengembalian Ditolak" vertex="1">
           <mxGeometry height="50" width="100" x="192.5" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-29" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Konfirmasi" vertex="1">
+          <mxGeometry height="50" width="100" x="190" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="9drwE3eR9g25YAIwxK7k-30" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Konfirmasi" vertex="1">
+          <mxGeometry height="50" width="100" x="17.5" y="920" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-23" parent="yFGjEewnk6zipsU0tE6d-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1530" width="280" x="440" as="geometry" />
