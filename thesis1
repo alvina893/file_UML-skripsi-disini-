@@ -3274,7 +3274,7 @@
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-22" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pembelian Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="550" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="410" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-26" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="100" as="geometry" />
