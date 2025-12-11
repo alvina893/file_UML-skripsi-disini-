@@ -3727,7 +3727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="freNpaHGzFVdYhCH1ksg" name="class-diagram-pos">
-    <mxGraphModel dx="1205" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2926" dy="2629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4328,7 +4328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="621" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
