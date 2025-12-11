@@ -3896,9 +3896,9 @@
         <mxCell id="9drwE3eR9g25YAIwxK7k-27" edge="1" parent="yFGjEewnk6zipsU0tE6d-23" source="9drwE3eR9g25YAIwxK7k-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="222.45" y="575" />
-              <mxPoint x="222.45" y="745" />
-              <mxPoint x="137.45" y="745" />
+              <mxPoint x="222" y="575" />
+              <mxPoint x="222" y="745" />
+              <mxPoint x="140" y="745" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3906,7 +3906,7 @@
           <mxGeometry height="50" width="100" x="87.45" y="550" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-25" parent="yFGjEewnk6zipsU0tE6d-23" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Refresh List Pengembalian" vertex="1">
-          <mxGeometry height="50" width="100" x="87.45" y="890" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="920" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-47" edge="1" parent="yFGjEewnk6zipsU0tE6d-1" source="yFGjEewnk6zipsU0tE6d-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="yFGjEewnk6zipsU0tE6d-4">
           <mxGeometry relative="1" as="geometry">
