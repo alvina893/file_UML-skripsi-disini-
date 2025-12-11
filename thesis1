@@ -3047,7 +3047,7 @@
             <mxPoint x="414" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dahKemnSM7VH1qRMd_MF-28" parent="dahKemnSM7VH1qRMd_MF-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Sudah login&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dan ada barang pada sistem&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="dahKemnSM7VH1qRMd_MF-28" parent="dahKemnSM7VH1qRMd_MF-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Sudah login&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dan ada barang low stok pada sistem&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" y="50" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-29" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="dahKemnSM7VH1qRMd_MF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-9">
