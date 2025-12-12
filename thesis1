@@ -4735,7 +4735,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="kasir-activity-penjualanPickup" id="nb-S03w3zkvDKbRfmFZ1">
-    <mxGraphModel dx="554" dy="289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-0" />
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-1" parent="cvAT7BejKZ3OuZL2EdXY-0" />
@@ -4891,11 +4891,20 @@
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-33" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rhombus;whiteSpace=wrap;html=1;" value="metode" vertex="1">
           <mxGeometry height="40" width="100" x="180" y="894" as="geometry" />
         </mxCell>
-        <mxCell id="cvAT7BejKZ3OuZL2EdXY-34" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="cvAT7BejKZ3OuZL2EdXY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cvAT7BejKZ3OuZL2EdXY-24">
+        <mxCell id="cvAT7BejKZ3OuZL2EdXY-34" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="cvAT7BejKZ3OuZL2EdXY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="t2a-X91Ue4mWoBvhrar0-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t2a-X91Ue4mWoBvhrar0-0" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak Penerima" vertex="1">
           <mxGeometry height="50" width="100" x="180" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="t2a-X91Ue4mWoBvhrar0-4" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="t2a-X91Ue4mWoBvhrar0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="t2a-X91Ue4mWoBvhrar0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2a-X91Ue4mWoBvhrar0-2" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Penjualan Atas Nama Siapa" vertex="1">
+          <mxGeometry height="50" width="100" x="30" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="t2a-X91Ue4mWoBvhrar0-3" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak Penerima" vertex="1">
+          <mxGeometry height="50" width="100" x="30" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-35" parent="cvAT7BejKZ3OuZL2EdXY-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1400" width="280" x="480" as="geometry" />
