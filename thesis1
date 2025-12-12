@@ -3575,6 +3575,9 @@
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-16" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rhombus;whiteSpace=wrap;html=1;" value="sesuai?" vertex="1">
           <mxGeometry height="40" width="100" x="159.25" y="940" as="geometry" />
         </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-21" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-2" source="j0s5wpUXIwvH33bu0CoQ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="j0s5wpUXIwvH33bu0CoQ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-20" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Mode Penetapan&lt;div&gt;Harga Massal&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="155" y="490" as="geometry" />
         </mxCell>
