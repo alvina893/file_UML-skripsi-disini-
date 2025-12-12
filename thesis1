@@ -5220,7 +5220,7 @@
         <mxCell id="PJE-X6rLCSxhinLqRIgS-1" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PJE-X6rLCSxhinLqRIgS-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aubbcD0wnSqntcD6yuGs-37" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Konfirmasi" vertex="1">
+        <mxCell id="aubbcD0wnSqntcD6yuGs-37" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Alamat Penerima" vertex="1">
           <mxGeometry height="50" width="100" x="125" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="PJE-X6rLCSxhinLqRIgS-0" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Konfirmasi" vertex="1">
