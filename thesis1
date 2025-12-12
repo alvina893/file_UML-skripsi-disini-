@@ -7015,7 +7015,7 @@
             <mxPoint x="410" y="85" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fhM-r9_LK5EguPX8YfWk-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":Object" vertex="1">
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value=":User Login" vertex="1">
           <mxGeometry height="300" width="100" x="490" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-18" parent="fhM-r9_LK5EguPX8YfWk-21" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
