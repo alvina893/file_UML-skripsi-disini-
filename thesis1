@@ -5409,8 +5409,8 @@
         <mxCell id="-oOlQF2lqz5MLwVfluAA-9" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Status Pengiriman Terbaru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="-oOlQF2lqz5MLwVfluAA-10" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tombol Update" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="380" as="geometry" />
+        <mxCell id="-oOlQF2lqz5MLwVfluAA-10" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tombol Ajukan Barang di Detail List Barang" vertex="1">
+          <mxGeometry height="50" width="135" x="87.5" y="380" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-11" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Klik Update&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="560" as="geometry" />
@@ -5439,7 +5439,7 @@
         <mxCell id="-oOlQF2lqz5MLwVfluAA-19" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Penjualan Delivery" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="-oOlQF2lqz5MLwVfluAA-20" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form PopUp Update Status" vertex="1">
+        <mxCell id="-oOlQF2lqz5MLwVfluAA-20" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form PopUp Ajukan Pengembalin" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="380" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-21" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Rincian Penjualan" vertex="1">
