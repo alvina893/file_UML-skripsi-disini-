@@ -4741,7 +4741,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="kasir-activity-penjualanPickup" id="nb-S03w3zkvDKbRfmFZ1">
-    <mxGraphModel dx="661" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="336" dy="175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-0" />
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-1" parent="cvAT7BejKZ3OuZL2EdXY-0" />
@@ -4855,8 +4855,8 @@
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-27" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="cvAT7BejKZ3OuZL2EdXY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cvAT7BejKZ3OuZL2EdXY-26" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="750" />
-              <mxPoint x="230" y="750" />
+              <mxPoint x="210" y="750" />
+              <mxPoint x="210" y="750" />
             </Array>
             <mxPoint x="360" y="730" as="sourcePoint" />
             <mxPoint x="260" y="750" as="targetPoint" />
