@@ -4278,7 +4278,7 @@
           <mxGeometry height="50" width="100" x="90" y="575" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-20" parent="rhpvyBYeGVy74EJkdohd-13" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="125" y="820" as="geometry" />
+          <mxGeometry height="30" width="30" x="125" y="900" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-21" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Subtotal Barang" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="280" as="geometry" />
@@ -4288,6 +4288,9 @@
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-24" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Total Subtotal Barang" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iuMst8HtT02tSJ0kSkoV-17" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Penjualan jadi &#39;Lunas&#39;" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="830" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-25" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="rhpvyBYeGVy74EJkdohd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="rhpvyBYeGVy74EJkdohd-3">
           <mxGeometry relative="1" as="geometry">
