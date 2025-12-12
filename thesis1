@@ -7042,6 +7042,11 @@
         <mxCell id="fhM-r9_LK5EguPX8YfWk-28" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="fhM-r9_LK5EguPX8YfWk-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-30" connectable="0" parent="fhM-r9_LK5EguPX8YfWk-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Username, Password" vertex="1">
+          <mxGeometry relative="1" x="-0.1519" as="geometry">
+            <mxPoint x="9" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
