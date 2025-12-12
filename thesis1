@@ -4175,7 +4175,7 @@
       <root>
         <mxCell id="rhpvyBYeGVy74EJkdohd-0" />
         <mxCell id="rhpvyBYeGVy74EJkdohd-1" parent="rhpvyBYeGVy74EJkdohd-0" />
-        <mxCell id="rhpvyBYeGVy74EJkdohd-2" parent="rhpvyBYeGVy74EJkdohd-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
+        <mxCell id="rhpvyBYeGVy74EJkdohd-2" parent="rhpvyBYeGVy74EJkdohd-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
           <mxGeometry height="870" width="310" x="130" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-3" parent="rhpvyBYeGVy74EJkdohd-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
@@ -4252,7 +4252,7 @@
             <mxPoint x="414" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rhpvyBYeGVy74EJkdohd-26" parent="rhpvyBYeGVy74EJkdohd-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Karyawan&lt;div&gt;sudah login, ada barang pada sistem&lt;/div&gt;" vertex="1">
+        <mxCell id="rhpvyBYeGVy74EJkdohd-26" parent="rhpvyBYeGVy74EJkdohd-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Kasir&lt;div&gt;sudah login, ada barang pada sistem&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" y="62" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-27" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="rhpvyBYeGVy74EJkdohd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rhpvyBYeGVy74EJkdohd-14">
