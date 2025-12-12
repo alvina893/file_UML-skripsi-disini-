@@ -5375,12 +5375,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="POedYe2NIIbejT8M9xSN" name="kasir-pengembalian-masalahPembeli">
-    <mxGraphModel dx="819" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="661" dy="345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-oOlQF2lqz5MLwVfluAA-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="790" width="310" x="130" as="geometry" />
+          <mxGeometry height="780" width="310" x="130" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-2" parent="-oOlQF2lqz5MLwVfluAA-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -5419,7 +5419,7 @@
           <mxGeometry height="50" width="100" x="105" y="650" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="790" width="280" x="440" as="geometry" />
+          <mxGeometry height="780" width="280" x="440" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-13" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
@@ -5431,13 +5431,16 @@
           <mxGeometry height="50" width="100" x="90" y="560" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-17" parent="-oOlQF2lqz5MLwVfluAA-12" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="125" y="740" as="geometry" />
+          <mxGeometry height="30" width="30" x="125" y="730" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-20" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form PopUp Autofill Ajukan Pengembalian" vertex="1">
           <mxGeometry height="50" width="135" x="72.5" y="380" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-21" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Rincian Penjualan" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="-oOlQF2lqz5MLwVfluAA-38" edge="1" parent="-oOlQF2lqz5MLwVfluAA-12" source="-oOlQF2lqz5MLwVfluAA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-oOlQF2lqz5MLwVfluAA-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-35" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Pengembalian" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="650" as="geometry" />
