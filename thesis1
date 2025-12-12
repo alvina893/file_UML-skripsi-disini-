@@ -2532,7 +2532,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjjgekzDuZisRvIzVVK_" name="admin-activity-login">
-    <mxGraphModel dx="1365" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4453,7 +4453,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="kasir-activity-penjualanLangsung" id="1eCtHuaUMLqUwbgt7wrZ">
-    <mxGraphModel dx="1205" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rhpvyBYeGVy74EJkdohd-0" />
         <mxCell id="rhpvyBYeGVy74EJkdohd-1" parent="rhpvyBYeGVy74EJkdohd-0" />
@@ -4667,7 +4667,7 @@
         <mxCell id="iuMst8HtT02tSJ0kSkoV-27" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="iuMst8HtT02tSJ0kSkoV-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iuMst8HtT02tSJ0kSkoV-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dWT5Yn2B5BQMBpZ5bMiF-0" parent="rhpvyBYeGVy74EJkdohd-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Loop Proses&lt;div&gt;Input&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;List Barang&lt;/span&gt;&lt;div&gt;yang Dibeli&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="dWT5Yn2B5BQMBpZ5bMiF-0" parent="rhpvyBYeGVy74EJkdohd-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Loop Proses&lt;div&gt;Input&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;List Barang&lt;/span&gt;&lt;div&gt;yang Dijual&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" x="740" y="300" as="geometry" />
         </mxCell>
         <mxCell id="dWT5Yn2B5BQMBpZ5bMiF-1" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="DQ58s7kEPkx2KdVL9ypp-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;dashPattern=8 8;" target="dWT5Yn2B5BQMBpZ5bMiF-0">
