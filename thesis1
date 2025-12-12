@@ -6948,7 +6948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aokuq835-r8QpwfEjLZL" name="sequence-login">
-    <mxGraphModel dx="291" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="498" dy="1410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7010,19 +7010,25 @@
         <mxCell id="fhM-r9_LK5EguPX8YfWk-20" parent="fhM-r9_LK5EguPX8YfWk-11" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="5" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="fhM-r9_LK5EguPX8YfWk-19" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-20" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;startFill=0;" target="fhM-r9_LK5EguPX8YfWk-18" value="Isi Username, Password">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-19" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-20" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;startFill=0;" target="fhM-r9_LK5EguPX8YfWk-18" value="">
+          <mxGeometry relative="1" x="0.0341" y="5" as="geometry">
+            <mxPoint as="offset" />
             <mxPoint x="410" y="85" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-31" connectable="0" parent="fhM-r9_LK5EguPX8YfWk-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Isi Username, Password" vertex="1">
+          <mxGeometry relative="1" x="-0.099" as="geometry">
+            <mxPoint x="7" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-21" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;" value=":User Login" vertex="1">
-          <mxGeometry height="300" width="100" x="520" y="30" as="geometry" />
+          <mxGeometry height="300" width="100" x="550" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-18" parent="fhM-r9_LK5EguPX8YfWk-21" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="60" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-22" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;" value=":Sistem" vertex="1">
-          <mxGeometry height="300" width="100" x="710" y="30" as="geometry" />
+          <mxGeometry height="300" width="100" x="727" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-23" parent="fhM-r9_LK5EguPX8YfWk-22" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="95" as="geometry" />
@@ -7044,7 +7050,7 @@
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-30" connectable="0" parent="fhM-r9_LK5EguPX8YfWk-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Username, Password" vertex="1">
           <mxGeometry relative="1" x="-0.1519" as="geometry">
-            <mxPoint x="9" y="-10" as="offset" />
+            <mxPoint x="11" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
