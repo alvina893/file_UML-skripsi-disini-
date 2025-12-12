@@ -7039,6 +7039,9 @@
         <mxCell id="fhM-r9_LK5EguPX8YfWk-27" parent="fhM-r9_LK5EguPX8YfWk-26" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="60" as="geometry" />
         </mxCell>
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-28" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.05;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="fhM-r9_LK5EguPX8YfWk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
