@@ -3641,12 +3641,6 @@
         <mxCell id="yFGjEewnk6zipsU0tE6d-23" parent="yFGjEewnk6zipsU0tE6d-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1220" width="280" x="440" as="geometry" />
         </mxCell>
-        <mxCell id="yFGjEewnk6zipsU0tE6d-24" edge="1" parent="yFGjEewnk6zipsU0tE6d-23" source="yFGjEewnk6zipsU0tE6d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yFGjEewnk6zipsU0tE6d-26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="137.45" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-25" parent="yFGjEewnk6zipsU0tE6d-23" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="87.45" y="90" as="geometry" />
         </mxCell>
@@ -3724,6 +3718,12 @@
               <mxPoint x="662" y="1035" />
             </Array>
             <mxPoint x="627.45" y="575" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yFGjEewnk6zipsU0tE6d-24" edge="1" parent="yFGjEewnk6zipsU0tE6d-1" source="yFGjEewnk6zipsU0tE6d-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yFGjEewnk6zipsU0tE6d-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="577.45" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
