@@ -4892,10 +4892,10 @@
           <mxGeometry height="40" width="100" x="180" y="894" as="geometry" />
         </mxCell>
         <mxCell id="t2a-X91Ue4mWoBvhrar0-0" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Penjualan Atas Nama Siapa" vertex="1">
-          <mxGeometry height="50" width="100" x="60" y="1240" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="t2a-X91Ue4mWoBvhrar0-5" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak Penerima" vertex="1">
-          <mxGeometry height="50" width="100" x="180" y="1270" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="1260" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-35" parent="cvAT7BejKZ3OuZL2EdXY-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1400" width="280" x="480" as="geometry" />
@@ -5032,6 +5032,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="1030" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wCPIgDBSQ3HfPpAyiI_n-3" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-1" source="t2a-X91Ue4mWoBvhrar0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="t2a-X91Ue4mWoBvhrar0-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wCPIgDBSQ3HfPpAyiI_n-4" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-1" source="cvAT7BejKZ3OuZL2EdXY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="t2a-X91Ue4mWoBvhrar0-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
