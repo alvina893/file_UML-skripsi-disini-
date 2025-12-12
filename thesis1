@@ -5439,8 +5439,8 @@
         <mxCell id="-oOlQF2lqz5MLwVfluAA-19" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Penjualan Delivery" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="-oOlQF2lqz5MLwVfluAA-20" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form PopUp Ajukan Pengembalin" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="380" as="geometry" />
+        <mxCell id="-oOlQF2lqz5MLwVfluAA-20" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form PopUp Autofill Ajukan Pengembalian" vertex="1">
+          <mxGeometry height="50" width="135" x="72.5" y="380" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-21" parent="-oOlQF2lqz5MLwVfluAA-12" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Rincian Penjualan" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="280" as="geometry" />
