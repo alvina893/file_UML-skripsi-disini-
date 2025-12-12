@@ -3609,6 +3609,9 @@
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-25" parent="z59YmqfFuoYk1kjF_Vfo-19" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="140" y="724" as="geometry" />
         </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-25" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" value="Simpan Perubahan Harga" vertex="1">
+          <mxGeometry height="50" width="100" x="105" y="1020" as="geometry" />
+        </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-26" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-1" source="z59YmqfFuoYk1kjF_Vfo-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="z59YmqfFuoYk1kjF_Vfo-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="171" as="targetPoint" />
@@ -3644,8 +3647,8 @@
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-17" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-1" source="z59YmqfFuoYk1kjF_Vfo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="j0s5wpUXIwvH33bu0CoQ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j0s5wpUXIwvH33bu0CoQ-25" parent="z59YmqfFuoYk1kjF_Vfo-1" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" value="Klik Tombol Tetapkan ke Harga" vertex="1">
-          <mxGeometry height="50" width="100" x="350" y="1050" as="geometry" />
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-26" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-1" source="j0s5wpUXIwvH33bu0CoQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j0s5wpUXIwvH33bu0CoQ-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
