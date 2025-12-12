@@ -3388,13 +3388,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdLoQLts1n676adYL69i-10" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Masukkan&lt;div&gt;ke List&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="580" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="570" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-21" edge="1" parent="dahKemnSM7VH1qRMd_MF-2" source="tdLoQLts1n676adYL69i-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tdLoQLts1n676adYL69i-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tdLoQLts1n676adYL69i-11" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Simpan Pembelian" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="670" as="geometry" />
+        <mxCell id="tdLoQLts1n676adYL69i-11" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Simpan" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="650" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-7" parent="dahKemnSM7VH1qRMd_MF-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="820" width="310" x="410" as="geometry" />
@@ -3414,10 +3414,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tdLoQLts1n676adYL69i-13" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Pembelian Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="670" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="650" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-25" parent="dahKemnSM7VH1qRMd_MF-7" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="140" y="760" as="geometry" />
+          <mxGeometry height="30" width="30" x="140" y="730" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-27" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="dahKemnSM7VH1qRMd_MF-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="dahKemnSM7VH1qRMd_MF-3">
           <mxGeometry relative="1" as="geometry">
