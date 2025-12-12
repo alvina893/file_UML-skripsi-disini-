@@ -3553,13 +3553,8 @@
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-22" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="z59YmqfFuoYk1kjF_Vfo-23" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-19" source="z59YmqfFuoYk1kjF_Vfo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z59YmqfFuoYk1kjF_Vfo-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z59YmqfFuoYk1kjF_Vfo-24" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Pembelian Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="650" as="geometry" />
+        <mxCell id="z59YmqfFuoYk1kjF_Vfo-24" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Preview&lt;div&gt;Hasil Perubahan Harga&lt;div&gt;pada Tabel&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="135" x="87.5" y="800" as="geometry" />
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-25" parent="z59YmqfFuoYk1kjF_Vfo-19" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="140" y="724" as="geometry" />
@@ -3592,6 +3587,9 @@
             <mxPoint x="975" y="600" as="sourcePoint" />
             <mxPoint x="320" y="515" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-15" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-1" source="j0s5wpUXIwvH33bu0CoQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z59YmqfFuoYk1kjF_Vfo-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
