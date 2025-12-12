@@ -4222,12 +4222,12 @@
             <mxPoint x="-4" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iuMst8HtT02tSJ0kSkoV-3" edge="1" parent="rhpvyBYeGVy74EJkdohd-2" source="iuMst8HtT02tSJ0kSkoV-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+        <mxCell id="iuMst8HtT02tSJ0kSkoV-3" edge="1" parent="rhpvyBYeGVy74EJkdohd-2" source="iuMst8HtT02tSJ0kSkoV-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="155" y="835" />
+              <mxPoint x="155" y="820" />
             </Array>
-            <mxPoint x="150" y="835" as="targetPoint" />
+            <mxPoint x="155" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iuMst8HtT02tSJ0kSkoV-4" connectable="0" parent="iuMst8HtT02tSJ0kSkoV-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
