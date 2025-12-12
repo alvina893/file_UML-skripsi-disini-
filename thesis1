@@ -5412,7 +5412,7 @@
         <mxCell id="-oOlQF2lqz5MLwVfluAA-10" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tombol Ajukan Barang di Detail List Barang" vertex="1">
           <mxGeometry height="50" width="135" x="87.5" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="-oOlQF2lqz5MLwVfluAA-11" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Klik Update&lt;/div&gt;" vertex="1">
+        <mxCell id="-oOlQF2lqz5MLwVfluAA-11" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Klik Masukkan&lt;/div&gt;&lt;div&gt;ke List&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="560" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-12" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
