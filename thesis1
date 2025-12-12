@@ -3460,7 +3460,7 @@
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-0" />
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-1" parent="z59YmqfFuoYk1kjF_Vfo-0" />
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-2" parent="z59YmqfFuoYk1kjF_Vfo-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="770" width="410" x="130" as="geometry" />
+          <mxGeometry height="930" width="410" x="130" as="geometry" />
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-3" parent="z59YmqfFuoYk1kjF_Vfo-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="197.75" y="40" as="geometry" />
@@ -3529,11 +3529,17 @@
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-6" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rhombus;whiteSpace=wrap;html=1;" value="mode ubah" vertex="1">
           <mxGeometry height="40" width="100" x="155" y="650" as="geometry" />
         </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-13" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-2" source="j0s5wpUXIwvH33bu0CoQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="j0s5wpUXIwvH33bu0CoQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-10" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" value="Input Nominal Perubahan Harga" vertex="1">
-          <mxGeometry height="50" width="100" x="155" y="710" as="geometry" />
+          <mxGeometry height="50" width="100" x="155" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-12" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" value="Input Nominal Perubahan Harga" vertex="1">
+          <mxGeometry height="50" width="100" x="155" y="800" as="geometry" />
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-19" parent="z59YmqfFuoYk1kjF_Vfo-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="770" width="310" x="540" as="geometry" />
+          <mxGeometry height="930" width="310" x="540" as="geometry" />
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-20" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Menu Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
