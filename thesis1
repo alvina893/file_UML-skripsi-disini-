@@ -3812,7 +3812,7 @@
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-27" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-28" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;List&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengembalian&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-28" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Pengajuan&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pengembalian&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="180" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-29" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Hitung Subtotal dan Total Barang" vertex="1">
