@@ -4238,7 +4238,7 @@
         <mxCell id="rhpvyBYeGVy74EJkdohd-23" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Pengembalian" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="740" as="geometry" />
         </mxCell>
-        <mxCell id="rhpvyBYeGVy74EJkdohd-24" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Total Pengembalian Dana dan Stok" vertex="1">
+        <mxCell id="rhpvyBYeGVy74EJkdohd-24" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Total Subtotal Barang" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="390" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-25" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="rhpvyBYeGVy74EJkdohd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="rhpvyBYeGVy74EJkdohd-3">
@@ -4273,6 +4273,9 @@
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-35" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="rhpvyBYeGVy74EJkdohd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="rhpvyBYeGVy74EJkdohd-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DQ58s7kEPkx2KdVL9ypp-0" parent="rhpvyBYeGVy74EJkdohd-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="570" width="590" x="780" y="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
