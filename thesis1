@@ -2532,7 +2532,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjjgekzDuZisRvIzVVK_" name="admin-activity-login">
-    <mxGraphModel dx="1138" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2615,7 +2615,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-barang" id="YzfhHQrpiMf0nIn3FK_U">
-    <mxGraphModel dx="932" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="643" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-1" parent="8rPaMRM0daE1oujM9DhI-0" />
@@ -2804,7 +2804,7 @@
         <mxCell id="32ciXODmveB4sjqUtKcA-2" edge="1" parent="8rPaMRM0daE1oujM9DhI-1" source="32ciXODmveB4sjqUtKcA-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="8rPaMRM0daE1oujM9DhI-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="32ciXODmveB4sjqUtKcA-1" parent="8rPaMRM0daE1oujM9DhI-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="User sudah berhasil login" vertex="1">
+        <mxCell id="32ciXODmveB4sjqUtKcA-1" parent="8rPaMRM0daE1oujM9DhI-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin berhasil login" vertex="1">
           <mxGeometry height="70" width="100" y="30" as="geometry" />
         </mxCell>
         <mxCell id="32ciXODmveB4sjqUtKcA-6" edge="1" parent="8rPaMRM0daE1oujM9DhI-1" source="32ciXODmveB4sjqUtKcA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="32ciXODmveB4sjqUtKcA-5">
@@ -2864,7 +2864,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WHuSyiZR5QvUj76w856L" name="admin-activity-stok">
-    <mxGraphModel dx="1280" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2952,7 +2952,7 @@
             <mxPoint x="414" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5rC1mDAmDbNRErBGzYk2-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Sudah login&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dan ada barang pada sistem&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="5rC1mDAmDbNRErBGzYk2-2" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin&amp;nbsp;login&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dan ada barang pada sistem&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" y="50" as="geometry" />
         </mxCell>
         <mxCell id="1eIafAM1mV06f6Xi7pdY-1" edge="1" parent="1" source="EXahoBi8N_f_pk358-Yt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-43">
@@ -3125,7 +3125,7 @@
             <mxPoint x="414" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-26" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="User sudah login, dan ada supplier serta barang pada sistem" vertex="1">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-26" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin&amp;nbsp;login,&lt;div&gt;dan ada supplier serta barang pada sistem&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="105" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-27" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-18">
@@ -3216,7 +3216,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-lowStock-restock" id="R2oKagv7CHq54S3NzSZE">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="dahKemnSM7VH1qRMd_MF-0" />
         <mxCell id="dahKemnSM7VH1qRMd_MF-1" parent="dahKemnSM7VH1qRMd_MF-0" />
@@ -3301,7 +3301,7 @@
             <mxPoint x="414" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dahKemnSM7VH1qRMd_MF-28" parent="dahKemnSM7VH1qRMd_MF-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Sudah login&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dan ada barang low stok pada sistem&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="dahKemnSM7VH1qRMd_MF-28" parent="dahKemnSM7VH1qRMd_MF-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin&amp;nbsp;login&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dan ada barang low stok pada sistem&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="100" y="50" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-29" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="dahKemnSM7VH1qRMd_MF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-9">
@@ -3410,7 +3410,7 @@
             <mxPoint x="414" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMKHfyKzKm_afmR1EEB3-25" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="User sudah berhasil login" vertex="1">
+        <mxCell id="EMKHfyKzKm_afmR1EEB3-25" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin berhasil login" vertex="1">
           <mxGeometry height="70" width="100" y="50" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-26" edge="1" parent="1" source="EMKHfyKzKm_afmR1EEB3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EMKHfyKzKm_afmR1EEB3-7">
@@ -3513,7 +3513,7 @@
             <mxPoint x="1264" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0ESF_keQ80qXtmsPh_5W-27" parent="0ESF_keQ80qXtmsPh_5W-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="User sudah berhasil login" vertex="1">
+        <mxCell id="0ESF_keQ80qXtmsPh_5W-27" parent="0ESF_keQ80qXtmsPh_5W-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin berhasil login" vertex="1">
           <mxGeometry height="70" width="100" x="850" y="50" as="geometry" />
         </mxCell>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-28" edge="1" parent="0ESF_keQ80qXtmsPh_5W-1" source="0ESF_keQ80qXtmsPh_5W-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0ESF_keQ80qXtmsPh_5W-19">
