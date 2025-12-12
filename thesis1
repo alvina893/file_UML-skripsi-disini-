@@ -3455,7 +3455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-hargaMassal" id="YsPAolu4RLvP91vvh2bF">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-0" />
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-1" parent="z59YmqfFuoYk1kjF_Vfo-0" />
@@ -3482,20 +3482,16 @@
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-8" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tab &#39;Penetapan&lt;div&gt;Harga Massal&#39;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="20" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="z59YmqfFuoYk1kjF_Vfo-9" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-2" source="z59YmqfFuoYk1kjF_Vfo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z59YmqfFuoYk1kjF_Vfo-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="z59YmqfFuoYk1kjF_Vfo-9" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-2" source="z59YmqfFuoYk1kjF_Vfo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z59YmqfFuoYk1kjF_Vfo-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-10" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Filter Barang by Supplier" vertex="1">
           <mxGeometry height="50" width="100" x="151.5" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="z59YmqfFuoYk1kjF_Vfo-11" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-2" source="z59YmqfFuoYk1kjF_Vfo-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z59YmqfFuoYk1kjF_Vfo-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z59YmqfFuoYk1kjF_Vfo-12" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="20" y="410" as="geometry" />
-        </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-13" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Restock Semua" vertex="1">
-          <mxGeometry height="50" width="100" x="151.5" y="410" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="410" as="geometry" />
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-14" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="490" as="geometry" />
