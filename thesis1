@@ -4891,6 +4891,9 @@
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-33" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rhombus;whiteSpace=wrap;html=1;" value="metode" vertex="1">
           <mxGeometry height="40" width="100" x="180" y="894" as="geometry" />
         </mxCell>
+        <mxCell id="wCPIgDBSQ3HfPpAyiI_n-5" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="t2a-X91Ue4mWoBvhrar0-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="t2a-X91Ue4mWoBvhrar0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t2a-X91Ue4mWoBvhrar0-0" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Penjualan Atas Nama Siapa" vertex="1">
           <mxGeometry height="50" width="100" x="125" y="1180" as="geometry" />
         </mxCell>
