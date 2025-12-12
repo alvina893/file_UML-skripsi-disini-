@@ -4835,6 +4835,9 @@
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-23" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Metode Pembayaran" vertex="1">
           <mxGeometry height="50" width="100" x="180" y="680" as="geometry" />
         </mxCell>
+        <mxCell id="t2a-X91Ue4mWoBvhrar0-1" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="cvAT7BejKZ3OuZL2EdXY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="t2a-X91Ue4mWoBvhrar0-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-24" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Penjualan Atas Nama Siapa" vertex="1">
           <mxGeometry height="50" width="100" x="180" y="1030" as="geometry" />
         </mxCell>
@@ -4890,6 +4893,9 @@
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-34" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="cvAT7BejKZ3OuZL2EdXY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cvAT7BejKZ3OuZL2EdXY-24">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t2a-X91Ue4mWoBvhrar0-0" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak Penerima" vertex="1">
+          <mxGeometry height="50" width="100" x="180" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-35" parent="cvAT7BejKZ3OuZL2EdXY-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1400" width="280" x="480" as="geometry" />
