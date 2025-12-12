@@ -3737,7 +3737,7 @@
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-2" parent="pJdGSmwLWUdJQ1yrRtWR-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="380" width="490" x="180" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-3" parent="pJdGSmwLWUdJQ1yrRtWR-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
+        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-3" parent="pJdGSmwLWUdJQ1yrRtWR-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
           <mxGeometry height="1530" width="310" x="130" as="geometry" />
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-4" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
