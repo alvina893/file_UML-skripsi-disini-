@@ -3082,7 +3082,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qSfW9CH8Ka733of-UM4c-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="625" width="590" x="90" y="500" as="geometry" />
+          <mxGeometry height="604" width="590" x="90" y="506" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="1368" width="370" x="70" y="93" as="geometry" />
