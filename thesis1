@@ -3514,6 +3514,9 @@
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-0" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rhombus;whiteSpace=wrap;html=1;" value="mode ubah?" vertex="1">
           <mxGeometry height="40" width="100" x="155" y="510" as="geometry" />
         </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-6" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rhombus;whiteSpace=wrap;html=1;" value="mode ubah" vertex="1">
+          <mxGeometry height="40" width="100" x="155" y="660" as="geometry" />
+        </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-19" parent="z59YmqfFuoYk1kjF_Vfo-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="770" width="310" x="540" as="geometry" />
         </mxCell>
