@@ -4388,7 +4388,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dWT5Yn2B5BQMBpZ5bMiF-0" parent="rhpvyBYeGVy74EJkdohd-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Loop Proses&lt;div&gt;Input&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;List Barang&lt;/span&gt;&lt;div&gt;yang Dibeli&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="100" x="740" y="280" as="geometry" />
+          <mxGeometry height="70" width="100" x="740" y="300" as="geometry" />
         </mxCell>
         <mxCell id="dWT5Yn2B5BQMBpZ5bMiF-1" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="DQ58s7kEPkx2KdVL9ypp-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;dashPattern=8 8;" target="dWT5Yn2B5BQMBpZ5bMiF-0">
           <mxGeometry relative="1" as="geometry">
