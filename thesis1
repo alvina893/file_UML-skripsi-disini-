@@ -4604,7 +4604,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NBKO6vEo9MjxyrKmXsr1-5" parent="rhpvyBYeGVy74EJkdohd-2" style="rhombus;whiteSpace=wrap;html=1;" value="metode" vertex="1">
-          <mxGeometry height="40" width="100" x="180" y="890" as="geometry" />
+          <mxGeometry height="40" width="100" x="180" y="894" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-13" parent="rhpvyBYeGVy74EJkdohd-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1380" width="280" x="480" as="geometry" />
