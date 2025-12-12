@@ -4202,7 +4202,7 @@
         <mxCell id="rhpvyBYeGVy74EJkdohd-10" parent="rhpvyBYeGVy74EJkdohd-2" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Input Qty Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="rhpvyBYeGVy74EJkdohd-11" parent="rhpvyBYeGVy74EJkdohd-2" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tambahkan Barang ke List Detail Barang" vertex="1">
+        <mxCell id="rhpvyBYeGVy74EJkdohd-11" parent="rhpvyBYeGVy74EJkdohd-2" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tambahkan Barang ke List Detail Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="460" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-12" parent="rhpvyBYeGVy74EJkdohd-2" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Ajukan Pengembalian" vertex="1">
