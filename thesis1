@@ -2974,7 +2974,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZkdKDVLzf9ZRBfxSJ7LL" name="admin-activity-pembelian">
-    <mxGraphModel dx="444" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3002,10 +3002,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-7" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Tanggal Pembelian" vertex="1">
-          <mxGeometry height="50" width="100" x="135" y="281" as="geometry" />
+          <mxGeometry height="50" width="100" x="135" y="267" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-11" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Nama Supplier" vertex="1">
-          <mxGeometry height="50" width="100" x="135" y="368" as="geometry" />
+          <mxGeometry height="50" width="100" x="135" y="347" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-13" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Scan atau Input&lt;div&gt;Kode Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="658" as="geometry" />
@@ -3089,7 +3089,7 @@
           <mxGeometry height="50" width="135" x="87.5" y="191" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-34" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Isi ID Supplier dari Database" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="368" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="347" as="geometry" />
         </mxCell>
         <mxCell id="uLjrsxImxXesXMk2FjS1-3" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="V6v30hVfR8jZXQF5jndL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uLjrsxImxXesXMk2FjS1-2">
           <mxGeometry relative="1" as="geometry" />
@@ -3190,8 +3190,8 @@
         <mxCell id="CVOz3VTjPCm7RbOz1h-t-2" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CVOz3VTjPCm7RbOz1h-t-1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="595" y="540" />
-              <mxPoint x="255" y="540" />
+              <mxPoint x="595" y="530" />
+              <mxPoint x="255" y="530" />
             </Array>
             <mxPoint x="595" y="523" as="sourcePoint" />
             <mxPoint x="285" y="613" as="targetPoint" />
