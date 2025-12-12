@@ -5502,7 +5502,7 @@
         <mxCell id="zDdOeXQteI1nzpgXuQXT-0" />
         <mxCell id="zDdOeXQteI1nzpgXuQXT-1" parent="zDdOeXQteI1nzpgXuQXT-0" />
         <mxCell id="zDdOeXQteI1nzpgXuQXT-2" parent="zDdOeXQteI1nzpgXuQXT-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="1050" width="310" x="130" as="geometry" />
+          <mxGeometry height="1060" width="310" x="130" as="geometry" />
         </mxCell>
         <mxCell id="zDdOeXQteI1nzpgXuQXT-3" parent="zDdOeXQteI1nzpgXuQXT-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -5614,7 +5614,7 @@
           <mxGeometry height="50" width="100" x="105" y="930" as="geometry" />
         </mxCell>
         <mxCell id="zDdOeXQteI1nzpgXuQXT-14" parent="zDdOeXQteI1nzpgXuQXT-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1050" width="280" x="440" as="geometry" />
+          <mxGeometry height="1060" width="280" x="440" as="geometry" />
         </mxCell>
         <mxCell id="zDdOeXQteI1nzpgXuQXT-15" parent="zDdOeXQteI1nzpgXuQXT-14" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
