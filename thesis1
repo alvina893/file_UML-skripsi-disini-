@@ -2787,7 +2787,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-45" parent="8rPaMRM0daE1oujM9DhI-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Barang Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="1470" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-51" edge="1" parent="8rPaMRM0daE1oujM9DhI-7" source="IY7dwhEqgg_wRWHcR9fZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8rPaMRM0daE1oujM9DhI-20">
           <mxGeometry relative="1" as="geometry" />
