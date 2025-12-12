@@ -4221,7 +4221,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="karyawan-update-Delivery" id="3IQqYAwCUzXir2x2RK0V">
-    <mxGraphModel dx="932" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-0" />
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-1" parent="eF6SpXMjWzmOuT8ZaSOb-0" />
@@ -4296,7 +4296,7 @@
             <mxPoint x="414" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eF6SpXMjWzmOuT8ZaSOb-26" parent="eF6SpXMjWzmOuT8ZaSOb-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Karyawan&lt;div&gt;sudah login, ada penjualan delivery pada sistem&lt;/div&gt;" vertex="1">
+        <mxCell id="eF6SpXMjWzmOuT8ZaSOb-26" parent="eF6SpXMjWzmOuT8ZaSOb-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Karyawan&lt;div&gt;sudah login, ada penjualan delivery Lunas pada sistem&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="110" y="62" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-27" edge="1" parent="eF6SpXMjWzmOuT8ZaSOb-1" source="eF6SpXMjWzmOuT8ZaSOb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eF6SpXMjWzmOuT8ZaSOb-14">
@@ -4337,7 +4337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="karyawan-update-Pickup" id="dfAwFCaIm-UH_W2hs2bk">
-    <mxGraphModel dx="932" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="b5nz23Oj7pRvngpHHUyA-0" />
         <mxCell id="b5nz23Oj7pRvngpHHUyA-1" parent="b5nz23Oj7pRvngpHHUyA-0" />
@@ -4412,7 +4412,7 @@
             <mxPoint x="414" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b5nz23Oj7pRvngpHHUyA-24" parent="b5nz23Oj7pRvngpHHUyA-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Karyawan&lt;div&gt;sudah login, ada penjualan pickup pada sistem&lt;/div&gt;" vertex="1">
+        <mxCell id="b5nz23Oj7pRvngpHHUyA-24" parent="b5nz23Oj7pRvngpHHUyA-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Karyawan&lt;div&gt;sudah login, ada penjualan pickup Lunas pada sistem&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="110" y="62" as="geometry" />
         </mxCell>
         <mxCell id="b5nz23Oj7pRvngpHHUyA-25" edge="1" parent="b5nz23Oj7pRvngpHHUyA-1" source="b5nz23Oj7pRvngpHHUyA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5nz23Oj7pRvngpHHUyA-14">
