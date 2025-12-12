@@ -3809,12 +3809,6 @@
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-25" parent="pJdGSmwLWUdJQ1yrRtWR-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1530" width="280" x="440" as="geometry" />
         </mxCell>
-        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-26" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-25" source="pJdGSmwLWUdJQ1yrRtWR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="155" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-27" parent="pJdGSmwLWUdJQ1yrRtWR-25" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
@@ -3956,6 +3950,12 @@
         </mxCell>
         <mxCell id="UDGrNjXIlrpmK1fUrucM-0" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-1" source="pJdGSmwLWUdJQ1yrRtWR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-26" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-1" source="pJdGSmwLWUdJQ1yrRtWR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pJdGSmwLWUdJQ1yrRtWR-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="595" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
