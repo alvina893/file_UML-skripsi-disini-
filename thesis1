@@ -3515,7 +3515,7 @@
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-19" parent="z59YmqfFuoYk1kjF_Vfo-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="770" width="310" x="410" as="geometry" />
         </mxCell>
-        <mxCell id="z59YmqfFuoYk1kjF_Vfo-20" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Stok Barang" vertex="1">
+        <mxCell id="z59YmqfFuoYk1kjF_Vfo-20" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Menu Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-21" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pembelian Barang" vertex="1">
