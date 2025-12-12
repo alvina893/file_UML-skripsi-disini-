@@ -3192,13 +3192,13 @@
           <mxGeometry height="1367" width="280" x="440" y="93" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-18" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-20" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pembelian Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="177" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="177" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-34" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Autofill ID Supplier dari Database" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="327" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="327" as="geometry" />
         </mxCell>
         <mxCell id="uLjrsxImxXesXMk2FjS1-3" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="V6v30hVfR8jZXQF5jndL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="uLjrsxImxXesXMk2FjS1-2">
           <mxGeometry relative="1" as="geometry" />
@@ -3299,7 +3299,7 @@
         <mxCell id="CVOz3VTjPCm7RbOz1h-t-2" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="e3LlADZLaoGkCCZrutC6-1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="595" y="490" />
+              <mxPoint x="580" y="490" />
               <mxPoint x="255" y="490" />
             </Array>
             <mxPoint x="595" y="523" as="sourcePoint" />
@@ -3329,7 +3329,7 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-17" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="595" y="250" />
+              <mxPoint x="580" y="250" />
               <mxPoint x="255" y="250" />
             </Array>
             <mxPoint x="595" y="293" as="targetPoint" />
