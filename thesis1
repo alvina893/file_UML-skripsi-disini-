@@ -5244,13 +5244,13 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-45" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Penjualan jadi &#39;Lunas&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="150" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="aubbcD0wnSqntcD6yuGs-46" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Pickup jadi &#39;Packing&#39;" vertex="1">
+        <mxCell id="aubbcD0wnSqntcD6yuGs-46" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Delivery jadi &#39;Packing&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="150" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-47" edge="1" parent="aubbcD0wnSqntcD6yuGs-38" source="aubbcD0wnSqntcD6yuGs-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aubbcD0wnSqntcD6yuGs-48" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Pickup jadi &#39;Pending&#39;" vertex="1">
+        <mxCell id="aubbcD0wnSqntcD6yuGs-48" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Delivery jadi &#39;Pending&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="30" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-49" edge="1" parent="aubbcD0wnSqntcD6yuGs-38" source="aubbcD0wnSqntcD6yuGs-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-48">
