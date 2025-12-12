@@ -3189,7 +3189,7 @@
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-20" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pembelian Baru" vertex="1">
-          <mxGeometry height="50" width="135" x="87.5" y="191" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="191" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-34" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari dan Isi ID Supplier dari Database" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="347" as="geometry" />
