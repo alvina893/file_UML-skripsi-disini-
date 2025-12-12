@@ -5406,7 +5406,7 @@
         <mxCell id="-oOlQF2lqz5MLwVfluAA-8" edge="1" parent="-oOlQF2lqz5MLwVfluAA-1" source="-oOlQF2lqz5MLwVfluAA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-oOlQF2lqz5MLwVfluAA-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-oOlQF2lqz5MLwVfluAA-9" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Status Pengiriman Terbaru" vertex="1">
+        <mxCell id="-oOlQF2lqz5MLwVfluAA-9" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Input Qty Barang yang Berkendala" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="480" as="geometry" />
         </mxCell>
         <mxCell id="-oOlQF2lqz5MLwVfluAA-10" parent="-oOlQF2lqz5MLwVfluAA-1" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tombol Ajukan Barang di Detail List Barang" vertex="1">
