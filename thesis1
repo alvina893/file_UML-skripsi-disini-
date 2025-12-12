@@ -3756,12 +3756,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="karyawan-admin-activity-stok-restock langsung" id="1w0-T1_69Wj1HFdEf0ml">
-    <mxGraphModel dx="932" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-0" />
         <mxCell id="arYJJYJy7iSMFsjMA7-s-1" parent="arYJJYJy7iSMFsjMA7-s-0" />
         <mxCell id="arYJJYJy7iSMFsjMA7-s-2" parent="arYJJYJy7iSMFsjMA7-s-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin) / Karyawan" vertex="1">
-          <mxGeometry height="720" width="280" x="130" as="geometry" />
+          <mxGeometry height="620" width="280" x="130" as="geometry" />
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-3" parent="arYJJYJy7iSMFsjMA7-s-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="128.5" y="40" as="geometry" />
@@ -3776,44 +3776,44 @@
           <mxGeometry height="50" width="100" x="90" y="100" as="geometry" />
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-11" parent="arYJJYJy7iSMFsjMA7-s-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Double Klik pada Stok Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="310" as="geometry" />
+          <mxGeometry height="50" width="100" x="24.25" y="310" as="geometry" />
         </mxCell>
         <mxCell id="iqUxxj47y2yiOfv-akvK-2" edge="1" parent="arYJJYJy7iSMFsjMA7-s-2" source="iqUxxj47y2yiOfv-akvK-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iqUxxj47y2yiOfv-akvK-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iqUxxj47y2yiOfv-akvK-0" parent="arYJJYJy7iSMFsjMA7-s-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Langsung Stok Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="400" as="geometry" />
+          <mxGeometry height="50" width="100" x="155.75" y="310" as="geometry" />
         </mxCell>
         <mxCell id="iqUxxj47y2yiOfv-akvK-1" parent="arYJJYJy7iSMFsjMA7-s-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="490" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="414" as="geometry" />
         </mxCell>
-        <mxCell id="arYJJYJy7iSMFsjMA7-s-10" edge="1" parent="arYJJYJy7iSMFsjMA7-s-2" source="arYJJYJy7iSMFsjMA7-s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iqUxxj47y2yiOfv-akvK-0">
+        <mxCell id="arYJJYJy7iSMFsjMA7-s-10" edge="1" parent="arYJJYJy7iSMFsjMA7-s-2" source="arYJJYJy7iSMFsjMA7-s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="iqUxxj47y2yiOfv-akvK-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="435" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-7" parent="arYJJYJy7iSMFsjMA7-s-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="720" width="310" x="410" as="geometry" />
+          <mxGeometry height="620" width="310" x="410" as="geometry" />
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-9" parent="arYJJYJy7iSMFsjMA7-s-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan List Stok Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-20" parent="arYJJYJy7iSMFsjMA7-s-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Stok Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="490" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="414" as="geometry" />
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-21" edge="1" parent="arYJJYJy7iSMFsjMA7-s-7" source="arYJJYJy7iSMFsjMA7-s-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="arYJJYJy7iSMFsjMA7-s-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-22" parent="arYJJYJy7iSMFsjMA7-s-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Stok Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="580" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="490" as="geometry" />
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-23" edge="1" parent="arYJJYJy7iSMFsjMA7-s-7" source="arYJJYJy7iSMFsjMA7-s-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="arYJJYJy7iSMFsjMA7-s-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="610" as="sourcePoint" />
+            <mxPoint x="155" y="534" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-25" parent="arYJJYJy7iSMFsjMA7-s-7" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="140" y="670" as="geometry" />
+          <mxGeometry height="30" width="30" x="140" y="570" as="geometry" />
         </mxCell>
         <mxCell id="arYJJYJy7iSMFsjMA7-s-26" parent="arYJJYJy7iSMFsjMA7-s-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="100" as="geometry" />
