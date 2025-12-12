@@ -4021,7 +4021,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-26" parent="eF6SpXMjWzmOuT8ZaSOb-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Karyawan&lt;div&gt;sudah login, ada penjualan delivery pada sistem&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="100" y="62" as="geometry" />
+          <mxGeometry height="70" width="110" y="62" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-27" edge="1" parent="eF6SpXMjWzmOuT8ZaSOb-1" source="eF6SpXMjWzmOuT8ZaSOb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eF6SpXMjWzmOuT8ZaSOb-14">
           <mxGeometry relative="1" as="geometry" />
