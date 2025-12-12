@@ -5497,7 +5497,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="kasir-activity-pendingLUNAS" id="bG6AkoaD4ViMVV2QVY1u">
-    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="931" dy="486" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zDdOeXQteI1nzpgXuQXT-0" />
         <mxCell id="zDdOeXQteI1nzpgXuQXT-1" parent="zDdOeXQteI1nzpgXuQXT-0" />
@@ -5528,7 +5528,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zDdOeXQteI1nzpgXuQXT-11" parent="zDdOeXQteI1nzpgXuQXT-2" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tombol Update Sudah Lunas" vertex="1">
-          <mxGeometry height="50" width="135" x="87.5" y="460" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="460" as="geometry" />
         </mxCell>
         <mxCell id="zDdOeXQteI1nzpgXuQXT-12" parent="zDdOeXQteI1nzpgXuQXT-2" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Klik Masukkan&lt;/div&gt;&lt;div&gt;ke List&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="550" as="geometry" />
@@ -5560,8 +5560,8 @@
         <mxCell id="zDdOeXQteI1nzpgXuQXT-18" parent="zDdOeXQteI1nzpgXuQXT-14" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
           <mxGeometry height="30" width="30" x="125" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="zDdOeXQteI1nzpgXuQXT-19" parent="zDdOeXQteI1nzpgXuQXT-14" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form PopUp Autofill Ajukan Pengembalian" vertex="1">
-          <mxGeometry height="50" width="135" x="72.5" y="460" as="geometry" />
+        <mxCell id="zDdOeXQteI1nzpgXuQXT-19" parent="zDdOeXQteI1nzpgXuQXT-14" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form PopUp Autofill Lunas" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="460" as="geometry" />
         </mxCell>
         <mxCell id="zDdOeXQteI1nzpgXuQXT-21" edge="1" parent="zDdOeXQteI1nzpgXuQXT-14" source="zDdOeXQteI1nzpgXuQXT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zDdOeXQteI1nzpgXuQXT-18">
           <mxGeometry relative="1" as="geometry" />
@@ -5608,6 +5608,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Mu34byXMseeaqC_5vhR-7" edge="1" parent="zDdOeXQteI1nzpgXuQXT-1" source="zDdOeXQteI1nzpgXuQXT-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="zDdOeXQteI1nzpgXuQXT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iYnAgUXeoyULrVtU39Wj-0" edge="1" parent="zDdOeXQteI1nzpgXuQXT-1" source="zDdOeXQteI1nzpgXuQXT-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zDdOeXQteI1nzpgXuQXT-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
