@@ -7033,6 +7033,12 @@
         <mxCell id="fhM-r9_LK5EguPX8YfWk-25" parent="fhM-r9_LK5EguPX8YfWk-24" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="80" width="10" x="45" y="60" as="geometry" />
         </mxCell>
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-26" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;" value=":Dashboard" vertex="1">
+          <mxGeometry height="300" width="100" x="1130" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-27" parent="fhM-r9_LK5EguPX8YfWk-26" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="45" y="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
