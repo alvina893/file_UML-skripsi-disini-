@@ -3455,12 +3455,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-hargaMassal" id="YsPAolu4RLvP91vvh2bF">
-    <mxGraphModel dx="2247" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-0" />
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-1" parent="z59YmqfFuoYk1kjF_Vfo-0" />
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-2" parent="z59YmqfFuoYk1kjF_Vfo-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="980" width="410" x="130" as="geometry" />
+          <mxGeometry height="1110" width="410" x="130" as="geometry" />
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-3" parent="z59YmqfFuoYk1kjF_Vfo-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="197.75" y="40" as="geometry" />
@@ -3571,6 +3571,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-22" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-2" source="j0s5wpUXIwvH33bu0CoQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="j0s5wpUXIwvH33bu0CoQ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-23" connectable="0" parent="j0s5wpUXIwvH33bu0CoQ-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
+          <mxGeometry relative="1" x="-0.0952" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-16" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rhombus;whiteSpace=wrap;html=1;" value="sesuai?" vertex="1">
           <mxGeometry height="40" width="100" x="159.25" y="940" as="geometry" />
         </mxCell>
@@ -3580,8 +3588,11 @@
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-20" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Mode Penetapan&lt;div&gt;Harga Massal&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="155" y="490" as="geometry" />
         </mxCell>
+        <mxCell id="j0s5wpUXIwvH33bu0CoQ-14" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" value="Klik Tombol Tetapkan ke Harga" vertex="1">
+          <mxGeometry height="50" width="100" x="159.25" y="1020" as="geometry" />
+        </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-19" parent="z59YmqfFuoYk1kjF_Vfo-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="980" width="310" x="540" as="geometry" />
+          <mxGeometry height="1110" width="310" x="540" as="geometry" />
         </mxCell>
         <mxCell id="z59YmqfFuoYk1kjF_Vfo-20" parent="z59YmqfFuoYk1kjF_Vfo-19" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Menu Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
@@ -3632,9 +3643,6 @@
         </mxCell>
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-17" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-1" source="z59YmqfFuoYk1kjF_Vfo-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="j0s5wpUXIwvH33bu0CoQ-16">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j0s5wpUXIwvH33bu0CoQ-14" parent="z59YmqfFuoYk1kjF_Vfo-1" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" value="Klik Tombol Tetapkan ke Harga" vertex="1">
-          <mxGeometry height="50" width="100" x="-140" y="770" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
