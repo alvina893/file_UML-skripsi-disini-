@@ -3455,7 +3455,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-users" id="F8msxoU-VFEAUoOPyxk2">
-    <mxGraphModel dx="-248" dy="315" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="515" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-0" />
         <mxCell id="0ESF_keQ80qXtmsPh_5W-1" parent="0ESF_keQ80qXtmsPh_5W-0" />
@@ -3564,7 +3564,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-pengembalian" id="20I_fYIZdwkp5JXCCq9U">
-    <mxGraphModel dx="932" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yFGjEewnk6zipsU0tE6d-0" />
         <mxCell id="yFGjEewnk6zipsU0tE6d-1" parent="yFGjEewnk6zipsU0tE6d-0" />
@@ -3587,7 +3587,7 @@
           <mxGeometry height="50" width="100" x="105" y="280" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-9" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Konfirmasi" vertex="1">
-          <mxGeometry height="50" width="100" x="17.5" y="480" as="geometry" />
+          <mxGeometry height="50" width="100" x="17.5" y="460" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-42" parent="yFGjEewnk6zipsU0tE6d-3" style="rhombus;whiteSpace=wrap;html=1;" value="opsi?" vertex="1">
           <mxGeometry height="40" width="75" x="117.5" y="390" as="geometry" />
@@ -3606,7 +3606,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-4" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tolak" vertex="1">
-          <mxGeometry height="50" width="100" x="192.5" y="480" as="geometry" />
+          <mxGeometry height="50" width="100" x="195" y="460" as="geometry" />
         </mxCell>
         <mxCell id="yFGjEewnk6zipsU0tE6d-40" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="yFGjEewnk6zipsU0tE6d-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-4">
           <mxGeometry relative="1" as="geometry">
@@ -3656,7 +3656,7 @@
           <mxGeometry height="50" width="100" x="192.5" y="840" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-21" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Konfirmasi Pengembalian Ditolak" vertex="1">
-          <mxGeometry height="50" width="100" x="192.5" y="550" as="geometry" />
+          <mxGeometry height="50" width="100" x="195" y="540" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-29" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Konfirmasi" vertex="1">
           <mxGeometry height="50" width="100" x="190" y="920" as="geometry" />
@@ -3740,7 +3740,7 @@
         <mxCell id="9drwE3eR9g25YAIwxK7k-27" edge="1" parent="yFGjEewnk6zipsU0tE6d-1" source="9drwE3eR9g25YAIwxK7k-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="662" y="575" />
+              <mxPoint x="662" y="565" />
               <mxPoint x="662" y="1035" />
             </Array>
             <mxPoint x="627.45" y="575" as="sourcePoint" />
