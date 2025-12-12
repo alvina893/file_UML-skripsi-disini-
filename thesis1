@@ -3290,7 +3290,7 @@
             <mxPoint x="155" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdLoQLts1n676adYL69i-13" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Pembalian Baru" vertex="1">
+        <mxCell id="tdLoQLts1n676adYL69i-13" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Pembelian Baru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="670" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-25" parent="dahKemnSM7VH1qRMd_MF-7" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
