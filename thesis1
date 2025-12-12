@@ -4221,7 +4221,7 @@
           <mxGeometry height="370" width="501" x="149" y="182" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-2" parent="rhpvyBYeGVy74EJkdohd-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="1140" width="310" x="130" as="geometry" />
+          <mxGeometry height="1240" width="310" x="130" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-3" parent="rhpvyBYeGVy74EJkdohd-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -4312,7 +4312,7 @@
           <mxGeometry height="50" width="100" x="180" y="850" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-13" parent="rhpvyBYeGVy74EJkdohd-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1140" width="280" x="440" as="geometry" />
+          <mxGeometry height="1240" width="280" x="440" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-15" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Input Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
@@ -4341,14 +4341,23 @@
         <mxCell id="iuMst8HtT02tSJ0kSkoV-20" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="940" as="geometry" />
         </mxCell>
-        <mxCell id="iuMst8HtT02tSJ0kSkoV-30" edge="1" parent="rhpvyBYeGVy74EJkdohd-13" source="iuMst8HtT02tSJ0kSkoV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rhpvyBYeGVy74EJkdohd-20">
+        <mxCell id="iuMst8HtT02tSJ0kSkoV-30" edge="1" parent="rhpvyBYeGVy74EJkdohd-13" source="Gray5WztbYdxHZtdDBQ6-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rhpvyBYeGVy74EJkdohd-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iuMst8HtT02tSJ0kSkoV-23" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Print Struk Bukti Penjualan" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-20" parent="rhpvyBYeGVy74EJkdohd-13" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="125" y="1090" as="geometry" />
+          <mxGeometry height="30" width="30" x="125" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="Gray5WztbYdxHZtdDBQ6-0" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Penjualan" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="1110" as="geometry" />
+        </mxCell>
+        <mxCell id="Gray5WztbYdxHZtdDBQ6-1" edge="1" parent="rhpvyBYeGVy74EJkdohd-13" source="iuMst8HtT02tSJ0kSkoV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Gray5WztbYdxHZtdDBQ6-0" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1070" as="sourcePoint" />
+            <mxPoint x="580" y="1170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-25" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="rhpvyBYeGVy74EJkdohd-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="rhpvyBYeGVy74EJkdohd-3">
           <mxGeometry relative="1" as="geometry">
