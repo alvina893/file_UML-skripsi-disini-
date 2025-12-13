@@ -7129,13 +7129,13 @@
             <mxPoint x="3" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eo5y4WnEJHd-Z6mkc6pF-5" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-27" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" target="fhM-r9_LK5EguPX8YfWk-25" value="Menampilkan dashboard">
+        <mxCell id="eo5y4WnEJHd-Z6mkc6pF-5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" value="Menampilkan dashboard">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="330" />
+              <mxPoint x="1000" y="338" />
             </Array>
-            <mxPoint x="1170" y="370" as="sourcePoint" />
-            <mxPoint x="1000" y="370" as="targetPoint" />
+            <mxPoint x="1175.0000000000002" y="338.0000000000002" as="sourcePoint" />
+            <mxPoint x="995.0000000000002" y="338.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
