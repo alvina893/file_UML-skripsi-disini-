@@ -6948,7 +6948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aokuq835-r8QpwfEjLZL" name="sequence-login">
-    <mxGraphModel dx="1434" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7116,6 +7116,11 @@
             <mxPoint x="60" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <UserObject label="&lt;img src=&quot;https://img.plantuml.biz/plantuml/png/RL9DQyCm3BqR_1z43sDZbDrt65qN2gE3cMxihYGYrM8xmNO6-_TJFZhIj2URzvxqdcHlOiAGEcUrmY8r0VOOEMZL2ie5j-WJh7PDS638VtTeqQy08-pCGfDXmXmZ3MosNR0ci4yK1j8SjD9gy87ratI2HtXhAlPQoLsGR2l85rekHGDT9CaZsFeaxgq667vwqLWcvDXoQWOvXQC0zjBirRTTWXm3-WfkvIoQak0177ePyEuinhFBsKBPEuu5LwASY4MCJtGjsnezS287Dt34KE5b71EQI15QSZd-zgtE0domanKAEst_6bbIGaavqymplkzxpx7A70Hu4NaDCOMkXdkOvjTAkF-QKJ9VuN8uoHcnblU9P2aYQxKXNyf7-WC0&quot;&gt;" link="&lt;img src=&quot;https://img.plantuml.biz/plantuml/png/RL9DQyCm3BqR_1z43sDZbDrt65qN2gE3cMxihYGYrM8xmNO6-_TJFZhIj2URzvxqdcHlOiAGEcUrmY8r0VOOEMZL2ie5j-WJh7PDS638VtTeqQy08-pCGfDXmXmZ3MosNR0ci4yK1j8SjD9gy87ratI2HtXhAlPQoLsGR2l85rekHGDT9CaZsFeaxgq667vwqLWcvDXoQWOvXQC0zjBirRTTWXm3-WfkvIoQak0177ePyEuinhFBsKBPEuu5LwASY4MCJtGjsnezS287Dt34KE5b71EQI15QSZd-zgtE0domanKAEst_6bbIGaavqymplkzxpx7A70Hu4NaDCOMkXdkOvjTAkF-QKJ9VuN8uoHcnblU9P2aYQxKXNyf7-WC0&quot;&gt;" id="eo5y4WnEJHd-Z6mkc6pF-10">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="30" x="60" y="565" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
