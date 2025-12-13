@@ -7005,7 +7005,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-11" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;flipH=1;" value="Admin (Pemilik)" vertex="1">
-          <mxGeometry height="300" width="20" x="414" y="30" as="geometry" />
+          <mxGeometry height="300" width="20" x="380" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-20" parent="fhM-r9_LK5EguPX8YfWk-11" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="50" width="10" x="5" y="60" as="geometry" />
@@ -7104,7 +7104,7 @@
             <mxPoint x="610" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eo5y4WnEJHd-Z6mkc6pF-2" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" value="Username / Password Salah">
+        <mxCell id="eo5y4WnEJHd-Z6mkc6pF-2" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" target="eo5y4WnEJHd-Z6mkc6pF-1" value="Pesan Username / Password Salah">
           <mxGeometry relative="1" x="-0.0526" as="geometry">
             <mxPoint as="offset" />
             <Array as="points">
