@@ -6948,11 +6948,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aokuq835-r8QpwfEjLZL" name="sequence-login">
-    <mxGraphModel dx="1434" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1165" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fhM-r9_LK5EguPX8YfWk-11" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;flipH=1;" value="Admin (Pemilik)" vertex="1">
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-11" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;flipH=1;" value="Pengguna (User)" vertex="1">
           <mxGeometry height="450" width="20" x="20" y="34" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-20" parent="fhM-r9_LK5EguPX8YfWk-11" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
@@ -6996,7 +6996,7 @@
         <mxCell id="fhM-r9_LK5EguPX8YfWk-34" parent="fhM-r9_LK5EguPX8YfWk-24" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
           <mxGeometry height="40" width="10" x="50" y="157" as="geometry" />
         </mxCell>
-        <mxCell id="fhM-r9_LK5EguPX8YfWk-35" edge="1" parent="fhM-r9_LK5EguPX8YfWk-24" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="fhM-r9_LK5EguPX8YfWk-34" value="validasi data">
+        <mxCell id="fhM-r9_LK5EguPX8YfWk-35" edge="1" parent="fhM-r9_LK5EguPX8YfWk-24" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="fhM-r9_LK5EguPX8YfWk-34" value="validasi data dan role">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="85" y="177" />
