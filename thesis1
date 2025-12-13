@@ -6948,7 +6948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aokuq835-r8QpwfEjLZL" name="sequence-login">
-    <mxGraphModel dx="643" dy="1577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7057,7 +7057,7 @@
           <mxGeometry height="480" width="100" x="1130" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-27" parent="fhM-r9_LK5EguPX8YfWk-26" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="80" width="10" x="45" y="290" as="geometry" />
+          <mxGeometry height="80" width="10" x="45" y="260" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-28" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="fhM-r9_LK5EguPX8YfWk-23">
           <mxGeometry relative="1" as="geometry">
@@ -7117,8 +7117,8 @@
         <mxCell id="eo5y4WnEJHd-Z6mkc6pF-3" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="fhM-r9_LK5EguPX8YfWk-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="325" />
-              <mxPoint x="1040" y="325" />
+              <mxPoint x="1100" y="295" />
+              <mxPoint x="1100" y="295" />
             </Array>
             <mxPoint x="1000" y="325" as="sourcePoint" />
             <mxPoint x="1173" y="330" as="targetPoint" />
@@ -7132,7 +7132,7 @@
         <mxCell id="eo5y4WnEJHd-Z6mkc6pF-5" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-27" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" target="fhM-r9_LK5EguPX8YfWk-25" value="Menampilkan dashboard">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1113" y="370" />
+              <mxPoint x="1000" y="330" />
             </Array>
             <mxPoint x="1170" y="370" as="sourcePoint" />
             <mxPoint x="1000" y="370" as="targetPoint" />
