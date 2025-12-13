@@ -7121,6 +7121,11 @@
             <mxGeometry height="40" width="30" x="60" y="565" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&lt;img src=&quot;https://img.plantuml.biz/plantuml/png/NP31QiCm44Jl0lt3a4Cl9J_WGqc2APZq5fBxrjxMYstPQANszxjMagRq9cRU3AFTQQAOyZHwHssQ8yxAqRl5H6bbeP2mUPi_9U1rZjC6f3Wt__nzJZrE7B-avKAiWdST9NedPTG7xxnRYx5ziJWgD6792TcaG1FZ2GkfVi-nCwvPgT9PuIXH9WoHEmugP2kBOK1zCFj2etIayjladUdRHxws3SN4C-8yyYD_0ouSvKE6jQCdxV_ik8BtmQT4AIl6SefxrtLg-LY5_Q2iKD744-oPIMxOZaDd5_u1&quot;&gt;" link="&lt;img src=&quot;https://img.plantuml.biz/plantuml/png/NP31QiCm44Jl0lt3a4Cl9J_WGqc2APZq5fBxrjxMYstPQANszxjMagRq9cRU3AFTQQAOyZHwHssQ8yxAqRl5H6bbeP2mUPi_9U1rZjC6f3Wt__nzJZrE7B-avKAiWdST9NedPTG7xxnRYx5ziJWgD6792TcaG1FZ2GkfVi-nCwvPgT9PuIXH9WoHEmugP2kBOK1zCFj2etIayjladUdRHxws3SN4C-8yyYD_0ouSvKE6jQCdxV_ik8BtmQT4AIl6SefxrtLg-LY5_Q2iKD744-oPIMxOZaDd5_u1&quot;&gt;" id="eo5y4WnEJHd-Z6mkc6pF-11">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="30" x="70" y="1260" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
