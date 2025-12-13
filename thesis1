@@ -7028,13 +7028,13 @@
           <mxGeometry height="490" width="100" x="550" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-18" parent="fhM-r9_LK5EguPX8YfWk-21" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="230" width="10" x="45" y="60" as="geometry" />
+          <mxGeometry height="350" width="10" x="45" y="60" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-22" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;" value=":Sistem" vertex="1">
           <mxGeometry height="490" width="100" x="727" y="30" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-23" parent="fhM-r9_LK5EguPX8YfWk-22" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="275" width="10" x="45" y="95" as="geometry" />
+          <mxGeometry height="315" width="10" x="45" y="95" as="geometry" />
         </mxCell>
         <mxCell id="fhM-r9_LK5EguPX8YfWk-24" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;" value=":Database" vertex="1">
           <mxGeometry height="490" width="100" x="940" y="30" as="geometry" />
@@ -7145,6 +7145,15 @@
             </Array>
             <mxPoint x="960" y="370.0000000000002" as="sourcePoint" />
             <mxPoint x="780" y="370.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eo5y4WnEJHd-Z6mkc6pF-7" edge="1" parent="1" source="fhM-r9_LK5EguPX8YfWk-23" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" target="fhM-r9_LK5EguPX8YfWk-18" value="Menampilkan dashboard">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="612.9999999999998" y="390" />
+            </Array>
+            <mxPoint x="780" y="390" as="sourcePoint" />
+            <mxPoint x="610" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
