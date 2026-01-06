@@ -7027,7 +7027,7 @@
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-15" parent="u2R2A6VwlVuXDPNBlX9A-13" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.11931818181818182;arcSize=10;flipV=1;labelPosition=center;align=center;" value="Hubungi agen&amp;nbsp;&lt;div&gt;supplier via chat&lt;/div&gt;&lt;div&gt;atau telepon&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="35" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="u2R2A6VwlVuXDPNBlX9A-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai pesanan pembelian barang supply" vertex="1">
+        <mxCell id="u2R2A6VwlVuXDPNBlX9A-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="60" width="125" x="37.5" y="50" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-18" parent="u2R2A6VwlVuXDPNBlX9A-13" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.11931818181818182;arcSize=10;flipV=1;labelPosition=center;align=center;" value="Sampaikan rincian pesanan pembelian barang supply" vertex="1">
