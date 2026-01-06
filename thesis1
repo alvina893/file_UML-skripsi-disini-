@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="48">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9" pages="47">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1246" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6948,7 +6948,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Aokuq835-r8QpwfEjLZL" name="sequence-login">
-    <mxGraphModel dx="1864" dy="2351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="1972" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6992,178 +6992,6 @@
             <mxGeometry height="40" width="30" x="1310" y="1120" as="geometry" />
           </mxCell>
         </UserObject>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="Bjn9LbyvXzv_neApK-te" name="sequence-login--">
-    <mxGraphModel dx="1737" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="OsTOLACoZm08bi-hjXdS-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelBackgroundColor=default;labelPosition=center;verticalLabelPosition=top;align=center;flipH=1;" value="Pengguna (User)" vertex="1">
-          <mxGeometry height="450" width="20" x="650" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-2" parent="OsTOLACoZm08bi-hjXdS-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="50" width="10" x="5" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-3" parent="OsTOLACoZm08bi-hjXdS-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="50" width="10" x="5" y="225" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-4" parent="OsTOLACoZm08bi-hjXdS-1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="50" width="10" x="5" y="376" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-5" edge="1" parent="1" source="OsTOLACoZm08bi-hjXdS-2" style="html=1;verticalAlign=bottom;startArrow=none;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;exitX=1;exitY=0;exitDx=0;exitDy=5;exitPerimeter=0;startFill=0;" target="OsTOLACoZm08bi-hjXdS-8" value="">
-          <mxGeometry relative="1" x="0.0341" y="5" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="680" y="465" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-6" connectable="0" parent="OsTOLACoZm08bi-hjXdS-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Isi username, password" vertex="1">
-          <mxGeometry relative="1" x="-0.099" as="geometry">
-            <mxPoint x="7" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-7" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;size=26;" value=":User Login" vertex="1">
-          <mxGeometry height="446" width="100" x="820" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-8" parent="OsTOLACoZm08bi-hjXdS-7" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="370" width="10" x="45" y="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-9" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;" value=":Sistem" vertex="1">
-          <mxGeometry height="446" width="100" x="997" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-10" parent="OsTOLACoZm08bi-hjXdS-9" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="335" width="10" x="45" y="95" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-11" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;" value=":Database" vertex="1">
-          <mxGeometry height="446" width="100" x="1210" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-12" parent="OsTOLACoZm08bi-hjXdS-11" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="280" width="10" x="45" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-13" parent="OsTOLACoZm08bi-hjXdS-11" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="40" width="10" x="50" y="157" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-14" edge="1" parent="OsTOLACoZm08bi-hjXdS-11" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" target="OsTOLACoZm08bi-hjXdS-13" value="validasi data dan role">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="85" y="177" />
-            </Array>
-            <mxPoint x="55" y="147" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-15" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};flipH=1;" value=":Dashboard" vertex="1">
-          <mxGeometry height="446" width="100" x="1400" y="410" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-16" parent="OsTOLACoZm08bi-hjXdS-15" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="170" width="10" x="45" y="260" as="geometry" />
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-17" edge="1" parent="1" source="OsTOLACoZm08bi-hjXdS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="OsTOLACoZm08bi-hjXdS-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="910" y="510" />
-              <mxPoint x="910" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-18" connectable="0" parent="OsTOLACoZm08bi-hjXdS-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Username, password" vertex="1">
-          <mxGeometry relative="1" x="-0.1519" as="geometry">
-            <mxPoint x="11" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-19" edge="1" parent="1" source="OsTOLACoZm08bi-hjXdS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="OsTOLACoZm08bi-hjXdS-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1090" y="545" />
-              <mxPoint x="1090" y="545" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-20" connectable="0" parent="OsTOLACoZm08bi-hjXdS-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Data pengguna" vertex="1">
-          <mxGeometry relative="1" x="-0.0711" y="1" as="geometry">
-            <mxPoint x="3" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-21" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" value="Username / password salah">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1195" y="599" />
-            </Array>
-            <mxPoint x="1260.3333333333333" y="599" as="sourcePoint" />
-            <mxPoint x="1052" y="599" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-22" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" target="OsTOLACoZm08bi-hjXdS-8" value="Username / password salah">
-          <mxGeometry relative="1" x="-0.0526" as="geometry">
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="994" y="620" />
-            </Array>
-            <mxPoint x="1041" y="620" as="sourcePoint" />
-            <mxPoint x="880" y="620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-23" edge="1" parent="1" source="OsTOLACoZm08bi-hjXdS-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="OsTOLACoZm08bi-hjXdS-3" value="Pesan username / password salah">
-          <mxGeometry relative="1" x="-0.0526" as="geometry">
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="818" y="640" />
-            </Array>
-            <mxPoint x="865" y="640" as="sourcePoint" />
-            <mxPoint x="699" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-24" edge="1" parent="1" source="OsTOLACoZm08bi-hjXdS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="OsTOLACoZm08bi-hjXdS-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1370" y="675" />
-              <mxPoint x="1370" y="675" />
-            </Array>
-            <mxPoint x="1270" y="705" as="sourcePoint" />
-            <mxPoint x="1443" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-25" connectable="0" parent="OsTOLACoZm08bi-hjXdS-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Menampilkan dashboard" vertex="1">
-          <mxGeometry relative="1" x="-0.0711" y="1" as="geometry">
-            <mxPoint x="3" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-26" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" value="Menampilkan dashboard">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1270" y="726" />
-            </Array>
-            <mxPoint x="1445.0000000000002" y="726.0000000000002" as="sourcePoint" />
-            <mxPoint x="1265.0000000000002" y="726.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-27" edge="1" parent="1" source="OsTOLACoZm08bi-hjXdS-12" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" target="OsTOLACoZm08bi-hjXdS-10" value="Menampilkan dashboard">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1054.9999999999998" y="750" />
-            </Array>
-            <mxPoint x="1230" y="750.0000000000002" as="sourcePoint" />
-            <mxPoint x="1050" y="750.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-28" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" target="OsTOLACoZm08bi-hjXdS-8" value="Menampilkan dashboard">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="882.9999999999998" y="770" />
-            </Array>
-            <mxPoint x="1050" y="770" as="sourcePoint" />
-            <mxPoint x="880" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OsTOLACoZm08bi-hjXdS-29" edge="1" parent="1" source="OsTOLACoZm08bi-hjXdS-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" target="OsTOLACoZm08bi-hjXdS-4" value="Menampilkan dashboard">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="697.9999999999998" y="790" />
-            </Array>
-            <mxPoint x="865" y="790" as="sourcePoint" />
-            <mxPoint x="690" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
