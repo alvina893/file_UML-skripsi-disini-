@@ -7069,6 +7069,9 @@
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-12" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;verticalAlign=middle;align=center;spacing=0;spacingRight=12;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Dokumen&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;konfirmasi&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;pembelian&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;barang&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;supply&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="85" width="127.5" x="221.25" y="470" as="geometry" />
         </mxCell>
+        <mxCell id="jCbEA4ZrdzZ185md5h_U-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Faktur Konfirmasi Pembelian telah Diterima&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="160" as="geometry" />
+        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1100" width="200" as="geometry" />
         </mxCell>
