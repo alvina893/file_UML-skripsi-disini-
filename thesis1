@@ -2615,7 +2615,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-barang" id="YzfhHQrpiMf0nIn3FK_U">
-    <mxGraphModel dx="1389" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="463" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8rPaMRM0daE1oujM9DhI-0" />
         <mxCell id="8rPaMRM0daE1oujM9DhI-1" parent="8rPaMRM0daE1oujM9DhI-0" />
@@ -2717,7 +2717,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-23" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Satuan Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="670" as="geometry" />
+          <mxGeometry height="50" width="100" x="30" y="710" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-29" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="IY7dwhEqgg_wRWHcR9fZ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IY7dwhEqgg_wRWHcR9fZ-28">
           <mxGeometry relative="1" as="geometry" />
@@ -2873,9 +2873,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="1105" />
-              <mxPoint x="680" y="830" />
-              <mxPoint x="300" y="830" />
-              <mxPoint x="300" y="695" />
+              <mxPoint x="680" y="850" />
+              <mxPoint x="300" y="850" />
+              <mxPoint x="300" y="735" />
             </Array>
           </mxGeometry>
         </mxCell>
