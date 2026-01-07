@@ -7072,8 +7072,8 @@
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-4" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="E8parfckR2CZ24kqbwVu-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="u2R2A6VwlVuXDPNBlX9A-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="275" />
-              <mxPoint x="580" y="1197" />
+              <mxPoint x="380" y="275" />
+              <mxPoint x="380" y="1197" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -7163,7 +7163,7 @@
           <mxGeometry height="1280" width="200" x="400" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-1" parent="u2R2A6VwlVuXDPNBlX9A-35" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="Nota Konfirmasi Pembelian Barang sudah Diterima" vertex="1">
-          <mxGeometry height="70" width="125" x="50" y="350" as="geometry" />
+          <mxGeometry height="70" width="125" x="37.5" y="350" as="geometry" />
         </mxCell>
         <mxCell id="jCbEA4ZrdzZ185md5h_U-3" edge="1" parent="1" source="jCbEA4ZrdzZ185md5h_U-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jCbEA4ZrdzZ185md5h_U-1">
           <mxGeometry relative="1" as="geometry" />
@@ -7188,7 +7188,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="300" y="330" />
-              <mxPoint x="513" y="330" />
+              <mxPoint x="500" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
