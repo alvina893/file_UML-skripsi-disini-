@@ -3278,7 +3278,7 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-22" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Hitung Subtotal dan Total Barang" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="797" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-36" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cari dan Autofill Nama, Satuan dan Harga Beli Barang&lt;/div&gt;" vertex="1">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-36" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Autofill Nama, Satuan dan Harga Beli Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="135" x="77.5" y="707" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-48" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tambahkan Barang ke List Detail Pembelian Barang" vertex="1">
