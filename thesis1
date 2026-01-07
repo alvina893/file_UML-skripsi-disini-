@@ -7054,9 +7054,6 @@
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
           <mxGeometry height="1100" width="200" x="200" as="geometry" />
         </mxCell>
-        <mxCell id="u2R2A6VwlVuXDPNBlX9A-9" parent="u2R2A6VwlVuXDPNBlX9A-1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.11931818181818182;arcSize=10;flipV=1;labelPosition=center;align=center;" value="Infokan toko bahwa barang&amp;nbsp;&lt;div&gt;tidak tersedia&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="130" x="35" y="470" as="geometry" />
-        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-12" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;verticalAlign=middle;align=center;spacing=0;spacingRight=12;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Dokumen&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;konfirmasi&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;pembelian&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;barang&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;supply&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="85" width="127.5" x="32.5" y="650" as="geometry" />
         </mxCell>
@@ -7066,8 +7063,14 @@
         <mxCell id="E8parfckR2CZ24kqbwVu-5" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Barang" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="245" as="geometry" />
         </mxCell>
+        <mxCell id="E8parfckR2CZ24kqbwVu-18" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="E8parfckR2CZ24kqbwVu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-15" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pembelian" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="E8parfckR2CZ24kqbwVu-17" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="470" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1100" width="200" as="geometry" />
