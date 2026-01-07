@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ASI BARU">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7060,14 +7060,8 @@
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-9" parent="u2R2A6VwlVuXDPNBlX9A-1" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.11931818181818182;arcSize=10;flipV=1;labelPosition=center;align=center;" value="Infokan toko bahwa barang&amp;nbsp;&lt;div&gt;tidak tersedia&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="35" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="u2R2A6VwlVuXDPNBlX9A-10" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Proses pesanan&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;pembelian&lt;/span&gt;&lt;div&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;div&gt;barang supply&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="225" y="365" as="geometry" />
-        </mxCell>
-        <mxCell id="u2R2A6VwlVuXDPNBlX9A-11" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="u2R2A6VwlVuXDPNBlX9A-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="u2R2A6VwlVuXDPNBlX9A-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-12" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;verticalAlign=middle;align=center;spacing=0;spacingRight=12;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Dokumen&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap; background-color: transparent;&quot;&gt;konfirmasi&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;pembelian&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;barang&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;supply&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="85" width="127.5" x="221.25" y="470" as="geometry" />
+          <mxGeometry height="85" width="127.5" x="32.5" y="650" as="geometry" />
         </mxCell>
         <mxCell id="jCbEA4ZrdzZ185md5h_U-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Supplier" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="130" as="geometry" />
