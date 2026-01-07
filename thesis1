@@ -7066,6 +7066,9 @@
         <mxCell id="jCbEA4ZrdzZ185md5h_U-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Supplier" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="130" as="geometry" />
         </mxCell>
+        <mxCell id="E8parfckR2CZ24kqbwVu-5" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Barang" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="257" as="geometry" />
+        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1100" width="200" as="geometry" />
         </mxCell>
@@ -7127,6 +7130,9 @@
             </Array>
             <mxPoint x="505" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E8parfckR2CZ24kqbwVu-6" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
