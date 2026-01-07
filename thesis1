@@ -2700,7 +2700,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-16" parent="8rPaMRM0daE1oujM9DhI-2" style="rhombus;whiteSpace=wrap;html=1;" value="tersedia?" vertex="1">
-          <mxGeometry height="40" width="75" x="42.5" y="830" as="geometry" />
+          <mxGeometry height="40" width="75" x="42.5" y="860" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-18" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik &#39;+&#39; Tambah Satuan Baru" vertex="1">
           <mxGeometry height="50" width="100" x="117.5" y="940" as="geometry" />
