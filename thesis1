@@ -7078,9 +7078,6 @@
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="60" width="125" x="37.5" y="42" as="geometry" />
         </mxCell>
-        <mxCell id="u2R2A6VwlVuXDPNBlX9A-24" parent="u2R2A6VwlVuXDPNBlX9A-13" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.11931818181818182;arcSize=10;flipV=1;labelPosition=center;align=center;" value="Batalkan pesanan" vertex="1">
-          <mxGeometry height="60" width="125" x="37.5" y="580" as="geometry" />
-        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-25" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="60" width="125" x="37.5" y="690" as="geometry" />
         </mxCell>
