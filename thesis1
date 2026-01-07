@@ -7174,8 +7174,8 @@
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="358" width="501" x="49.5" y="890" as="geometry" />
         </mxCell>
-        <mxCell id="_7JFgMRsa0Y7uNnYHq-e-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Jika ada pengembalian" vertex="1">
-          <mxGeometry height="30" width="150" x="50" y="880" as="geometry" />
+        <mxCell id="_7JFgMRsa0Y7uNnYHq-e-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;" value="Jika ada pengembalian" vertex="1">
+          <mxGeometry height="30" width="150" x="50" y="876" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
