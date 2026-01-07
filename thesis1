@@ -7097,7 +7097,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-3" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="37.5" y="270" as="geometry" />
+          <mxGeometry height="60" width="120" x="37.5" y="257" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1100" width="200" x="400" as="geometry" />
@@ -7122,8 +7122,8 @@
         <mxCell id="E8parfckR2CZ24kqbwVu-4" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.538;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;" target="E8parfckR2CZ24kqbwVu-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="505" y="230" />
-              <mxPoint x="98" y="230" />
+              <mxPoint x="505" y="220" />
+              <mxPoint x="98" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
