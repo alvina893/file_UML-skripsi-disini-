@@ -3387,7 +3387,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-lowStock-restock" id="R2oKagv7CHq54S3NzSZE">
-    <mxGraphModel dx="1078" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="dahKemnSM7VH1qRMd_MF-0" />
         <mxCell id="dahKemnSM7VH1qRMd_MF-1" parent="dahKemnSM7VH1qRMd_MF-0" />
@@ -3395,16 +3395,16 @@
           <mxGeometry height="730" width="280" x="130" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-3" parent="dahKemnSM7VH1qRMd_MF-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
-          <mxGeometry height="22" width="23" x="128.5" y="40" as="geometry" />
+          <mxGeometry height="22" width="23" x="128.5" y="33" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-4" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Stok Barang&#39;" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="200" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="190" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-5" edge="1" parent="dahKemnSM7VH1qRMd_MF-2" source="dahKemnSM7VH1qRMd_MF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-6" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="100" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="80" as="geometry" />
         </mxCell>
         <mxCell id="z46HymlZt9gvfOL-1rAK-0" edge="1" parent="dahKemnSM7VH1qRMd_MF-2" source="KDdctBE9eMKrA6LH6f-A-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-11">
           <mxGeometry relative="1" as="geometry">
@@ -3412,22 +3412,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KDdctBE9eMKrA6LH6f-A-0" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tab &#39;Low Stok&#39;" vertex="1">
-          <mxGeometry height="50" width="100" x="20" y="310" as="geometry" />
+          <mxGeometry height="50" width="100" x="20" y="300" as="geometry" />
         </mxCell>
         <mxCell id="z46HymlZt9gvfOL-1rAK-2" edge="1" parent="dahKemnSM7VH1qRMd_MF-2" source="dahKemnSM7VH1qRMd_MF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="z46HymlZt9gvfOL-1rAK-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-11" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Filter Barang by Supplier" vertex="1">
-          <mxGeometry height="50" width="100" x="151.5" y="310" as="geometry" />
+          <mxGeometry height="50" width="100" x="151.5" y="300" as="geometry" />
         </mxCell>
         <mxCell id="z46HymlZt9gvfOL-1rAK-4" edge="1" parent="dahKemnSM7VH1qRMd_MF-2" source="z46HymlZt9gvfOL-1rAK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="z46HymlZt9gvfOL-1rAK-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="z46HymlZt9gvfOL-1rAK-1" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="20" y="410" as="geometry" />
+          <mxGeometry height="50" width="100" x="20" y="400" as="geometry" />
         </mxCell>
         <mxCell id="z46HymlZt9gvfOL-1rAK-3" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Restock Semua" vertex="1">
-          <mxGeometry height="50" width="100" x="151.5" y="410" as="geometry" />
+          <mxGeometry height="50" width="100" x="151.5" y="400" as="geometry" />
         </mxCell>
         <mxCell id="tdLoQLts1n676adYL69i-0" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="20" y="500" as="geometry" />
@@ -3442,19 +3442,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tdLoQLts1n676adYL69i-11" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Simpan" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="600" as="geometry" />
+          <mxGeometry height="50" width="100" x="151.5" y="600" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-7" parent="dahKemnSM7VH1qRMd_MF-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="730" width="310" x="410" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-9" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Stok Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="190" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-22" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Pembelian Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="410" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="400" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-26" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="100" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="80" as="geometry" />
         </mxCell>
         <mxCell id="tdLoQLts1n676adYL69i-16" edge="1" parent="dahKemnSM7VH1qRMd_MF-7" source="tdLoQLts1n676adYL69i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-25">
           <mxGeometry relative="1" as="geometry">
