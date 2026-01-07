@@ -7003,9 +7003,6 @@
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier (Agen Supplier)" vertex="1">
           <mxGeometry height="1100" width="400" x="200" as="geometry" />
         </mxCell>
-        <mxCell id="u2R2A6VwlVuXDPNBlX9A-2" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Tinjau detail pesanan dan cek ketersedian barang&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="250" as="geometry" />
-        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-7" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Barang tersedia?" vertex="1">
           <mxGeometry height="70" width="120" x="40" y="360" as="geometry" />
         </mxCell>
@@ -7023,12 +7020,6 @@
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1100" width="200" as="geometry" />
-        </mxCell>
-        <mxCell id="u2R2A6VwlVuXDPNBlX9A-15" parent="u2R2A6VwlVuXDPNBlX9A-13" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.11931818181818182;arcSize=10;flipV=1;labelPosition=center;align=center;" value="Hubungi agen&amp;nbsp;&lt;div&gt;supplier via chat&lt;/div&gt;&lt;div&gt;atau telepon&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="130" x="35" y="150" as="geometry" />
-        </mxCell>
-        <mxCell id="JGIkbXf4R9cWXVJmQqvY-1" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="u2R2A6VwlVuXDPNBlX9A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="u2R2A6VwlVuXDPNBlX9A-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="60" width="125" x="37.5" y="50" as="geometry" />
@@ -7053,6 +7044,12 @@
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-31" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Terima surat&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;konfirmasi&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;pembelian&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;barang&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-wrap-mode: nowrap;&quot;&gt;&amp;nbsp;supply&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="125" x="40" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="u2R2A6VwlVuXDPNBlX9A-2" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Form Input Barang&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JGIkbXf4R9cWXVJmQqvY-1" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="u2R2A6VwlVuXDPNBlX9A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="u2R2A6VwlVuXDPNBlX9A-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier (Kurir Supplier)" vertex="1">
           <mxGeometry height="1100" width="200" x="600" as="geometry" />
