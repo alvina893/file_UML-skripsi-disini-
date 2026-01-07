@@ -3162,7 +3162,7 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-11" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Nama Supplier" vertex="1">
           <mxGeometry height="50" width="100" x="135" y="327" as="geometry" />
         </mxCell>
-        <mxCell id="qSfW9CH8Ka733of-UM4c-13" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cari Barang&lt;/div&gt;" vertex="1">
+        <mxCell id="qSfW9CH8Ka733of-UM4c-13" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cari Barang" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="659" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-14" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty" vertex="1">
