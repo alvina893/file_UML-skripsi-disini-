@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ASI BARU">
-    <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7231,9 +7231,6 @@
             <mxPoint x="290" y="760" as="sourcePoint" />
             <mxPoint x="660" y="770" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="u2R2A6VwlVuXDPNBlX9A-27" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="60" width="125" x="1240" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ada pengajuan pengembalian dari kasir/karyawan" vertex="1">
           <mxGeometry height="23" width="130" x="30" y="924" as="geometry" />
