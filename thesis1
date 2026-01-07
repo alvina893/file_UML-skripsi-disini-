@@ -7102,7 +7102,7 @@
         <mxCell id="E8parfckR2CZ24kqbwVu-3" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Barang" vertex="1">
           <mxGeometry height="60" width="120" x="37.5" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="E8parfckR2CZ24kqbwVu-8" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Barang" vertex="1">
+        <mxCell id="E8parfckR2CZ24kqbwVu-8" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pembelian" vertex="1">
           <mxGeometry height="60" width="120" x="30" y="360" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
