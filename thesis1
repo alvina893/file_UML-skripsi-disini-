@@ -2985,7 +2985,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EUScuQPbRrJSguZwzaE2-8" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Status Stok&lt;div&gt;Semua Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="630" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="633" as="geometry" />
         </mxCell>
         <mxCell id="DbxT6OjAmADaucnP6Lac-1" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="EUScuQPbRrJSguZwzaE2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EUScuQPbRrJSguZwzaE2-8">
           <mxGeometry relative="1" as="geometry" />
@@ -3003,7 +3003,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GAo3yOg0b0Kjpya_D4sj-1" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Barang Low Stok&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="710" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="707" as="geometry" />
         </mxCell>
         <mxCell id="5rC1mDAmDbNRErBGzYk2-1" edge="1" parent="1" source="5rC1mDAmDbNRErBGzYk2-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EXahoBi8N_f_pk358-Yt-2">
           <mxGeometry relative="1" as="geometry">
