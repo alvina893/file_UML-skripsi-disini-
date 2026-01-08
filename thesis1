@@ -7081,9 +7081,6 @@
             <mxPoint x="200" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCmKEMaXlxeiSPBmmfWM-1" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="_7JFgMRsa0Y7uNnYHq-e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="u2R2A6VwlVuXDPNBlX9A-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-6" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Pengembalian" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="977" as="geometry" />
         </mxCell>
