@@ -7096,23 +7096,22 @@
         <mxCell id="E8parfckR2CZ24kqbwVu-17" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="E8parfckR2CZ24kqbwVu-24" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="E8parfckR2CZ24kqbwVu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-25">
+        <mxCell id="E8parfckR2CZ24kqbwVu-24" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-25">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="680" as="sourcePoint" />
             <mxPoint x="200" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pCmKEMaXlxeiSPBmmfWM-5" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="E8parfckR2CZ24kqbwVu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=sharp;jumpSize=10;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="u2R2A6VwlVuXDPNBlX9A-29">
+        <mxCell id="pCmKEMaXlxeiSPBmmfWM-5" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="RSNvkmNOCWiIMSWsXGV9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=sharp;jumpSize=10;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" target="u2R2A6VwlVuXDPNBlX9A-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="650" />
               <mxPoint x="290" y="1080" />
               <mxPoint x="230" y="1080" />
             </Array>
+            <mxPoint x="260" y="650" as="sourcePoint" />
             <mxPoint x="260" y="800" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="E8parfckR2CZ24kqbwVu-21" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="620" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-25" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="730" as="geometry" />
@@ -7146,6 +7145,17 @@
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-2" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="pCmKEMaXlxeiSPBmmfWM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="OjUVoZmr_gIDcA8PhJhT-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rhombus;whiteSpace=wrap;html=1;" value="jenis penjualan" vertex="1">
+          <mxGeometry height="80" width="80" x="30" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-3" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Simpan Penjualan Langsung (In-Person)" vertex="1">
+          <mxGeometry height="60" width="120" x="140" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-2" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="RSNvkmNOCWiIMSWsXGV9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1550" width="200" as="geometry" />
@@ -7216,7 +7226,7 @@
         <mxCell id="E8parfckR2CZ24kqbwVu-20" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E8parfckR2CZ24kqbwVu-22" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-21">
+        <mxCell id="E8parfckR2CZ24kqbwVu-22" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
