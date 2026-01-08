@@ -7406,6 +7406,9 @@
         <mxCell id="98OyI8F133Gv7OhP2Qll-1" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="RTF" vertex="1">
           <mxGeometry height="40" width="50" x="130" y="997" as="geometry" />
         </mxCell>
+        <mxCell id="98OyI8F133Gv7OhP2Qll-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengajuan Pengembalian" vertex="1">
+          <mxGeometry height="23" width="50" x="130" y="1040" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
