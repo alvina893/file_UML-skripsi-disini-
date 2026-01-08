@@ -7150,6 +7150,18 @@
             <mxPoint x="331.5" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-25" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Supplier" vertex="1">
+          <mxGeometry height="80" width="70" x="195.5" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-26" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Barang" vertex="1">
+          <mxGeometry height="80" width="70" x="110" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-27" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Pembelian" vertex="1">
+          <mxGeometry height="80" width="70" x="25" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-28" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Supplier" vertex="1">
+          <mxGeometry height="80" width="70" x="290" y="1120" as="geometry" />
+        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1640" width="200" as="geometry" />
         </mxCell>
