@@ -7385,7 +7385,7 @@
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-13" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="RSNvkmNOCWiIMSWsXGV9-12" edge="1" parent="1" source="RSNvkmNOCWiIMSWsXGV9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="RSNvkmNOCWiIMSWsXGV9-9">
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-12" edge="1" parent="1" source="RSNvkmNOCWiIMSWsXGV9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="RSNvkmNOCWiIMSWsXGV9-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-14" edge="1" parent="1" source="RSNvkmNOCWiIMSWsXGV9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="RSNvkmNOCWiIMSWsXGV9-13">
