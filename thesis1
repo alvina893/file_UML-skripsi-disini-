@@ -7538,19 +7538,25 @@
         <mxCell id="8FTqRSsI7tniPMxLuMcF-10" parent="8FTqRSsI7tniPMxLuMcF-2" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="60" width="125" x="37.5" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="8FTqRSsI7tniPMxLuMcF-36" parent="8FTqRSsI7tniPMxLuMcF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Penjualan Pickup / Delivery" vertex="1">
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-36" parent="8FTqRSsI7tniPMxLuMcF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Tampilkan List Penjualan Pickup / Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="140" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-39" parent="8FTqRSsI7tniPMxLuMcF-2" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Penjualan Delivery / Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="310" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="330" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-74" parent="8FTqRSsI7tniPMxLuMcF-2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Penjualan" vertex="1">
-          <mxGeometry height="80" width="70" x="120" y="220" as="geometry" />
+          <mxGeometry height="80" width="70" x="118" y="224" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-75" edge="1" parent="8FTqRSsI7tniPMxLuMcF-2" source="8FTqRSsI7tniPMxLuMcF-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" target="8FTqRSsI7tniPMxLuMcF-74">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="210" as="sourcePoint" />
             <mxPoint x="110" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-76" edge="1" parent="8FTqRSsI7tniPMxLuMcF-2" source="8FTqRSsI7tniPMxLuMcF-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" target="8FTqRSsI7tniPMxLuMcF-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="210" as="sourcePoint" />
+            <mxPoint x="165" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-9" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Karyawan" vertex="1">
@@ -7560,7 +7566,7 @@
           <mxGeometry height="60" width="120" x="50" y="830" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-20" parent="8FTqRSsI7tniPMxLuMcF-9" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Update Status Delivery / Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="30" y="310" as="geometry" />
+          <mxGeometry height="60" width="120" x="30" y="330" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-22" parent="8FTqRSsI7tniPMxLuMcF-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika barang pembeli bermasalah" vertex="1">
           <mxGeometry height="23" width="118" x="190" y="774" as="geometry" />
