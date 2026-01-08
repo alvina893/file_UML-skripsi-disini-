@@ -7047,12 +7047,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ASI BARU">
-    <mxGraphModel dx="3470" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1599" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="115" width="480" x="20" y="947" as="geometry" />
+          <mxGeometry height="115" width="470" x="20" y="947" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
           <mxGeometry height="1760" width="400" x="200" as="geometry" />
@@ -7073,7 +7073,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-6" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="977" as="geometry" />
+          <mxGeometry height="60" width="120" x="25" y="977" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-29" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Laporan Sistem&lt;/span&gt;&lt;div&gt;- Keuangan&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Pembelian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Penjualan&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Pengembalian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Barang&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="120" x="147.5" y="1330" as="geometry" />
@@ -7195,7 +7195,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-60" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Pengembalian" vertex="1">
-          <mxGeometry height="80" width="90" x="190" y="957" as="geometry" />
+          <mxGeometry height="80" width="90" x="170" y="957" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-61" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="_7JFgMRsa0Y7uNnYHq-e-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="8FTqRSsI7tniPMxLuMcF-60">
           <mxGeometry relative="1" as="geometry">
