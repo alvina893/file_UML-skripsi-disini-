@@ -7628,6 +7628,9 @@
         <mxCell id="8FTqRSsI7tniPMxLuMcF-23" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="860" width="200" x="3340" as="geometry" />
         </mxCell>
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-94" parent="8FTqRSsI7tniPMxLuMcF-23" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="125" x="37.5" y="435" as="geometry" />
+        </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-26" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8FTqRSsI7tniPMxLuMcF-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3185" y="951" as="targetPoint" />
@@ -7668,6 +7671,9 @@
             <mxPoint x="3280" y="427" as="sourcePoint" />
             <mxPoint x="3303" y="401" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-97" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="8FTqRSsI7tniPMxLuMcF-94">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
