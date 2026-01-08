@@ -7604,10 +7604,10 @@
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-131" parent="GrSHBEEx4EimilLz5uOu-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="220" width="360" x="3420" y="569" as="geometry" />
+          <mxGeometry height="211" width="360" x="3420" y="569" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-132" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
-          <mxGeometry height="830" width="320" x="3600" as="geometry" />
+          <mxGeometry height="810" width="320" x="3600" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-133" edge="1" parent="GrSHBEEx4EimilLz5uOu-132" source="GrSHBEEx4EimilLz5uOu-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GrSHBEEx4EimilLz5uOu-135">
           <mxGeometry relative="1" as="geometry" />
@@ -7649,7 +7649,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-143" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Karyawan" vertex="1">
-          <mxGeometry height="830" width="200" x="3400" as="geometry" />
+          <mxGeometry height="810" width="200" x="3400" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-144" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="591" as="geometry" />
@@ -7661,7 +7661,7 @@
           <mxGeometry height="23" width="128" x="32" y="558" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
-          <mxGeometry height="830" width="200" x="3920" as="geometry" />
+          <mxGeometry height="810" width="200" x="3920" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-148" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="125" x="37.5" y="430" as="geometry" />
