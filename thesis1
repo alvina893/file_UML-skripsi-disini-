@@ -7085,16 +7085,16 @@
           <mxGeometry height="60" width="120" x="40" y="977" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-29" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Laporan Sistem&lt;/span&gt;&lt;div&gt;- Keuangan&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Pembelian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Penjualan&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Pengembalian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Barang&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="100" width="120" x="140" y="1120" as="geometry" />
+          <mxGeometry height="100" width="120" x="143" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-9" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan File Backup Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="1250" as="geometry" />
+          <mxGeometry height="60" width="120" x="143" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-13" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Restore Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="1370" as="geometry" />
+          <mxGeometry height="60" width="120" x="143" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="60" width="125" x="137.5" y="1470" as="geometry" />
+          <mxGeometry height="60" width="125" x="140.5" y="1560" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-2" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="pCmKEMaXlxeiSPBmmfWM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="OjUVoZmr_gIDcA8PhJhT-1">
           <mxGeometry relative="1" as="geometry" />
@@ -7175,10 +7175,10 @@
           <mxGeometry height="60" width="120" x="40" y="977" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-7" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Backup Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="1250" as="geometry" />
+          <mxGeometry height="60" width="120" x="42.5" y="1340" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-11" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Restore Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="1370" as="geometry" />
+          <mxGeometry height="60" width="120" x="42.5" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1640" width="200" x="600" as="geometry" />
