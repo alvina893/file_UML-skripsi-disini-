@@ -7413,7 +7413,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1505" dy="123" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-264" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -7628,7 +7628,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-134" parent="GrSHBEEx4EimilLz5uOu-132" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="60" width="125" x="97.5" y="40" as="geometry" />
+          <mxGeometry height="50" width="100" x="110" y="50" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-135" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Tampilkan List Penjualan Pickup / Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="130" as="geometry" />
