@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ASI BARU">
-    <mxGraphModel dx="1599" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7058,7 +7058,7 @@
           <mxGeometry height="1760" width="400" x="200" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-17" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="470" as="geometry" />
+          <mxGeometry height="60" width="120" x="140" y="460" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-25" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="750" as="geometry" />
@@ -7085,7 +7085,7 @@
           <mxGeometry height="60" width="120" x="147.5" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="60" width="125" x="145" y="1680" as="geometry" />
+          <mxGeometry height="50" width="100" x="145" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-2" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="pCmKEMaXlxeiSPBmmfWM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="OjUVoZmr_gIDcA8PhJhT-1">
           <mxGeometry relative="1" as="geometry" />
@@ -7203,23 +7203,31 @@
             <mxPoint x="330" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-85" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
+          <mxGeometry height="50" width="100" x="270" y="989.5" as="geometry" />
+        </mxCell>
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-86" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=0.857;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="8FTqRSsI7tniPMxLuMcF-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="332.5" y="944.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1760" width="360" x="-160" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="60" width="125" x="102.5" y="41" as="geometry" />
+          <mxGeometry height="50" width="100" x="130" y="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbEA4ZrdzZ185md5h_U-2" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="105" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="120" y="130" as="geometry" />
         </mxCell>
         <mxCell id="JGIkbXf4R9cWXVJmQqvY-1" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="u2R2A6VwlVuXDPNBlX9A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jCbEA4ZrdzZ185md5h_U-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-3" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="105" y="250" as="geometry" />
+          <mxGeometry height="60" width="120" x="120" y="250" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-8" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="102.5" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="120" y="370" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-19" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Langsung" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="595" as="geometry" />
@@ -7293,7 +7301,7 @@
           <mxGeometry height="70" width="125" x="37.5" y="855" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-83" parent="E8parfckR2CZ24kqbwVu-31" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="60" width="125" x="37.5" y="960" as="geometry" />
+          <mxGeometry height="50" width="100" x="37.5" y="960" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-84" edge="1" parent="E8parfckR2CZ24kqbwVu-31" source="E8parfckR2CZ24kqbwVu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=0.857;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="8FTqRSsI7tniPMxLuMcF-83">
           <mxGeometry relative="1" as="geometry">
