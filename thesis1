@@ -7070,10 +7070,10 @@
           <mxGeometry height="60" width="120" x="140" y="480" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-25" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="15" y="750" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="750" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-33" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cetak Struk Nota Bukti Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="15" y="860" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="860" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-27" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="E8parfckR2CZ24kqbwVu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="E8parfckR2CZ24kqbwVu-33">
           <mxGeometry relative="1" as="geometry">
@@ -7111,7 +7111,7 @@
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-8" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="RSNvkmNOCWiIMSWsXGV9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="E8parfckR2CZ24kqbwVu-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="75" y="750" />
+              <mxPoint x="80" y="750" />
             </Array>
             <mxPoint x="-80" y="690" as="sourcePoint" />
           </mxGeometry>
@@ -7121,7 +7121,7 @@
             <Array as="points">
               <mxPoint x="180" y="594" />
               <mxPoint x="180" y="620" />
-              <mxPoint x="75" y="620" />
+              <mxPoint x="80" y="620" />
             </Array>
             <mxPoint x="20" y="610" as="targetPoint" />
           </mxGeometry>
@@ -7136,7 +7136,7 @@
           <mxGeometry height="80" width="70" x="165" y="370" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-21" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Penjualan Langsung (In-Person)" vertex="1">
-          <mxGeometry height="80" width="110" x="20" y="640" as="geometry" />
+          <mxGeometry height="80" width="110" x="25" y="640" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-22" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Penjualan Pickup" vertex="1">
           <mxGeometry height="80" width="110" x="148" y="640" as="geometry" />
@@ -7396,7 +7396,7 @@
             <Array as="points">
               <mxPoint x="1180" y="680" />
               <mxPoint x="1180" y="840" />
-              <mxPoint x="305" y="840" />
+              <mxPoint x="310" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
