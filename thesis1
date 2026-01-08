@@ -7151,16 +7151,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-25" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Supplier" vertex="1">
-          <mxGeometry height="80" width="90" x="247.5" y="1090" as="geometry" />
+          <mxGeometry height="80" width="90" x="271.25" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-26" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Barang" vertex="1">
-          <mxGeometry height="80" width="90" x="149" y="1090" as="geometry" />
+          <mxGeometry height="80" width="90" x="154.75" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-27" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Pembelian" vertex="1">
-          <mxGeometry height="80" width="90" x="50" y="1090" as="geometry" />
+          <mxGeometry height="80" width="90" x="38.75" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-28" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Penjualan" vertex="1">
-          <mxGeometry height="80" width="90" x="290" y="1120" as="geometry" />
+          <mxGeometry height="80" width="90" x="100" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-29" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Pengembalian" vertex="1">
+          <mxGeometry height="80" width="90" x="210" y="1210" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1760" width="200" as="geometry" />
@@ -7415,9 +7418,6 @@
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-17" edge="1" parent="1" source="RSNvkmNOCWiIMSWsXGV9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-25">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RSNvkmNOCWiIMSWsXGV9-29" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Pengembalian" vertex="1">
-          <mxGeometry height="80" width="90" x="540" y="1170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
