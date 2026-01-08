@@ -7482,7 +7482,7 @@
           <mxGeometry height="1000" width="370" x="1700" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-94" parent="ibdLh96HV3ljDS0WLSE7-93" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="60" width="125" x="122.5" y="41" as="geometry" />
+          <mxGeometry height="50" width="100" x="134.75" y="41" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-95" edge="1" parent="ibdLh96HV3ljDS0WLSE7-93" source="ibdLh96HV3ljDS0WLSE7-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-97">
           <mxGeometry relative="1" as="geometry">
@@ -7493,7 +7493,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-97" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="125" y="150" as="geometry" />
+          <mxGeometry height="60" width="120" x="125" y="130" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-98" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="804" as="geometry" />
@@ -7514,7 +7514,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-102" parent="ibdLh96HV3ljDS0WLSE7-93" style="rhombus;whiteSpace=wrap;html=1;" value="jenis penjualan" vertex="1">
-          <mxGeometry height="55" width="80" x="144.75" y="230" as="geometry" />
+          <mxGeometry height="55" width="80" x="145" y="220" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-103" edge="1" parent="ibdLh96HV3ljDS0WLSE7-93" source="ibdLh96HV3ljDS0WLSE7-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-99">
           <mxGeometry relative="1" as="geometry" />
@@ -7611,7 +7611,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2873" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2471" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
