@@ -7147,7 +7147,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rhombus;whiteSpace=wrap;html=1;" value="jenis penjualan" vertex="1">
-          <mxGeometry height="80" width="80" x="30" y="610" as="geometry" />
+          <mxGeometry height="70" width="80" x="30" y="615" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-3" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Simpan Penjualan Langsung (In-Person)" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="620" as="geometry" />
