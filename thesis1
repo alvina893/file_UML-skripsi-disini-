@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ASI BARU">
-    <mxGraphModel dx="1682" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1979" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7541,18 +7541,6 @@
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-67" parent="RSNvkmNOCWiIMSWsXGV9-65" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="430" as="geometry" />
-        </mxCell>
-        <mxCell id="8FTqRSsI7tniPMxLuMcF-87" parent="RSNvkmNOCWiIMSWsXGV9-65" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="540" as="geometry" />
-        </mxCell>
-        <mxCell id="8FTqRSsI7tniPMxLuMcF-88" edge="1" parent="RSNvkmNOCWiIMSWsXGV9-65" source="RSNvkmNOCWiIMSWsXGV9-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="8FTqRSsI7tniPMxLuMcF-87">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="540" />
-              <mxPoint x="100" y="540" />
-            </Array>
-            <mxPoint x="-440" y="1115" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-68" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-66">
           <mxGeometry relative="1" as="geometry">
