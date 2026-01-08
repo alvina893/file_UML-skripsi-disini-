@@ -7690,7 +7690,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iC4GxSAQmURq0ACqiMTc-2" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="524" as="geometry" />
+          <mxGeometry height="50" width="100" x="50" y="520" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="810" width="200" x="3920" as="geometry" />
