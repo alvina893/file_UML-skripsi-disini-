@@ -7340,16 +7340,13 @@
             <mxPoint x="100" y="480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RSNvkmNOCWiIMSWsXGV9-72" parent="OjUVoZmr_gIDcA8PhJhT-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Pengembalian" vertex="1">
-          <mxGeometry height="80" width="110" x="45" y="820" as="geometry" />
-        </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-64" parent="OjUVoZmr_gIDcA8PhJhT-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Penjualan" vertex="1">
-          <mxGeometry height="80" width="70" x="110" y="280" as="geometry" />
+          <mxGeometry height="80" width="70" x="120" y="280" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-65" parent="OjUVoZmr_gIDcA8PhJhT-4" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="390" as="geometry" />
         </mxCell>
-        <mxCell id="8FTqRSsI7tniPMxLuMcF-67" edge="1" parent="OjUVoZmr_gIDcA8PhJhT-4" source="8FTqRSsI7tniPMxLuMcF-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="8FTqRSsI7tniPMxLuMcF-64">
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-67" edge="1" parent="OjUVoZmr_gIDcA8PhJhT-4" source="8FTqRSsI7tniPMxLuMcF-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="8FTqRSsI7tniPMxLuMcF-64">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="357" as="sourcePoint" />
             <mxPoint x="110" y="330" as="targetPoint" />
@@ -7427,9 +7424,9 @@
             <mxPoint x="2390" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OjUVoZmr_gIDcA8PhJhT-50" edge="1" parent="1" source="OjUVoZmr_gIDcA8PhJhT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="RSNvkmNOCWiIMSWsXGV9-72">
+        <mxCell id="OjUVoZmr_gIDcA8PhJhT-50" edge="1" parent="1" source="OjUVoZmr_gIDcA8PhJhT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8FTqRSsI7tniPMxLuMcF-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1970" y="860" as="targetPoint" />
+            <mxPoint x="1975" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
@@ -7590,6 +7587,9 @@
             <mxPoint x="1905" y="335" as="sourcePoint" />
             <mxPoint x="2030" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengembalian" vertex="1">
+          <mxGeometry height="60" width="120" x="1970" y="830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
