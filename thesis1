@@ -7594,6 +7594,12 @@
         <mxCell id="8FTqRSsI7tniPMxLuMcF-72" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Barang" vertex="1">
           <mxGeometry height="80" width="70" x="2020" y="876" as="geometry" />
         </mxCell>
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-73" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-71" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="8FTqRSsI7tniPMxLuMcF-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="570" as="sourcePoint" />
+            <mxPoint x="2095" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
