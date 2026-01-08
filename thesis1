@@ -7318,7 +7318,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="160" width="380" x="1730" y="786" as="geometry" />
+          <mxGeometry height="184" width="380" x="1730" y="786" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
           <mxGeometry height="1000" width="200" x="1930" as="geometry" />
@@ -7361,6 +7361,9 @@
             <mxPoint x="165" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-71" parent="OjUVoZmr_gIDcA8PhJhT-4" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengembalian" vertex="1">
+          <mxGeometry height="60" width="120" x="29" y="804" as="geometry" />
+        </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-26" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Kasir" vertex="1">
           <mxGeometry height="1000" width="370" x="1560" as="geometry" />
         </mxCell>
@@ -7379,7 +7382,7 @@
           <mxGeometry height="60" width="120" x="125" y="150" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-33" parent="OjUVoZmr_gIDcA8PhJhT-26" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="200" y="830" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="804" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-51" parent="OjUVoZmr_gIDcA8PhJhT-26" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Langsung" vertex="1">
           <mxGeometry height="60" width="120" x="124.75" y="305" as="geometry" />
@@ -7588,8 +7591,8 @@
             <mxPoint x="2030" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8FTqRSsI7tniPMxLuMcF-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="1970" y="830" as="geometry" />
+        <mxCell id="8FTqRSsI7tniPMxLuMcF-72" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Barang" vertex="1">
+          <mxGeometry height="80" width="70" x="2020" y="876" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
