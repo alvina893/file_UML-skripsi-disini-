@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ASI BARU">
-    <mxGraphModel dx="1895" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2928" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7251,10 +7251,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="115" width="360" x="940" y="937" as="geometry" />
+          <mxGeometry height="115" width="360" x="1750" y="937" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
-          <mxGeometry height="1550" width="200" x="1120" as="geometry" />
+          <mxGeometry height="1550" width="200" x="1930" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-13" edge="1" parent="OjUVoZmr_gIDcA8PhJhT-4" source="OjUVoZmr_gIDcA8PhJhT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OjUVoZmr_gIDcA8PhJhT-16">
           <mxGeometry relative="1" as="geometry">
@@ -7308,7 +7308,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-26" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Kasir" vertex="1">
-          <mxGeometry height="1550" width="200" x="920" as="geometry" />
+          <mxGeometry height="1550" width="200" x="1730" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-27" parent="OjUVoZmr_gIDcA8PhJhT-26" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="60" width="125" x="37.5" y="41" as="geometry" />
@@ -7334,7 +7334,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-46" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
-          <mxGeometry height="1550" width="200" x="1320" as="geometry" />
+          <mxGeometry height="1550" width="200" x="2130" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-47" parent="OjUVoZmr_gIDcA8PhJhT-46" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="125" x="37.5" y="835" as="geometry" />
@@ -7342,12 +7342,12 @@
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-48" edge="1" parent="1" source="OjUVoZmr_gIDcA8PhJhT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=sharp;jumpSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="OjUVoZmr_gIDcA8PhJhT-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="1210" y="760" as="sourcePoint" />
-            <mxPoint x="1580" y="770" as="targetPoint" />
+            <mxPoint x="2020" y="760" as="sourcePoint" />
+            <mxPoint x="2390" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ada pengajuan pengembalian dari kasir/karyawan" vertex="1">
-          <mxGeometry height="23" width="130" x="950" y="924" as="geometry" />
+          <mxGeometry height="23" width="130" x="1760" y="924" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-50" edge="1" parent="1" source="OjUVoZmr_gIDcA8PhJhT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OjUVoZmr_gIDcA8PhJhT-20">
           <mxGeometry relative="1" as="geometry" />
