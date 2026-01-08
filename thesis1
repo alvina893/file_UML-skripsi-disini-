@@ -7196,7 +7196,7 @@
           <mxGeometry height="60" width="120" x="40" y="1580" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
-          <mxGeometry height="1640" width="200" x="600" as="geometry" />
+          <mxGeometry height="1760" width="200" x="600" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-1" parent="u2R2A6VwlVuXDPNBlX9A-35" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="Nota Konfirmasi Pembelian Barang sudah Diterima" vertex="1">
           <mxGeometry height="70" width="125" x="37.5" y="320" as="geometry" />
@@ -7248,7 +7248,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
-          <mxGeometry height="1640" width="200" x="800" as="geometry" />
+          <mxGeometry height="1760" width="200" x="800" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-30" parent="E8parfckR2CZ24kqbwVu-31" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="125" x="37.5" y="855" as="geometry" />
@@ -7393,7 +7393,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
-          <mxGeometry height="1640" width="200" x="1000" as="geometry" />
+          <mxGeometry height="1760" width="200" x="1000" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-9" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="650" as="geometry" />
