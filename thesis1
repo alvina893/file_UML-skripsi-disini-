@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ASI BARU">
-    <mxGraphModel dx="1627" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7056,15 +7056,6 @@
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
           <mxGeometry height="1760" width="400" x="200" as="geometry" />
-        </mxCell>
-        <mxCell id="E8parfckR2CZ24kqbwVu-18" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="RSNvkmNOCWiIMSWsXGV9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="E8parfckR2CZ24kqbwVu-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="480" />
-              <mxPoint x="200" y="480" />
-            </Array>
-            <mxPoint x="300" y="440" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-17" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="470" as="geometry" />
@@ -7112,6 +7103,9 @@
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-19" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Barang" vertex="1">
           <mxGeometry height="80" width="70" x="165" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-47" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="RSNvkmNOCWiIMSWsXGV9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-20" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Simpan Pembelian" vertex="1">
           <mxGeometry height="80" width="70" x="165" y="360" as="geometry" />
@@ -7226,15 +7220,6 @@
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-6" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="RSNvkmNOCWiIMSWsXGV9-19">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="E8parfckR2CZ24kqbwVu-4" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint y="355" />
-              <mxPoint y="370" />
-            </Array>
-            <mxPoint x="505" y="385" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-9" edge="1" parent="1" source="RSNvkmNOCWiIMSWsXGV9-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="E8parfckR2CZ24kqbwVu-1">
           <mxGeometry relative="1" as="geometry">
@@ -7437,6 +7422,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-41" edge="1" parent="1" source="RSNvkmNOCWiIMSWsXGV9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" target="RSNvkmNOCWiIMSWsXGV9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-49" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
