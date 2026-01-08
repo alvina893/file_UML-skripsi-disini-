@@ -7123,7 +7123,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-3" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Simpan Penjualan Langsung (In-Person)" vertex="1">
-          <mxGeometry height="60" width="120" x="15" y="680" as="geometry" />
+          <mxGeometry height="60" width="120" x="15" y="650" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-2" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="RSNvkmNOCWiIMSWsXGV9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-3">
           <mxGeometry relative="1" as="geometry">
@@ -7135,10 +7135,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-4" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Simpan Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="271.5" y="680" as="geometry" />
+          <mxGeometry height="60" width="120" x="271.5" y="650" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-5" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" value="Simpan Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="143" y="680" as="geometry" />
+          <mxGeometry height="60" width="120" x="143" y="650" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="Admin (Pemilik Toko)" vertex="1">
           <mxGeometry height="1550" width="200" as="geometry" />
@@ -7358,14 +7358,14 @@
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-54" edge="1" parent="1" source="OjUVoZmr_gIDcA8PhJhT-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="OjUVoZmr_gIDcA8PhJhT-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RSNvkmNOCWiIMSWsXGV9-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
+        <mxCell id="RSNvkmNOCWiIMSWsXGV9-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
           <mxGeometry height="1550" width="200" x="1000" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-9" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="680" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="650" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-13" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="775" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="745" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-12" edge="1" parent="1" source="RSNvkmNOCWiIMSWsXGV9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-9">
           <mxGeometry relative="1" as="geometry" />
