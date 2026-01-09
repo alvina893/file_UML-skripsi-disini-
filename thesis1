@@ -7739,7 +7739,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2795" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1801" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -7797,7 +7797,10 @@
           <mxGeometry height="50" width="100" x="50" y="523" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-134" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="50" as="geometry" />
+          <mxGeometry height="50" width="100" x="50" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HDm6KOtCkL4xNGEPID-1" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="120" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="1100" width="200" x="3920" as="geometry" />
@@ -7851,6 +7854,9 @@
         </mxCell>
         <mxCell id="WdO45hsQrTkY0a7HRo9R-8" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WdO45hsQrTkY0a7HRo9R-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I5HDm6KOtCkL4xNGEPID-0" parent="GrSHBEEx4EimilLz5uOu-1" style="shape=display;whiteSpace=wrap;html=1;" value="Sistem POS&amp;nbsp;" vertex="1">
+          <mxGeometry height="65" width="120" x="3270.5" y="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
