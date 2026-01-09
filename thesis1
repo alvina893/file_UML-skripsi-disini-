@@ -7544,7 +7544,7 @@
         <mxCell id="ibdLh96HV3ljDS0WLSE7-153" parent="ibdLh96HV3ljDS0WLSE7-80" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Pengembalian" vertex="1">
           <mxGeometry height="80" width="90" x="200" y="1060" as="geometry" />
         </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-154" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="ibdLh96HV3ljDS0WLSE7-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="ibdLh96HV3ljDS0WLSE7-153">
+        <mxCell id="ibdLh96HV3ljDS0WLSE7-154" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="ibdLh96HV3ljDS0WLSE7-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;endArrow=none;endFill=0;" target="ibdLh96HV3ljDS0WLSE7-153">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="570" as="sourcePoint" />
             <mxPoint x="165" y="550" as="targetPoint" />
