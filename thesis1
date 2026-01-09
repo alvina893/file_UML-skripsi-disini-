@@ -7794,7 +7794,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2417" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2090" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -7870,7 +7870,7 @@
         <mxCell id="Pv901iQT87FOSfyXrWXA-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Tangani Penjualan Delivery / Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="370" as="geometry" />
         </mxCell>
-        <mxCell id="2z-aHtrvx2NWDsrHtKMs-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Pengiriman&lt;div&gt;Penjualan Delivery / Pickup&lt;/div&gt;" vertex="1">
+        <mxCell id="2z-aHtrvx2NWDsrHtKMs-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Pengiriman&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="481" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
