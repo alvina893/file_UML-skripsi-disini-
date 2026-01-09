@@ -7096,7 +7096,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-42" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="360" as="geometry" />
+          <mxGeometry height="60" width="120" x="140" y="380" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-45" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Barang" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="480" as="geometry" />
@@ -7129,7 +7129,7 @@
           <mxGeometry height="50" width="100" x="129.75" y="40" as="geometry" />
         </mxCell>
         <mxCell id="jCbEA4ZrdzZ185md5h_U-2" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="119.75" y="360" as="geometry" />
+          <mxGeometry height="60" width="120" x="119.75" y="380" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-3" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Barang" vertex="1">
           <mxGeometry height="60" width="120" x="119.75" y="480" as="geometry" />
