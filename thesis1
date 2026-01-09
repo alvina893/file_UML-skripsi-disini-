@@ -7194,7 +7194,7 @@
           <mxGeometry height="60" width="120" x="119" y="1560" as="geometry" />
         </mxCell>
         <mxCell id="OjUVoZmr_gIDcA8PhJhT-1" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="130.25" y="1680" as="geometry" />
+          <mxGeometry height="50" width="100" x="130.25" y="1650" as="geometry" />
         </mxCell>
         <mxCell id="8GlrzUioZOxdHMj1lBe7-1" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="Ey4plcRIesOVcDyoCzdK-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="OjUVoZmr_gIDcA8PhJhT-1">
           <mxGeometry relative="1" as="geometry" />
