@@ -7476,7 +7476,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-914" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-652" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -7596,7 +7596,7 @@
         <mxCell id="T-9CPtggJ3GeKQO9F1-L-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="50" width="100" x="102" y="985" as="geometry" />
         </mxCell>
-        <mxCell id="vC7WBh-pkx834pGgs-Um-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Program POS" vertex="1">
+        <mxCell id="vC7WBh-pkx834pGgs-Um-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
           <mxGeometry height="60" width="120" x="124.5" y="130" as="geometry" />
         </mxCell>
         <mxCell id="vC7WBh-pkx834pGgs-Um-1" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Login" vertex="1">
