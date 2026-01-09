@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="321" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="132" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7266,8 +7266,24 @@
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
           <mxGeometry height="1880" width="200" x="1160" as="geometry" />
         </mxCell>
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-2" edge="1" parent="RSNvkmNOCWiIMSWsXGV9-10" source="RSNvkmNOCWiIMSWsXGV9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.918;exitY=1.001;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" target="KFmlhU38JZBsR2kWr4cB-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="883" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-9" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="802" as="geometry" />
+        </mxCell>
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-3" edge="1" parent="RSNvkmNOCWiIMSWsXGV9-10" source="RSNvkmNOCWiIMSWsXGV9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=0.005;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" target="KFmlhU38JZBsR2kWr4cB-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="53" y="925" />
+              <mxPoint x="53" y="925" />
+              <mxPoint x="53" y="883" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-13" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="945" as="geometry" />
