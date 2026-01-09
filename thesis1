@@ -7784,7 +7784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2771" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2417" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -7888,11 +7888,6 @@
         </mxCell>
         <mxCell id="ZGRS7dwlB0OQ8s0bG8Vx-0" parent="WdO45hsQrTkY0a7HRo9R-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Point of Sale Database" vertex="1">
           <mxGeometry height="521" width="170" x="20" y="335" as="geometry" />
-        </mxCell>
-        <mxCell id="WdO45hsQrTkY0a7HRo9R-8" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="VBgY0G14yZ9MAf0WsogO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.703;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZGRS7dwlB0OQ8s0bG8Vx-0">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="4190" y="701" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="vdGM2O9Gdz_XZ9Wiwj2f-0" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="I5HDm6KOtCkL4xNGEPID-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="I5HDm6KOtCkL4xNGEPID-0">
           <mxGeometry relative="1" as="geometry" />
