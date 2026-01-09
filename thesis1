@@ -7784,7 +7784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-3158" dy="153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2839" dy="355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -7833,7 +7833,7 @@
           <mxGeometry height="1100" width="200" x="3400" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-144" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="600" as="geometry" />
+          <mxGeometry height="60" width="120" x="42" y="671" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-146" parent="GrSHBEEx4EimilLz5uOu-143" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika barang di gudang bermasalah" vertex="1">
           <mxGeometry height="23" width="128" x="33" y="498" as="geometry" />
@@ -7842,7 +7842,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iC4GxSAQmURq0ACqiMTc-2" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="523" as="geometry" />
+          <mxGeometry height="50" width="100" x="52" y="594" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-3" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="GrSHBEEx4EimilLz5uOu-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="I5HDm6KOtCkL4xNGEPID-1">
           <mxGeometry relative="1" as="geometry" />
