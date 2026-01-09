@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1310" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="321" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7273,7 +7273,10 @@
           <mxGeometry height="60" width="120" x="40" y="945" as="geometry" />
         </mxCell>
         <mxCell id="KFmlhU38JZBsR2kWr4cB-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PDP" vertex="1">
-          <mxGeometry height="40" width="50" x="75" y="883" as="geometry" />
+          <mxGeometry height="40" width="50" x="75" y="873" as="geometry" />
+        </mxCell>
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Delivery / Pickup" vertex="1">
+          <mxGeometry height="23" width="65" x="67.5" y="914" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-20" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-1">
           <mxGeometry relative="1" as="geometry">
