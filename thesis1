@@ -7784,7 +7784,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-3165" dy="148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2963" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -7819,7 +7819,7 @@
           <mxGeometry height="23" width="50" x="40" y="797" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Sistem POS&amp;nbsp;" vertex="1">
-          <mxGeometry height="65" width="120" x="100" y="117" as="geometry" />
+          <mxGeometry height="65" width="120" x="100" y="108.5" as="geometry" />
         </mxCell>
         <mxCell id="e7VjdTbFh5JGFFWCU-nx-0" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Validasi User (Pengguna)" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="223" as="geometry" />
@@ -7846,10 +7846,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-134" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="40" as="geometry" />
+          <mxGeometry height="50" width="100" x="50" y="35" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-1" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="120" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="111" as="geometry" />
         </mxCell>
         <mxCell id="YJMsJnBrmOVUVzAyYY-f-0" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Login" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="223" as="geometry" />
