@@ -7469,10 +7469,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-13" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="36" y="1770" as="geometry" />
+          <mxGeometry height="50" width="100" x="60" y="1770" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pengguna (Users)" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="1765" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="1765" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
