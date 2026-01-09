@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="683" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7463,14 +7463,16 @@
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengguna (Users)" vertex="1">
           <mxGeometry height="23" width="73" x="27" y="1728" as="geometry" />
         </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-15" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-15" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="1795" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-13" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="40" y="1770" as="geometry" />
+          <mxGeometry height="50" width="100" x="36" y="1770" as="geometry" />
         </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="1765" as="geometry" />
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pengguna (Users)" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="1765" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
