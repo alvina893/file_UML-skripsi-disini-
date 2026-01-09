@@ -7477,7 +7477,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1567" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-535" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -7662,7 +7662,7 @@
           <mxGeometry height="80" width="70" x="65" y="775" as="geometry" />
         </mxCell>
         <mxCell id="DkvykAPV82bxvk2o47Sh-5" parent="DkvykAPV82bxvk2o47Sh-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Pengembalian" vertex="1">
-          <mxGeometry height="80" width="70" x="65" y="980" as="geometry" />
+          <mxGeometry height="80" width="70" x="65" y="970" as="geometry" />
         </mxCell>
         <mxCell id="DkvykAPV82bxvk2o47Sh-3" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="ibdLh96HV3ljDS0WLSE7-85">
           <mxGeometry relative="1" as="geometry" />
@@ -7670,7 +7670,7 @@
         <mxCell id="DkvykAPV82bxvk2o47Sh-4" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="ibdLh96HV3ljDS0WLSE7-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DkvykAPV82bxvk2o47Sh-7" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;" target="DkvykAPV82bxvk2o47Sh-5">
+        <mxCell id="DkvykAPV82bxvk2o47Sh-7" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="DkvykAPV82bxvk2o47Sh-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
