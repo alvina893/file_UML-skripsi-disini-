@@ -7047,7 +7047,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1747" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="683" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7188,7 +7188,7 @@
         <mxCell id="98OyI8F133Gv7OhP2Qll-4" parent="u2R2A6VwlVuXDPNBlX9A-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengajuan Pengembalian" vertex="1">
           <mxGeometry height="23" width="50" x="140" y="1237.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4plcRIesOVcDyoCzdK-33" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Program POS" vertex="1">
+        <mxCell id="Ey4plcRIesOVcDyoCzdK-33" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
           <mxGeometry height="60" width="120" x="119.75" y="110" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-37" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Login" vertex="1">
