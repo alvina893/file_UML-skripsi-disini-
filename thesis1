@@ -7676,7 +7676,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DkvykAPV82bxvk2o47Sh-0" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Database POS" vertex="1">
-          <mxGeometry height="1360" width="220" x="2780" as="geometry" />
+          <mxGeometry height="1360" width="210" x="2780" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-85" parent="DkvykAPV82bxvk2o47Sh-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Penjualan" vertex="1">
           <mxGeometry height="80" width="70" x="70" y="464" as="geometry" />
