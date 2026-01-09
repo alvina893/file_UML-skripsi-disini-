@@ -7501,7 +7501,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-985" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1442" dy="163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -7566,6 +7566,9 @@
             </Array>
             <mxPoint x="121" y="1280" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6p5UFnMueITWXEJowKER-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="rhombus;whiteSpace=wrap;html=1;" value="jenis penjualan" vertex="1">
+          <mxGeometry height="55" width="80" x="37" y="625" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-93" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;startSize=23;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Kasir&lt;/font&gt;" vertex="1">
           <mxGeometry height="1350" width="370" x="1700" as="geometry" />
@@ -7655,13 +7658,16 @@
             <mxPoint x="2115" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-121" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-86">
+        <mxCell id="ibdLh96HV3ljDS0WLSE7-121" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6p5UFnMueITWXEJowKER-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2110.000000000001" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-122" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-86">
+        <mxCell id="ibdLh96HV3ljDS0WLSE7-122" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="6p5UFnMueITWXEJowKER-0">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1775" y="666" />
+            </Array>
             <mxPoint x="2110.000000000001" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -7704,15 +7710,6 @@
         <mxCell id="ibdLh96HV3ljDS0WLSE7-129" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-127">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2225" y="452.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-152" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-86" value="">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1995" y="635" />
-            </Array>
-            <mxPoint x="2045" y="335" as="sourcePoint" />
-            <mxPoint x="2170" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DkvykAPV82bxvk2o47Sh-0" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Database POS" vertex="1">
@@ -7779,6 +7776,14 @@
         </mxCell>
         <mxCell id="Cyg9bTeVN9xKGd2qzgF--0" parent="ibdLh96HV3ljDS0WLSE7-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="2230" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="6p5UFnMueITWXEJowKER-2" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="6p5UFnMueITWXEJowKER-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1995" y="624" />
+              <mxPoint x="2127" y="624" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
