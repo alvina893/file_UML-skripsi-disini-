@@ -6351,7 +6351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -6904,14 +6904,14 @@
         <mxCell id="RYwu4Z5HAaWKuXIqhUQ4-6" parent="RYwu4Z5HAaWKuXIqhUQ4-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Melihat Laporan" vertex="1">
           <mxGeometry height="60" width="120" x="208.5" y="123" as="geometry" />
         </mxCell>
-        <mxCell id="RYwu4Z5HAaWKuXIqhUQ4-7" parent="RYwu4Z5HAaWKuXIqhUQ4-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Filter per Tahun" vertex="1">
-          <mxGeometry height="60" width="120" x="121" y="233" as="geometry" />
+        <mxCell id="RYwu4Z5HAaWKuXIqhUQ4-7" parent="RYwu4Z5HAaWKuXIqhUQ4-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Filter per Bulan" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="RYwu4Z5HAaWKuXIqhUQ4-8" parent="RYwu4Z5HAaWKuXIqhUQ4-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Filter per Bulan" vertex="1">
-          <mxGeometry height="60" width="120" x="21" y="143" as="geometry" />
+        <mxCell id="RYwu4Z5HAaWKuXIqhUQ4-8" parent="RYwu4Z5HAaWKuXIqhUQ4-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Filter per Mingu" vertex="1">
+          <mxGeometry height="60" width="120" x="21" y="113" as="geometry" />
         </mxCell>
         <mxCell id="RYwu4Z5HAaWKuXIqhUQ4-9" parent="RYwu4Z5HAaWKuXIqhUQ4-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Filter per Hari" vertex="1">
-          <mxGeometry height="60" width="120" x="81" y="53" as="geometry" />
+          <mxGeometry height="60" width="120" x="100" y="40" as="geometry" />
         </mxCell>
         <mxCell id="RYwu4Z5HAaWKuXIqhUQ4-12" parent="RYwu4Z5HAaWKuXIqhUQ4-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Laporan Pembelian&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="356" y="53" as="geometry" />
@@ -6988,6 +6988,9 @@
           <mxGeometry relative="1" x="-0.1758" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Tug0oDQAi1lGKAVIdSid-0" parent="RYwu4Z5HAaWKuXIqhUQ4-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" value="Filter per Tahun" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="233" as="geometry" />
         </mxCell>
         <mxCell id="C9p7_hvzl7VGZWCStRE1-1" edge="1" parent="MM1PgJB5sDvGe2ciH064-1" source="MM1PgJB5sDvGe2ciH064-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="RYwu4Z5HAaWKuXIqhUQ4-6">
           <mxGeometry relative="1" as="geometry">
