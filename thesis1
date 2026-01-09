@@ -7610,16 +7610,16 @@
           <mxGeometry height="1150" width="200" x="2380" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-108" parent="ibdLh96HV3ljDS0WLSE7-107" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="125" x="37.5" y="650" as="geometry" />
+          <mxGeometry height="70" width="125" x="37.5" y="880" as="geometry" />
         </mxCell>
         <mxCell id="5xEFxqfmFx9fEku3JTlV-0" parent="ibdLh96HV3ljDS0WLSE7-107" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="750" as="geometry" />
+          <mxGeometry height="50" width="100" x="50" y="980" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-130" edge="1" parent="ibdLh96HV3ljDS0WLSE7-107" source="ibdLh96HV3ljDS0WLSE7-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.506;exitY=0.852;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" target="5xEFxqfmFx9fEku3JTlV-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="101" y="750" />
-              <mxPoint x="100" y="750" />
+              <mxPoint x="101" y="960" />
+              <mxPoint x="100" y="960" />
             </Array>
           </mxGeometry>
         </mxCell>
