@@ -7740,7 +7740,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-1966" dy="909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2590" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -7763,7 +7763,7 @@
           <mxGeometry height="60" width="120" x="100" y="320" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-140" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="591" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="601" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-141" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Cetak Struk Nota Bukti Penjualan" vertex="1">
           <mxGeometry height="60" width="120" x="100" y="435" as="geometry" />
@@ -7775,12 +7775,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ew745l-zbZlc7CUkIGqs-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="RTF" vertex="1">
-          <mxGeometry height="40" width="50" x="230" y="611" as="geometry" />
+          <mxGeometry height="40" width="50" x="75" y="700" as="geometry" />
         </mxCell>
         <mxCell id="ew745l-zbZlc7CUkIGqs-2" parent="GrSHBEEx4EimilLz5uOu-132" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="23" width="50" x="230" y="652" as="geometry" />
+          <mxGeometry height="23" width="50" x="75" y="741" as="geometry" />
         </mxCell>
-        <mxCell id="GrSHBEEx4EimilLz5uOu-163" edge="1" parent="GrSHBEEx4EimilLz5uOu-132" source="GrSHBEEx4EimilLz5uOu-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="ew745l-zbZlc7CUkIGqs-0">
+        <mxCell id="GrSHBEEx4EimilLz5uOu-163" edge="1" parent="GrSHBEEx4EimilLz5uOu-132" source="GrSHBEEx4EimilLz5uOu-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ew745l-zbZlc7CUkIGqs-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="205" y="621" as="targetPoint" />
           </mxGeometry>
@@ -7789,19 +7789,19 @@
           <mxGeometry height="810" width="200" x="3400" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-144" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="591" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="600" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-145" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Update Status Delivery / Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="320" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-146" parent="GrSHBEEx4EimilLz5uOu-143" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika barang di gudang bermasalah" vertex="1">
-          <mxGeometry height="23" width="128" x="36" y="494" as="geometry" />
+          <mxGeometry height="23" width="128" x="33" y="498" as="geometry" />
         </mxCell>
         <mxCell id="iC4GxSAQmURq0ACqiMTc-3" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="iC4GxSAQmURq0ACqiMTc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GrSHBEEx4EimilLz5uOu-144">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iC4GxSAQmURq0ACqiMTc-2" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="520" as="geometry" />
+          <mxGeometry height="50" width="100" x="50" y="523" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="810" width="200" x="3920" as="geometry" />
@@ -7854,9 +7854,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WdO45hsQrTkY0a7HRo9R-6" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" target="WdO45hsQrTkY0a7HRo9R-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WdO45hsQrTkY0a7HRo9R-7" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WdO45hsQrTkY0a7HRo9R-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
