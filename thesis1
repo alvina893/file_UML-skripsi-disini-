@@ -7653,6 +7653,15 @@
         <mxCell id="ibdLh96HV3ljDS0WLSE7-126" parent="ibdLh96HV3ljDS0WLSE7-125" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="530" as="geometry" />
         </mxCell>
+        <mxCell id="y7A-flp9n1NqgseWJ4ty-3" edge="1" parent="ibdLh96HV3ljDS0WLSE7-125" source="ibdLh96HV3ljDS0WLSE7-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.103;exitY=0.001;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" target="y7A-flp9n1NqgseWJ4ty-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="52" y="650" />
+              <mxPoint x="52" y="650" />
+              <mxPoint x="52" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-127" parent="ibdLh96HV3ljDS0WLSE7-125" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="670" as="geometry" />
         </mxCell>
