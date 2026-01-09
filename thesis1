@@ -7501,7 +7501,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1343" dy="226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-873" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -7529,7 +7529,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-86" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan" vertex="1">
-          <mxGeometry height="60" width="120" x="90" y="620" as="geometry" />
+          <mxGeometry height="60" width="120" x="130" y="620" as="geometry" />
         </mxCell>
         <mxCell id="enzI7hhdUzAFc7bJdIYb-2" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="81G-lkS3FQzWwP1OmPdV-0">
           <mxGeometry relative="1" as="geometry" />
@@ -7568,7 +7568,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6p5UFnMueITWXEJowKER-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="rhombus;whiteSpace=wrap;html=1;" value="jenis penjualan" vertex="1">
-          <mxGeometry height="55" width="80" x="50" y="625" as="geometry" />
+          <mxGeometry height="55" width="80" x="18" y="625" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-93" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;startSize=23;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Kasir&lt;/font&gt;" vertex="1">
           <mxGeometry height="1350" width="370" x="1700" as="geometry" />
@@ -7663,10 +7663,11 @@
             <mxPoint x="2110.000000000001" y="395" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-122" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" target="6p5UFnMueITWXEJowKER-0">
+        <mxCell id="ibdLh96HV3ljDS0WLSE7-122" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6p5UFnMueITWXEJowKER-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1775" y="666" />
+              <mxPoint x="1775" y="700" />
+              <mxPoint x="2128" y="700" />
             </Array>
             <mxPoint x="2110.000000000001" y="425" as="targetPoint" />
           </mxGeometry>
@@ -7777,12 +7778,10 @@
         <mxCell id="Cyg9bTeVN9xKGd2qzgF--0" parent="ibdLh96HV3ljDS0WLSE7-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="2230" y="985" as="geometry" />
         </mxCell>
-        <mxCell id="6p5UFnMueITWXEJowKER-3" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="6p5UFnMueITWXEJowKER-0">
+        <mxCell id="6p5UFnMueITWXEJowKER-3" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6p5UFnMueITWXEJowKER-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1995" y="624" />
-              <mxPoint x="1995" y="639" />
-              <mxPoint x="2000" y="639" />
+              <mxPoint x="2128" y="574" />
             </Array>
           </mxGeometry>
         </mxCell>
