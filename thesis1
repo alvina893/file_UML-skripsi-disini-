@@ -7052,7 +7052,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="153" width="620" x="10" y="947" as="geometry" />
+          <mxGeometry height="153" width="580" x="10" y="947" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
           <mxGeometry height="1740" width="400" x="360" as="geometry" />
@@ -7073,7 +7073,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-6" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="25" y="977" as="geometry" />
+          <mxGeometry height="60" width="120" x="65" y="977" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-29" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Laporan Sistem&lt;/span&gt;&lt;div&gt;- Keuangan&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Pembelian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Penjualan&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Pengembalian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;- Barang&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="120" x="140" y="1360" as="geometry" />
@@ -7144,7 +7144,7 @@
           <mxGeometry height="60" width="120" x="140" y="640" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-85" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="292" y="982" as="geometry" />
+          <mxGeometry height="50" width="100" x="260" y="982" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-86" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="_7JFgMRsa0Y7uNnYHq-e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="8FTqRSsI7tniPMxLuMcF-85">
           <mxGeometry relative="1" as="geometry">
@@ -7177,7 +7177,7 @@
           <mxGeometry height="60" width="120" x="120" y="586" as="geometry" />
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-3" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Tanggapi&amp;nbsp;&lt;div&gt;Pengajuan Pengembalian&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="225" y="977" as="geometry" />
+          <mxGeometry height="60" width="120" x="220" y="977" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-7" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Backup Data Sistem" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="1480" as="geometry" />
