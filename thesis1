@@ -7528,7 +7528,7 @@
           <mxGeometry height="1150" width="370" x="1700" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-94" parent="ibdLh96HV3ljDS0WLSE7-93" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="135.25" y="40" as="geometry" />
+          <mxGeometry height="50" width="100" x="134.62" y="40" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-96" edge="1" parent="ibdLh96HV3ljDS0WLSE7-93" source="ibdLh96HV3ljDS0WLSE7-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-102">
           <mxGeometry relative="1" as="geometry" />
@@ -7574,6 +7574,12 @@
         </mxCell>
         <mxCell id="T-9CPtggJ3GeKQO9F1-L-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="985" as="geometry" />
+        </mxCell>
+        <mxCell id="vC7WBh-pkx834pGgs-Um-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Program POS" vertex="1">
+          <mxGeometry height="60" width="120" x="124.5" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vC7WBh-pkx834pGgs-Um-1" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Login" vertex="1">
+          <mxGeometry height="60" width="120" x="124.75" y="240" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-107" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="1150" width="200" x="2380" as="geometry" />
