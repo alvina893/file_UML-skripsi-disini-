@@ -7740,7 +7740,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2590" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2235" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -7845,7 +7845,7 @@
           <mxGeometry height="80" width="70" x="70" y="210" as="geometry" />
         </mxCell>
         <mxCell id="WdO45hsQrTkY0a7HRo9R-3" parent="WdO45hsQrTkY0a7HRo9R-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Pengembalian" vertex="1">
-          <mxGeometry height="80" width="70" x="65" y="970" as="geometry" />
+          <mxGeometry height="80" width="70" x="70" y="591" as="geometry" />
         </mxCell>
         <mxCell id="WdO45hsQrTkY0a7HRo9R-4" parent="WdO45hsQrTkY0a7HRo9R-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="User" vertex="1">
           <mxGeometry height="80" width="70" x="70" y="60" as="geometry" />
@@ -7854,6 +7854,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WdO45hsQrTkY0a7HRo9R-6" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" target="WdO45hsQrTkY0a7HRo9R-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WdO45hsQrTkY0a7HRo9R-8" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="WdO45hsQrTkY0a7HRo9R-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
