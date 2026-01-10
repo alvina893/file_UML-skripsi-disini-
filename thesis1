@@ -5232,7 +5232,7 @@
           <mxGeometry height="398" width="530" x="160" y="182" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-3" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="1650" width="350" x="130" as="geometry" />
+          <mxGeometry height="1630" width="350" x="130" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-4" parent="aubbcD0wnSqntcD6yuGs-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -5393,7 +5393,7 @@
           <mxGeometry height="50" width="100" x="125" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-38" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1650" width="260" x="480" as="geometry" />
+          <mxGeometry height="1630" width="260" x="480" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-39" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Input Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
@@ -5444,10 +5444,10 @@
           <mxGeometry height="50" width="100" x="90" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-55" parent="aubbcD0wnSqntcD6yuGs-38" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="125" y="1610" as="geometry" />
+          <mxGeometry height="30" width="30" x="125" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-56" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Penjualan" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1530" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="1520" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-57" edge="1" parent="aubbcD0wnSqntcD6yuGs-38" source="aubbcD0wnSqntcD6yuGs-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-56" value="">
           <mxGeometry relative="1" as="geometry">
