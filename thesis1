@@ -2615,7 +2615,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-reset-password" id="dGweayplNuC53LFqZoF1">
-    <mxGraphModel dx="1842" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1082" dy="125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-0" />
         <mxCell id="rr1PyKb1GMVAlypoOTI2-1" parent="rr1PyKb1GMVAlypoOTI2-0" />
@@ -2728,7 +2728,7 @@
             <mxPoint x="-368.4200000000001" y="470" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HseowBRlugHPGg2fRjxk-23" connectable="0" parent="HseowBRlugHPGg2fRjxk-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
+        <mxCell id="HseowBRlugHPGg2fRjxk-23" connectable="0" parent="HseowBRlugHPGg2fRjxk-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="benar" vertex="1">
           <mxGeometry relative="1" x="-0.5178" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
