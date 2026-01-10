@@ -2669,12 +2669,16 @@
         </mxCell>
         <mxCell id="HseowBRlugHPGg2fRjxk-17" edge="1" parent="rr1PyKb1GMVAlypoOTI2-7" source="HseowBRlugHPGg2fRjxk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="rr1PyKb1GMVAlypoOTI2-19">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="445" />
+              <mxPoint x="200" y="355" />
+            </Array>
             <mxPoint x="161.57999999999993" y="445" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HseowBRlugHPGg2fRjxk-18" connectable="0" parent="HseowBRlugHPGg2fRjxk-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="salah" vertex="1">
           <mxGeometry relative="1" x="-0.4918" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HseowBRlugHPGg2fRjxk-2" parent="rr1PyKb1GMVAlypoOTI2-7" style="rhombus;whiteSpace=wrap;html=1;" value="verifikasi" vertex="1">
