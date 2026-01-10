@@ -5599,7 +5599,7 @@
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-14" connectable="0" parent="aubbcD0wnSqntcD6yuGs-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
           <mxGeometry relative="1" x="-0.6478" y="-4" as="geometry">
-            <mxPoint x="-4" y="7" as="offset" />
+            <mxPoint x="-4" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
