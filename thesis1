@@ -3125,7 +3125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZkdKDVLzf9ZRBfxSJ7LL" name="admin-activity-pembelian">
-    <mxGraphModel dx="449" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3225,7 +3225,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hgANk8k4Z1JNNBRfMUCp-1" parent="qSfW9CH8Ka733of-UM4c-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Isi Form Barang Baru dan Simpan" vertex="1">
-          <mxGeometry height="50" width="100" x="235" y="659" as="geometry" />
+          <mxGeometry height="50" width="100" x="235" y="630" as="geometry" />
         </mxCell>
         <mxCell id="eKxw9jBo0Y7ufhlvS975-1" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="e3LlADZLaoGkCCZrutC6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="CVOz3VTjPCm7RbOz1h-t-1">
           <mxGeometry relative="1" as="geometry" />
@@ -3275,7 +3275,7 @@
           <mxGeometry height="50" width="115" x="82.5" y="887" as="geometry" />
         </mxCell>
         <mxCell id="CVOz3VTjPCm7RbOz1h-t-10" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Popup Barang Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="575" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="540" as="geometry" />
         </mxCell>
         <mxCell id="9liojWx-gnVAqxU3JMJg-1" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tambahkan Barang ke List Detail Pembelian Barang" vertex="1">
           <mxGeometry height="50" width="115" x="82.5" y="952" as="geometry" />
@@ -3350,8 +3350,8 @@
         <mxCell id="hgANk8k4Z1JNNBRfMUCp-2" edge="1" parent="1" source="CVOz3VTjPCm7RbOz1h-t-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hgANk8k4Z1JNNBRfMUCp-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="639" />
-              <mxPoint x="415" y="639" />
+              <mxPoint x="640" y="610" />
+              <mxPoint x="415" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
