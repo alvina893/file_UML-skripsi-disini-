@@ -4976,7 +4976,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-10" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Barang dan Input Qty Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="225" y="284" as="geometry" />
+          <mxGeometry height="50" width="100" x="225" y="289" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-11" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Tambahkan Barang ke List Detail Barang" vertex="1">
           <mxGeometry height="50" width="100" x="225" y="373" as="geometry" />
@@ -5131,7 +5131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="powLZ8wD2wg4ciZN64aB-0" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Barang dan Input Qty Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="110" y="284" as="geometry" />
+          <mxGeometry height="50" width="100" x="110" y="289" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-35" parent="cvAT7BejKZ3OuZL2EdXY-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1530" width="260" x="480" as="geometry" />
@@ -5143,7 +5143,7 @@
           <mxGeometry height="50" width="100" x="80" y="499" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-38" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Subtotal Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="284" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="289" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-39" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-35" source="cvAT7BejKZ3OuZL2EdXY-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cvAT7BejKZ3OuZL2EdXY-42">
           <mxGeometry relative="1" as="geometry" />
