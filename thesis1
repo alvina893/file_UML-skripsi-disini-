@@ -7144,7 +7144,7 @@
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-11" parent="nZ9n3LiwnjkS3mqQksBL-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Penjualan&#39;" vertex="1">
           <mxGeometry height="50" width="135" x="87.5" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="nZ9n3LiwnjkS3mqQksBL-12" parent="nZ9n3LiwnjkS3mqQksBL-2" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Penjualan" vertex="1">
+        <mxCell id="nZ9n3LiwnjkS3mqQksBL-12" parent="nZ9n3LiwnjkS3mqQksBL-2" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Penjualan yang ingin Dilunaskan" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="360" as="geometry" />
         </mxCell>
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-13" edge="1" parent="nZ9n3LiwnjkS3mqQksBL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
