@@ -5174,7 +5174,7 @@
           <mxGeometry height="50" width="100" x="146" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-47" parent="cvAT7BejKZ3OuZL2EdXY-35" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="116" y="1340" as="geometry" />
+          <mxGeometry height="30" width="30" x="60" y="1230" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-48" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Penjualan" vertex="1">
           <mxGeometry height="50" width="100" x="146" y="1220" as="geometry" />
