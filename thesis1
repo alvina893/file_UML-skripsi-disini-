@@ -5399,7 +5399,7 @@
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-40" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="455" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="530" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-41" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Subtotal Barang" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="280" as="geometry" />
