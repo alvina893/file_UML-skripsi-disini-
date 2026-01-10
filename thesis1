@@ -2936,7 +2936,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5Pd5KD2uUXG6oOKZhlRU-1" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="100" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-1" connectable="0" parent="EXahoBi8N_f_pk358-Yt-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Perlu ubah stok barang gudang" vertex="1">
           <mxGeometry x="110" y="710" as="geometry" />
@@ -3008,7 +3008,7 @@
           <mxGeometry height="30" width="30" x="140" y="660" as="geometry" />
         </mxCell>
         <mxCell id="5Pd5KD2uUXG6oOKZhlRU-2" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="100" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-4" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Perubahan Stok Terbaru" vertex="1">
           <mxGeometry height="50" width="100" x="40" y="894" as="geometry" />
