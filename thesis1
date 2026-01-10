@@ -3183,7 +3183,7 @@
         </mxCell>
         <mxCell id="V6v30hVfR8jZXQF5jndL-3" connectable="0" parent="V6v30hVfR8jZXQF5jndL-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
           <mxGeometry relative="1" x="-0.6478" y="-4" as="geometry">
-            <mxPoint x="46" y="24" as="offset" />
+            <mxPoint x="36" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V6v30hVfR8jZXQF5jndL-5" edge="1" parent="qSfW9CH8Ka733of-UM4c-1" source="sZB2CP7lKKuYpajfbTQW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="V6v30hVfR8jZXQF5jndL-4">
