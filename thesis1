@@ -5401,7 +5401,7 @@
           <mxGeometry height="50" width="100" x="125" y="1420" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-38" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1750" width="280" x="480" as="geometry" />
+          <mxGeometry height="1750" width="260" x="480" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-39" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Input Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
