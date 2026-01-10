@@ -4957,7 +4957,7 @@
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-4" parent="eQVyr0f1tNnmLrwFSp-Q-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="33" as="geometry" />
         </mxCell>
-        <mxCell id="eQVyr0f1tNnmLrwFSp-Q-5" parent="eQVyr0f1tNnmLrwFSp-Q-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
+        <mxCell id="eQVyr0f1tNnmLrwFSp-Q-5" parent="eQVyr0f1tNnmLrwFSp-Q-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Penjualan&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="69" as="geometry" />
         </mxCell>
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-6" edge="1" parent="eQVyr0f1tNnmLrwFSp-Q-3" source="eQVyr0f1tNnmLrwFSp-Q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eQVyr0f1tNnmLrwFSp-Q-5">
