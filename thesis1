@@ -4911,7 +4911,7 @@
         </mxCell>
         <mxCell id="iuMst8HtT02tSJ0kSkoV-2" connectable="0" parent="iuMst8HtT02tSJ0kSkoV-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
           <mxGeometry relative="1" x="-0.6478" y="-4" as="geometry">
-            <mxPoint x="16" y="41" as="offset" />
+            <mxPoint x="16" y="48" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u-0tq78tcXNZSfNyXJaM-1" edge="1" parent="rhpvyBYeGVy74EJkdohd-1" source="Rey6P44VjcOCidPuPuHI-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="u-0tq78tcXNZSfNyXJaM-0">
