@@ -2615,12 +2615,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-reset-password" id="dGweayplNuC53LFqZoF1">
-    <mxGraphModel dx="1413" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-0" />
         <mxCell id="rr1PyKb1GMVAlypoOTI2-1" parent="rr1PyKb1GMVAlypoOTI2-0" />
         <mxCell id="rr1PyKb1GMVAlypoOTI2-2" parent="rr1PyKb1GMVAlypoOTI2-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengguna (User)" vertex="1">
-          <mxGeometry height="570" width="250" x="-730" as="geometry" />
+          <mxGeometry height="610" width="250" x="-730" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-3" parent="rr1PyKb1GMVAlypoOTI2-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="113.5" y="40" as="geometry" />
@@ -2649,8 +2649,17 @@
         <mxCell id="HseowBRlugHPGg2fRjxk-13" parent="rr1PyKb1GMVAlypoOTI2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Konfirmasi" vertex="1">
           <mxGeometry height="50" width="100" x="136.5" y="420" as="geometry" />
         </mxCell>
+        <mxCell id="HseowBRlugHPGg2fRjxk-22" edge="1" parent="rr1PyKb1GMVAlypoOTI2-2" source="HseowBRlugHPGg2fRjxk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HseowBRlugHPGg2fRjxk-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HseowBRlugHPGg2fRjxk-19" parent="rr1PyKb1GMVAlypoOTI2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Isi Password&lt;div&gt;Baru&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="20" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="HseowBRlugHPGg2fRjxk-21" parent="rr1PyKb1GMVAlypoOTI2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Isi Konfirmasi Password&lt;div&gt;Baru&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="136.5" y="510" as="geometry" />
+        </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-7" parent="rr1PyKb1GMVAlypoOTI2-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="570" width="240" x="-480" as="geometry" />
+          <mxGeometry height="610" width="240" x="-480" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-10" parent="rr1PyKb1GMVAlypoOTI2-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="61.58" y="90" as="geometry" />
@@ -2705,6 +2714,14 @@
         </mxCell>
         <mxCell id="HseowBRlugHPGg2fRjxk-16" edge="1" parent="rr1PyKb1GMVAlypoOTI2-1" source="HseowBRlugHPGg2fRjxk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="HseowBRlugHPGg2fRjxk-15">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HseowBRlugHPGg2fRjxk-20" edge="1" parent="rr1PyKb1GMVAlypoOTI2-1" source="HseowBRlugHPGg2fRjxk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HseowBRlugHPGg2fRjxk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HseowBRlugHPGg2fRjxk-23" connectable="0" parent="HseowBRlugHPGg2fRjxk-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
+          <mxGeometry relative="1" x="-0.5178" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
