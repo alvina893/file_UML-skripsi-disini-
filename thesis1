@@ -3642,7 +3642,7 @@
           <mxGeometry height="50" width="100" x="159.25" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-28" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="97.75" y="450" as="geometry" />
+          <mxGeometry height="50" width="100" x="89.75" y="450" as="geometry" />
         </mxCell>
         <mxCell id="aDvtgs2poW8AM2mA1NLr-2" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Ubah Massal" vertex="1">
           <mxGeometry height="50" width="100" x="230" y="450" as="geometry" />
@@ -3745,7 +3745,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="695" y="430" />
-              <mxPoint x="278" y="430" />
+              <mxPoint x="270" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
