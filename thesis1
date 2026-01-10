@@ -7120,7 +7120,7 @@
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-5" edge="1" parent="nZ9n3LiwnjkS3mqQksBL-2" source="nZ9n3LiwnjkS3mqQksBL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nZ9n3LiwnjkS3mqQksBL-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nZ9n3LiwnjkS3mqQksBL-6" parent="nZ9n3LiwnjkS3mqQksBL-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tab &#39;List Penjualan Pending&#39;" vertex="1">
+        <mxCell id="nZ9n3LiwnjkS3mqQksBL-6" parent="nZ9n3LiwnjkS3mqQksBL-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tab &#39;Penjualan Pending&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="270" as="geometry" />
         </mxCell>
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-7" edge="1" parent="nZ9n3LiwnjkS3mqQksBL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
