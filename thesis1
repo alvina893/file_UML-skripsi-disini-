@@ -4940,7 +4940,7 @@
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-13" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="cvAT7BejKZ3OuZL2EdXY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3ifaNsux-VLHmlmN_mhE-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="40" y="515" />
+              <mxPoint x="40" y="524" />
               <mxPoint x="40" y="160" />
             </Array>
             <mxPoint x="155" y="265" as="targetPoint" />
@@ -4948,7 +4948,7 @@
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-14" connectable="0" parent="cvAT7BejKZ3OuZL2EdXY-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
           <mxGeometry relative="1" x="-0.6478" y="-4" as="geometry">
-            <mxPoint x="26" y="11" as="offset" />
+            <mxPoint x="26" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-15" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Dana yang Diterima dari Pembeli" vertex="1">
