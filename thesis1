@@ -5259,12 +5259,12 @@
           <mxGeometry height="50" width="100" x="230" y="370" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-12" parent="aubbcD0wnSqntcD6yuGs-3" style="rhombus;whiteSpace=wrap;html=1;" value="sudah lengkap?" vertex="1">
-          <mxGeometry height="40" width="100" x="105" y="460" as="geometry" />
+          <mxGeometry height="40" width="100" x="105" y="530" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-13" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="480" />
+              <mxPoint x="70" y="550" />
               <mxPoint x="70" y="225" />
             </Array>
             <mxPoint x="155" y="265" as="targetPoint" />
@@ -5399,7 +5399,7 @@
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-40" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="530" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="525" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-41" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Subtotal Barang" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="280" as="geometry" />
@@ -5498,8 +5498,7 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-66" edge="1" parent="aubbcD0wnSqntcD6yuGs-1" source="aubbcD0wnSqntcD6yuGs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="480" />
-              <mxPoint x="460" y="480" />
+              <mxPoint x="570" y="550" />
             </Array>
             <mxPoint x="285" y="600" as="targetPoint" />
           </mxGeometry>
