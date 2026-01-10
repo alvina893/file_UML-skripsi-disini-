@@ -7108,7 +7108,7 @@
       <root>
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-0" />
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-1" parent="nZ9n3LiwnjkS3mqQksBL-0" />
-        <mxCell id="nZ9n3LiwnjkS3mqQksBL-2" parent="nZ9n3LiwnjkS3mqQksBL-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
+        <mxCell id="nZ9n3LiwnjkS3mqQksBL-2" parent="nZ9n3LiwnjkS3mqQksBL-1" style="swimlane;whiteSpace=wrap;html=1;" value="Administrator" vertex="1">
           <mxGeometry height="1130" width="310" x="130" as="geometry" />
         </mxCell>
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-3" parent="nZ9n3LiwnjkS3mqQksBL-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
