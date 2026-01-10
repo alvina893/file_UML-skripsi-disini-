@@ -2640,6 +2640,9 @@
         <mxCell id="HseowBRlugHPGg2fRjxk-0" parent="rr1PyKb1GMVAlypoOTI2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Reset Password" vertex="1">
           <mxGeometry height="50" width="100" x="50" y="330" as="geometry" />
         </mxCell>
+        <mxCell id="HseowBRlugHPGg2fRjxk-3" parent="rr1PyKb1GMVAlypoOTI2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Masukkan Password Lama" vertex="1">
+          <mxGeometry height="50" width="100" x="30" y="420" as="geometry" />
+        </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-7" parent="rr1PyKb1GMVAlypoOTI2-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="570" width="240" x="-530" as="geometry" />
         </mxCell>
@@ -2651,9 +2654,6 @@
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-10" parent="rr1PyKb1GMVAlypoOTI2-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="61.58" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="rr1PyKb1GMVAlypoOTI2-18" edge="1" parent="rr1PyKb1GMVAlypoOTI2-7" source="rr1PyKb1GMVAlypoOTI2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rr1PyKb1GMVAlypoOTI2-20">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-19" parent="rr1PyKb1GMVAlypoOTI2-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Popup Reset Password" vertex="1">
           <mxGeometry height="50" width="100" x="61.58" y="330" as="geometry" />
@@ -2682,6 +2682,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-382.5" y="390.0000000000001" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rr1PyKb1GMVAlypoOTI2-18" edge="1" parent="rr1PyKb1GMVAlypoOTI2-1" source="rr1PyKb1GMVAlypoOTI2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HseowBRlugHPGg2fRjxk-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
