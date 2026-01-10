@@ -5294,20 +5294,6 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-12" parent="aubbcD0wnSqntcD6yuGs-3" style="rhombus;whiteSpace=wrap;html=1;" value="sudah lengkap?" vertex="1">
           <mxGeometry height="40" width="100" x="105" y="456" as="geometry" />
         </mxCell>
-        <mxCell id="aubbcD0wnSqntcD6yuGs-13" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="70" y="476" />
-              <mxPoint x="70" y="225" />
-            </Array>
-            <mxPoint x="155" y="265" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="aubbcD0wnSqntcD6yuGs-14" connectable="0" parent="aubbcD0wnSqntcD6yuGs-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
-          <mxGeometry relative="1" x="-0.6478" y="-4" as="geometry">
-            <mxPoint x="-4" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-15" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Dana yang Diterima dari Pembeli" vertex="1">
           <mxGeometry height="50" width="100" x="160" y="940" as="geometry" />
         </mxCell>
@@ -5603,6 +5589,20 @@
               <mxPoint x="285" y="440" />
               <mxPoint x="519" y="440" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aubbcD0wnSqntcD6yuGs-13" edge="1" parent="aubbcD0wnSqntcD6yuGs-1" source="aubbcD0wnSqntcD6yuGs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8Xb00Y9Rngqebj7jjuHn-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="476" />
+              <mxPoint x="200" y="156" />
+            </Array>
+            <mxPoint x="285" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aubbcD0wnSqntcD6yuGs-14" connectable="0" parent="aubbcD0wnSqntcD6yuGs-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.6478" y="-4" as="geometry">
+            <mxPoint x="-4" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
