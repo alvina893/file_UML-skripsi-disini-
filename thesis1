@@ -5097,16 +5097,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t2a-X91Ue4mWoBvhrar0-0" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Penjualan Atas Nama Siapa" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1120" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="XANCMKZWPveGG7fM7-5k-1" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-3" source="t2a-X91Ue4mWoBvhrar0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="XANCMKZWPveGG7fM7-5k-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t2a-X91Ue4mWoBvhrar0-5" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak Penerima" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1200" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1200" as="geometry" />
         </mxCell>
         <mxCell id="XANCMKZWPveGG7fM7-5k-0" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Konfirmasi" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1270" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1270" as="geometry" />
         </mxCell>
         <mxCell id="j1fq6KZX5qSeJO06Ghc_-0" parent="cvAT7BejKZ3OuZL2EdXY-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Cari Barang" vertex="1">
           <mxGeometry height="50" width="100" x="225" y="200" as="geometry" />
