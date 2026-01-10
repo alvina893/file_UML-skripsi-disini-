@@ -3283,7 +3283,7 @@
         <mxCell id="CVOz3VTjPCm7RbOz1h-t-10" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Popup Barang Baru" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="9liojWx-gnVAqxU3JMJg-1" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Autofill Supplier Barang" vertex="1">
+        <mxCell id="9liojWx-gnVAqxU3JMJg-1" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Autofill Supplier" vertex="1">
           <mxGeometry height="50" width="115" x="82.5" y="945" as="geometry" />
         </mxCell>
         <mxCell id="9liojWx-gnVAqxU3JMJg-2" edge="1" parent="qSfW9CH8Ka733of-UM4c-16" source="qSfW9CH8Ka733of-UM4c-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9liojWx-gnVAqxU3JMJg-1" value="">
