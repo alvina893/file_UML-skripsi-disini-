@@ -4754,7 +4754,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kiytIz6pyIqidB8UWpqO-5" parent="rhpvyBYeGVy74EJkdohd-2" style="rhombus;whiteSpace=wrap;html=1;" value="status" vertex="1">
-          <mxGeometry height="40" width="100" x="225" y="1055" as="geometry" />
+          <mxGeometry height="40" width="100" x="237" y="1055" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-13" parent="rhpvyBYeGVy74EJkdohd-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1390" width="280" x="480" as="geometry" />
@@ -4869,7 +4869,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="1100" />
-              <mxPoint x="430" y="1100" />
+              <mxPoint x="442" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -4892,7 +4892,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="555" y="1050" />
-              <mxPoint x="430" y="1050" />
+              <mxPoint x="442" y="1050" />
             </Array>
           </mxGeometry>
         </mxCell>
