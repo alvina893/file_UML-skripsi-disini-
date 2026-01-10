@@ -2941,6 +2941,9 @@
         <mxCell id="jqcUngUZ5n67goPmX3PR-1" connectable="0" parent="EXahoBi8N_f_pk358-Yt-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Perlu ubah stok barang gudang" vertex="1">
           <mxGeometry x="110" y="710" as="geometry" />
         </mxCell>
+        <mxCell id="jqcUngUZ5n67goPmX3PR-3" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="900" as="geometry" />
+        </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-42" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1080" width="340" x="410" as="geometry" />
         </mxCell>
@@ -3026,6 +3029,12 @@
         </mxCell>
         <mxCell id="_y7RdQqjLD-7aHaszyTe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Dua Kali pada Stok di List Barang" vertex="1">
           <mxGeometry height="50" width="100" x="220" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="jqcUngUZ5n67goPmX3PR-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty Stok Terbaru" vertex="1">
+          <mxGeometry height="50" width="100" x="220" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="jqcUngUZ5n67goPmX3PR-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
+          <mxGeometry height="50" width="100" x="520" y="910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
