@@ -5229,7 +5229,7 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-0" />
         <mxCell id="aubbcD0wnSqntcD6yuGs-1" parent="aubbcD0wnSqntcD6yuGs-0" />
         <mxCell id="aubbcD0wnSqntcD6yuGs-2" parent="aubbcD0wnSqntcD6yuGs-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="358" width="530" x="160" y="182" as="geometry" />
+          <mxGeometry height="408" width="530" x="160" y="182" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-3" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
           <mxGeometry height="1630" width="350" x="130" as="geometry" />
@@ -5287,12 +5287,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-17" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pilih Status &#39;Pending&#39;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="30" y="670" as="geometry" />
+          <mxGeometry height="50" width="100" x="30" y="684" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-18" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="630" />
+              <mxPoint x="80" y="640" />
             </Array>
             <mxPoint x="190" y="650" as="sourcePoint" />
             <mxPoint x="50" y="730" as="targetPoint" />
@@ -5306,7 +5306,7 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-20" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="630" />
+              <mxPoint x="210" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -5316,10 +5316,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-22" parent="aubbcD0wnSqntcD6yuGs-3" style="rhombus;whiteSpace=wrap;html=1;" value="ada pembayaran?" vertex="1">
-          <mxGeometry height="40" width="100" x="90" y="610" as="geometry" />
+          <mxGeometry height="40" width="100" x="90" y="620" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-23" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Metode Pembayaran" vertex="1">
-          <mxGeometry height="50" width="100" x="160" y="670" as="geometry" />
+          <mxGeometry height="50" width="100" x="160" y="684" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-24" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-30">
           <mxGeometry relative="1" as="geometry">
