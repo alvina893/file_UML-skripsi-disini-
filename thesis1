@@ -5093,7 +5093,7 @@
           <mxGeometry height="50" width="100" x="140" y="920" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-41" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Masukkan Barang ke List Penjualan" vertex="1">
-          <mxGeometry height="50" width="100" x="109" y="418" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="418" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-42" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Penjualan jadi &#39;Lunas&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="140" y="990" as="geometry" />
@@ -5176,8 +5176,7 @@
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-56" edge="1" parent="cvAT7BejKZ3OuZL2EdXY-1" source="cvAT7BejKZ3OuZL2EdXY-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cvAT7BejKZ3OuZL2EdXY-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="640" y="468" />
-              <mxPoint x="640" y="480" />
+              <mxPoint x="620" y="480" />
               <mxPoint x="285" y="480" />
             </Array>
             <mxPoint x="285" y="560" as="targetPoint" />
