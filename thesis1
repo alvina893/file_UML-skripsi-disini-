@@ -5229,7 +5229,7 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-0" />
         <mxCell id="aubbcD0wnSqntcD6yuGs-1" parent="aubbcD0wnSqntcD6yuGs-0" />
         <mxCell id="aubbcD0wnSqntcD6yuGs-2" parent="aubbcD0wnSqntcD6yuGs-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="368" width="541" x="149" y="182" as="geometry" />
+          <mxGeometry height="368" width="530" x="160" y="182" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-3" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
           <mxGeometry height="1750" width="350" x="130" as="geometry" />
@@ -5272,7 +5272,7 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-13" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="70" y="510" />
+              <mxPoint x="70" y="480" />
               <mxPoint x="70" y="225" />
             </Array>
             <mxPoint x="155" y="265" as="targetPoint" />
@@ -5407,7 +5407,7 @@
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-40" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="485" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="455" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-41" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Subtotal Barang" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="280" as="geometry" />
@@ -5507,7 +5507,8 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-66" edge="1" parent="aubbcD0wnSqntcD6yuGs-1" source="aubbcD0wnSqntcD6yuGs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="510" />
+              <mxPoint x="460" y="480" />
+              <mxPoint x="460" y="480" />
             </Array>
             <mxPoint x="285" y="600" as="targetPoint" />
           </mxGeometry>
