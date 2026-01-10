@@ -3796,7 +3796,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-users" id="F8msxoU-VFEAUoOPyxk2">
-    <mxGraphModel dx="75" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="192" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0ESF_keQ80qXtmsPh_5W-0" />
         <mxCell id="0ESF_keQ80qXtmsPh_5W-1" parent="0ESF_keQ80qXtmsPh_5W-0" />
@@ -4951,7 +4951,7 @@
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-2" parent="eQVyr0f1tNnmLrwFSp-Q-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="410" width="541" x="149" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="eQVyr0f1tNnmLrwFSp-Q-3" parent="eQVyr0f1tNnmLrwFSp-Q-1" style="swimlane;whiteSpace=wrap;html=1;" value="Administrator" vertex="1">
+        <mxCell id="eQVyr0f1tNnmLrwFSp-Q-3" parent="eQVyr0f1tNnmLrwFSp-Q-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="1250" width="350" x="130" as="geometry" />
         </mxCell>
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-4" parent="eQVyr0f1tNnmLrwFSp-Q-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
@@ -5665,7 +5665,7 @@
         <mxCell id="AKkEHLHm3sMyQ5BBXcQC-2" parent="AKkEHLHm3sMyQ5BBXcQC-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="430" width="560" x="140" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="AKkEHLHm3sMyQ5BBXcQC-3" parent="AKkEHLHm3sMyQ5BBXcQC-1" style="swimlane;whiteSpace=wrap;html=1;" value="Administrator" vertex="1">
+        <mxCell id="AKkEHLHm3sMyQ5BBXcQC-3" parent="AKkEHLHm3sMyQ5BBXcQC-1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="1290" width="350" x="130" as="geometry" />
         </mxCell>
         <mxCell id="AKkEHLHm3sMyQ5BBXcQC-4" parent="AKkEHLHm3sMyQ5BBXcQC-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
@@ -6409,7 +6409,7 @@
         <mxCell id="MIHANVPPqOJJCQrdcRwr-2" parent="MIHANVPPqOJJCQrdcRwr-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="422" width="540" x="150" y="128" as="geometry" />
         </mxCell>
-        <mxCell id="MIHANVPPqOJJCQrdcRwr-3" parent="MIHANVPPqOJJCQrdcRwr-1" style="swimlane;whiteSpace=wrap;html=1;" value="Administrator" vertex="1">
+        <mxCell id="MIHANVPPqOJJCQrdcRwr-3" parent="MIHANVPPqOJJCQrdcRwr-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="1390" width="350" x="130" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-4" parent="MIHANVPPqOJJCQrdcRwr-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
