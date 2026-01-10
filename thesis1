@@ -5467,7 +5467,7 @@
         <mxCell id="V0O7w86AaRL35vUiM6PU-39" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Masukkan Barang ke List Penjualan" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="4XaoeRR8YVy-GhY5lBg0-0" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Cari Barang" vertex="1">
+        <mxCell id="4XaoeRR8YVy-GhY5lBg0-0" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan List Barang" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="200" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-58" edge="1" parent="aubbcD0wnSqntcD6yuGs-1" source="aubbcD0wnSqntcD6yuGs-59" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="aubbcD0wnSqntcD6yuGs-4">
