@@ -3125,7 +3125,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZkdKDVLzf9ZRBfxSJ7LL" name="admin-activity-pembelian">
-    <mxGraphModel dx="925" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="218" dy="138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3269,7 +3269,7 @@
           <mxGeometry height="50" width="100" x="90" y="797" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-36" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Autofill Nama, Satuan dan Harga Beli Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="135" x="77.5" y="707" as="geometry" />
+          <mxGeometry height="50" width="135" x="72.5" y="690" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-48" parent="qSfW9CH8Ka733of-UM4c-16" style="rounded=1;whiteSpace=wrap;html=1;" value="Tambahkan Barang ke List Detail Pembelian Barang" vertex="1">
           <mxGeometry height="50" width="115" x="82.5" y="887" as="geometry" />
@@ -3306,7 +3306,7 @@
         <mxCell id="qSfW9CH8Ka733of-UM4c-37" edge="1" parent="1" source="qSfW9CH8Ka733of-UM4c-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qSfW9CH8Ka733of-UM4c-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="732" />
+              <mxPoint x="254" y="715" />
             </Array>
           </mxGeometry>
         </mxCell>
