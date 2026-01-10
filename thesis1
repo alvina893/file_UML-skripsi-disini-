@@ -5411,7 +5411,7 @@
           <mxGeometry height="50" width="100" x="147.5" y="940" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-44" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Total Subtotal Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="370" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="440" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-45" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Penjualan jadi &#39;Lunas&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="147.5" y="1020" as="geometry" />
@@ -5482,15 +5482,6 @@
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-63" edge="1" parent="aubbcD0wnSqntcD6yuGs-1" source="aubbcD0wnSqntcD6yuGs-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-11">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="aubbcD0wnSqntcD6yuGs-64" edge="1" parent="aubbcD0wnSqntcD6yuGs-1" source="aubbcD0wnSqntcD6yuGs-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="620" y="440" />
-              <mxPoint x="285" y="440" />
-            </Array>
-            <mxPoint x="285" y="560" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-65" edge="1" parent="aubbcD0wnSqntcD6yuGs-1" source="aubbcD0wnSqntcD6yuGs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-44">
           <mxGeometry relative="1" as="geometry" />
