@@ -5446,22 +5446,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-34" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Penjualan Atas Nama Siapa" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1120" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-35" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-36" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak Penerima" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1197" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1197" as="geometry" />
         </mxCell>
         <mxCell id="PJE-X6rLCSxhinLqRIgS-1" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PJE-X6rLCSxhinLqRIgS-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-37" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Alamat Penerima" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1273" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1273" as="geometry" />
         </mxCell>
         <mxCell id="PJE-X6rLCSxhinLqRIgS-0" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Konfirmasi" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1350" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-38" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1600" width="260" x="480" as="geometry" />
