@@ -5080,7 +5080,7 @@
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-36" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Input Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="cvAT7BejKZ3OuZL2EdXY-37" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Barang&lt;/div&gt;" vertex="1">
+        <mxCell id="cvAT7BejKZ3OuZL2EdXY-37" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;" value="Hitung Total Semua Penjualan" vertex="1">
           <mxGeometry height="50" width="100" x="60" y="490" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-38" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Subtotal Barang" vertex="1">
@@ -5431,7 +5431,7 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-39" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Input Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="aubbcD0wnSqntcD6yuGs-40" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Barang&lt;/div&gt;" vertex="1">
+        <mxCell id="aubbcD0wnSqntcD6yuGs-40" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="517" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-41" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Subtotal Barang" vertex="1">
