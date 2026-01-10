@@ -4608,7 +4608,7 @@
           <mxGeometry height="410" width="541" x="149" y="130" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-2" parent="rhpvyBYeGVy74EJkdohd-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="1290" width="350" x="130" as="geometry" />
+          <mxGeometry height="1250" width="350" x="130" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-3" parent="rhpvyBYeGVy74EJkdohd-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="33" as="geometry" />
@@ -4684,7 +4684,7 @@
           <mxGeometry height="50" width="100" x="180" y="653.89" as="geometry" />
         </mxCell>
         <mxCell id="iuMst8HtT02tSJ0kSkoV-19" parent="rhpvyBYeGVy74EJkdohd-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Konfirmasi" vertex="1">
-          <mxGeometry height="50" width="100" x="125" y="1140" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="NBKO6vEo9MjxyrKmXsr1-4" edge="1" parent="rhpvyBYeGVy74EJkdohd-2" source="NBKO6vEo9MjxyrKmXsr1-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="NBKO6vEo9MjxyrKmXsr1-3">
           <mxGeometry relative="1" as="geometry">
@@ -4743,7 +4743,7 @@
           <mxGeometry height="50" width="100" x="233" y="193" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-13" parent="rhpvyBYeGVy74EJkdohd-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1290" width="250" x="480" as="geometry" />
+          <mxGeometry height="1250" width="250" x="480" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-15" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Input Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="69" as="geometry" />
@@ -4770,7 +4770,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iuMst8HtT02tSJ0kSkoV-20" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="20" y="1140" as="geometry" />
+          <mxGeometry height="50" width="100" x="19" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="iuMst8HtT02tSJ0kSkoV-30" edge="1" parent="rhpvyBYeGVy74EJkdohd-13" source="Gray5WztbYdxHZtdDBQ6-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="rhpvyBYeGVy74EJkdohd-20">
           <mxGeometry relative="1" as="geometry" />
@@ -4779,13 +4779,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iuMst8HtT02tSJ0kSkoV-23" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Print Struk Bukti Penjualan" vertex="1">
-          <mxGeometry height="50" width="100" x="137" y="1140" as="geometry" />
+          <mxGeometry height="50" width="100" x="136" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="rhpvyBYeGVy74EJkdohd-20" parent="rhpvyBYeGVy74EJkdohd-13" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="55" y="1230" as="geometry" />
+          <mxGeometry height="30" width="30" x="54" y="1190" as="geometry" />
         </mxCell>
         <mxCell id="Gray5WztbYdxHZtdDBQ6-0" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Penjualan" vertex="1">
-          <mxGeometry height="50" width="100" x="136" y="1220" as="geometry" />
+          <mxGeometry height="50" width="100" x="135" y="1180" as="geometry" />
         </mxCell>
         <mxCell id="JPRhp9a2lm921Y2DhVaw-0" parent="rhpvyBYeGVy74EJkdohd-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Status Penjualan jadi &#39;Pending&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="25" y="980" as="geometry" />
