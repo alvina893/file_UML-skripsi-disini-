@@ -5265,7 +5265,7 @@
           <mxGeometry height="430" width="530" x="160" y="128" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-3" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="1630" width="350" x="130" as="geometry" />
+          <mxGeometry height="1610" width="350" x="130" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-4" parent="aubbcD0wnSqntcD6yuGs-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="31" as="geometry" />
@@ -5394,25 +5394,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-34" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Penjualan Atas Nama Siapa" vertex="1">
-          <mxGeometry height="50" width="100" x="125" y="1150" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-35" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-36" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Kontak Penerima" vertex="1">
-          <mxGeometry height="50" width="100" x="125" y="1227" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="1197" as="geometry" />
         </mxCell>
         <mxCell id="PJE-X6rLCSxhinLqRIgS-1" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" source="aubbcD0wnSqntcD6yuGs-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="PJE-X6rLCSxhinLqRIgS-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-37" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Alamat Penerima" vertex="1">
-          <mxGeometry height="50" width="100" x="125" y="1303" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="1273" as="geometry" />
         </mxCell>
         <mxCell id="PJE-X6rLCSxhinLqRIgS-0" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Konfirmasi" vertex="1">
-          <mxGeometry height="50" width="100" x="125" y="1380" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-38" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1630" width="260" x="480" as="geometry" />
+          <mxGeometry height="1610" width="260" x="480" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-39" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Input Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="67" as="geometry" />
@@ -5451,24 +5451,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-52" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1380" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-53" edge="1" parent="aubbcD0wnSqntcD6yuGs-38" source="aubbcD0wnSqntcD6yuGs-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-54" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Print Struk Bukti Penjualan" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1450" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="1420" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-55" parent="aubbcD0wnSqntcD6yuGs-38" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="125" y="1590" as="geometry" />
+          <mxGeometry height="30" width="30" x="125" y="1560" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-56" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Penjualan" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="1520" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="1490" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-57" edge="1" parent="aubbcD0wnSqntcD6yuGs-38" source="aubbcD0wnSqntcD6yuGs-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="aubbcD0wnSqntcD6yuGs-56" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="1490" as="sourcePoint" />
-            <mxPoint x="580" y="1590" as="targetPoint" />
+            <mxPoint x="580" y="1460" as="sourcePoint" />
+            <mxPoint x="580" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="V0O7w86AaRL35vUiM6PU-39" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Masukkan Barang ke List Penjualan" vertex="1">
