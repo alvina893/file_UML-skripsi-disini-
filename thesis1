@@ -2615,7 +2615,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-reset-password" id="dGweayplNuC53LFqZoF1">
-    <mxGraphModel dx="2008" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-0" />
         <mxCell id="rr1PyKb1GMVAlypoOTI2-1" parent="rr1PyKb1GMVAlypoOTI2-0" />
@@ -2663,6 +2663,11 @@
         </mxCell>
         <mxCell id="HseowBRlugHPGg2fRjxk-17" edge="1" parent="rr1PyKb1GMVAlypoOTI2-7" source="HseowBRlugHPGg2fRjxk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="rr1PyKb1GMVAlypoOTI2-19">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HseowBRlugHPGg2fRjxk-18" connectable="0" parent="HseowBRlugHPGg2fRjxk-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="salah" vertex="1">
+          <mxGeometry relative="1" x="-0.4918" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HseowBRlugHPGg2fRjxk-15" parent="rr1PyKb1GMVAlypoOTI2-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Verifikasi Password Lama" vertex="1">
           <mxGeometry height="50" width="100" x="61.579999999999984" y="420" as="geometry" />
