@@ -5251,7 +5251,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aubbcD0wnSqntcD6yuGs-8" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Scan Barang" vertex="1">
+        <mxCell id="aubbcD0wnSqntcD6yuGs-8" parent="aubbcD0wnSqntcD6yuGs-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Scan / Cari Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-9" edge="1" parent="aubbcD0wnSqntcD6yuGs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
