@@ -5432,7 +5432,7 @@
           <mxGeometry height="50" width="100" x="80" y="70" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-40" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="496" as="geometry" />
+          <mxGeometry height="50" width="100" x="80" y="496" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-41" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Hitung Subtotal Barang" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="270" as="geometry" />
@@ -5486,7 +5486,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="V0O7w86AaRL35vUiM6PU-39" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Masukkan Barang ke List Penjualan" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="405" as="geometry" />
+          <mxGeometry height="50" width="100" x="80" y="405" as="geometry" />
         </mxCell>
         <mxCell id="4XaoeRR8YVy-GhY5lBg0-0" parent="aubbcD0wnSqntcD6yuGs-38" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Hasil Pencarian Barang" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="185" as="geometry" />
