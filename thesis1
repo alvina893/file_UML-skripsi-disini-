@@ -5921,7 +5921,7 @@
             <mxPoint x="414" y="231" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AKkEHLHm3sMyQ5BBXcQC-69" parent="AKkEHLHm3sMyQ5BBXcQC-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Kasir&lt;div&gt;sudah login, ada barang pada sistem&lt;/div&gt;" vertex="1">
+        <mxCell id="AKkEHLHm3sMyQ5BBXcQC-69" parent="AKkEHLHm3sMyQ5BBXcQC-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin&lt;div&gt;sudah login, ada barang pada sistem&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="90" x="20" y="16" as="geometry" />
         </mxCell>
         <mxCell id="AKkEHLHm3sMyQ5BBXcQC-70" edge="1" parent="AKkEHLHm3sMyQ5BBXcQC-1" source="AKkEHLHm3sMyQ5BBXcQC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AKkEHLHm3sMyQ5BBXcQC-46">
