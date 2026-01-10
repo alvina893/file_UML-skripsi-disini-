@@ -5229,7 +5229,7 @@
         <mxCell id="aubbcD0wnSqntcD6yuGs-0" />
         <mxCell id="aubbcD0wnSqntcD6yuGs-1" parent="aubbcD0wnSqntcD6yuGs-0" />
         <mxCell id="aubbcD0wnSqntcD6yuGs-2" parent="aubbcD0wnSqntcD6yuGs-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="408" width="530" x="160" y="182" as="geometry" />
+          <mxGeometry height="398" width="530" x="160" y="182" as="geometry" />
         </mxCell>
         <mxCell id="aubbcD0wnSqntcD6yuGs-3" parent="aubbcD0wnSqntcD6yuGs-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
           <mxGeometry height="1630" width="350" x="130" as="geometry" />
