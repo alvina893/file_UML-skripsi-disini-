@@ -2642,10 +2642,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iEfOS3-rPD90qZT58yaT-2" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Nama Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="410" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="414" as="geometry" />
         </mxCell>
         <mxCell id="iEfOS3-rPD90qZT58yaT-3" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Kategori Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="480" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="484" as="geometry" />
         </mxCell>
         <mxCell id="IY7dwhEqgg_wRWHcR9fZ-17" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="iEfOS3-rPD90qZT58yaT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IY7dwhEqgg_wRWHcR9fZ-23">
           <mxGeometry relative="1" as="geometry" />
@@ -2788,7 +2788,10 @@
         <mxCell id="EB8SxUxo21bFovr8ayfc-48" parent="8rPaMRM0daE1oujM9DhI-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Pilih Generate Barcode" vertex="1">
           <mxGeometry height="50" width="100" x="166.5" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="VyAxd9NbR7_chQAPkXEC-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rhombus;whiteSpace=wrap;html=1;" value="barcode?" vertex="1">
+        <mxCell id="VyAxd9NbR7_chQAPkXEC-1" edge="1" parent="8rPaMRM0daE1oujM9DhI-2" source="VyAxd9NbR7_chQAPkXEC-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="iEfOS3-rPD90qZT58yaT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VyAxd9NbR7_chQAPkXEC-0" parent="8rPaMRM0daE1oujM9DhI-2" style="rhombus;whiteSpace=wrap;html=1;" value="barcode" vertex="1">
           <mxGeometry height="40" width="75" x="117.5" y="360" as="geometry" />
         </mxCell>
         <mxCell id="8rPaMRM0daE1oujM9DhI-7" parent="8rPaMRM0daE1oujM9DhI-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
@@ -2874,7 +2877,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="805" />
-              <mxPoint x="680" y="505" />
+              <mxPoint x="680" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
