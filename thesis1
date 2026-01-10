@@ -4947,7 +4947,7 @@
           <mxGeometry height="430" width="560" x="140" y="130" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-3" parent="cvAT7BejKZ3OuZL2EdXY-1" style="swimlane;whiteSpace=wrap;html=1;" value="Kasir" vertex="1">
-          <mxGeometry height="1380" width="350" x="130" as="geometry" />
+          <mxGeometry height="1290" width="350" x="130" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-4" parent="cvAT7BejKZ3OuZL2EdXY-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="34" as="geometry" />
@@ -5126,7 +5126,7 @@
           <mxGeometry height="50" width="100" x="110" y="289" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-35" parent="cvAT7BejKZ3OuZL2EdXY-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1380" width="260" x="480" as="geometry" />
+          <mxGeometry height="1290" width="260" x="480" as="geometry" />
         </mxCell>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-36" parent="cvAT7BejKZ3OuZL2EdXY-35" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;Form Input Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="70" as="geometry" />
