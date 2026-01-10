@@ -3898,7 +3898,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-11" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Refund (Dana)" vertex="1">
-          <mxGeometry height="50" width="100" x="17.5" y="840" as="geometry" />
+          <mxGeometry height="50" width="100" x="30" y="840" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-14" edge="1" parent="yFGjEewnk6zipsU0tE6d-3" source="9drwE3eR9g25YAIwxK7k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-11">
           <mxGeometry relative="1" as="geometry" />
@@ -3923,13 +3923,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-15" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pililh Tukar Guling (Barang)" vertex="1">
-          <mxGeometry height="50" width="100" x="182.5" y="840" as="geometry" />
+          <mxGeometry height="50" width="100" x="169" y="840" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-29" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Konfirmasi" vertex="1">
-          <mxGeometry height="50" width="100" x="180" y="920" as="geometry" />
+          <mxGeometry height="50" width="100" x="166.5" y="920" as="geometry" />
         </mxCell>
         <mxCell id="9drwE3eR9g25YAIwxK7k-30" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Konfirmasi" vertex="1">
-          <mxGeometry height="50" width="100" x="17.5" y="920" as="geometry" />
+          <mxGeometry height="50" width="100" x="30" y="920" as="geometry" />
         </mxCell>
         <mxCell id="Pic5Qs3r3ObAZfZg01eH-5" parent="yFGjEewnk6zipsU0tE6d-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Klik Konfirmasi Pengembalian Ditolak" vertex="1">
           <mxGeometry height="50" width="100" x="195" y="550" as="geometry" />
@@ -4009,7 +4009,7 @@
         <mxCell id="9drwE3eR9g25YAIwxK7k-35" edge="1" parent="yFGjEewnk6zipsU0tE6d-1" source="9drwE3eR9g25YAIwxK7k-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="9drwE3eR9g25YAIwxK7k-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="198" y="1035" />
+              <mxPoint x="210" y="1035" />
             </Array>
           </mxGeometry>
         </mxCell>
