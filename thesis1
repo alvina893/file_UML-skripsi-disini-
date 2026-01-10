@@ -3625,7 +3625,7 @@
         </mxCell>
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-23" connectable="0" parent="j0s5wpUXIwvH33bu0CoQ-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
           <mxGeometry relative="1" x="-0.0952" y="-1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-16" parent="z59YmqfFuoYk1kjF_Vfo-2" style="rhombus;whiteSpace=wrap;html=1;" value="sesuai?" vertex="1">
