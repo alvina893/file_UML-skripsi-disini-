@@ -3510,6 +3510,15 @@
         <mxCell id="tdLoQLts1n676adYL69i-14" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="tdLoQLts1n676adYL69i-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="tdLoQLts1n676adYL69i-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nQECEXEoEyGo4i1oBU76-0" parent="dahKemnSM7VH1qRMd_MF-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Activity Diagram Pembelian Baru" vertex="1">
+          <mxGeometry height="70" width="100" x="760" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="nQECEXEoEyGo4i1oBU76-1" edge="1" parent="dahKemnSM7VH1qRMd_MF-1" source="nQECEXEoEyGo4i1oBU76-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashPattern=8 8;" target="dahKemnSM7VH1qRMd_MF-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1749" y="607" as="sourcePoint" />
+            <mxPoint x="570" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
