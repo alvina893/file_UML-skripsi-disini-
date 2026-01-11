@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2543" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2380" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10010,7 +10010,7 @@
           <mxGeometry height="23" width="65" x="10" y="421" as="geometry" />
         </mxCell>
         <mxCell id="nkWG246BPE2BQa9vZn5F-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Dashboard&lt;div&gt;Karyawan Sistem POS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="65" width="120" x="100" y="210" as="geometry" />
+          <mxGeometry height="65" width="120" x="100" y="212.5" as="geometry" />
         </mxCell>
         <mxCell id="L95lrjUPLvRNP4vo_aI9-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Penjualan" vertex="1">
           <mxGeometry height="65" width="120" x="33" y="290" as="geometry" />
@@ -10043,7 +10043,7 @@
           <mxGeometry height="60" width="120" x="120" y="130" as="geometry" />
         </mxCell>
         <mxCell id="Pv901iQT87FOSfyXrWXA-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Tangani Penjualan Delivery dan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="212.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="120" y="215" as="geometry" />
         </mxCell>
         <mxCell id="2z-aHtrvx2NWDsrHtKMs-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Pengiriman&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="481" as="geometry" />
@@ -10104,7 +10104,7 @@
         <mxCell id="wccx3p1qhmirnF-fSAK7-1" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="ZGRS7dwlB0OQ8s0bG8Vx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="nkWG246BPE2BQa9vZn5F-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4385" y="242" />
+              <mxPoint x="4385" y="245" />
             </Array>
             <mxPoint x="4225" y="281" as="sourcePoint" />
           </mxGeometry>
