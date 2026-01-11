@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-573" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-907" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9689,6 +9689,9 @@
         <mxCell id="sckoMklggJOfc7M9gMpr-1" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="barang bermasalah?" vertex="1">
           <mxGeometry height="55" width="100" x="50" y="530" as="geometry" />
         </mxCell>
+        <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-2" edge="1" parent="ibdLh96HV3ljDS0WLSE7-107" source="sckoMklggJOfc7M9gMpr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HHYZ1ulpQxbiJ7wq4KpE-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sckoMklggJOfc7M9gMpr-2" parent="ibdLh96HV3ljDS0WLSE7-107" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="607" as="geometry" />
         </mxCell>
@@ -9702,7 +9705,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-1" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="selesai?" vertex="1">
+        <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-1" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="lanjut?" vertex="1">
           <mxGeometry height="55" width="100" x="90" y="690" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-110" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-90">
