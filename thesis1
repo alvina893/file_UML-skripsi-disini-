@@ -8978,7 +8978,7 @@
           <mxGeometry height="60" width="120" x="140" y="460" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-50" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="570" as="geometry" />
+          <mxGeometry height="60" width="120" x="140" y="565" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-52" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Langsung" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="826" as="geometry" />
@@ -9017,7 +9017,7 @@
           <mxGeometry height="60" width="120" x="120" y="460" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-8" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="119.75" y="570" as="geometry" />
+          <mxGeometry height="60" width="120" x="120" y="565" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-19" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="119.75" y="826" as="geometry" />
@@ -9112,7 +9112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-3" parent="E8parfckR2CZ24kqbwVu-31" style="rhombus;whiteSpace=wrap;html=1;" value="pembeli ingin belanja" vertex="1">
-          <mxGeometry height="55" width="80" x="60" y="670" as="geometry" />
+          <mxGeometry height="55" width="80" x="60" y="665" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-34" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=sharp;jumpSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="E8parfckR2CZ24kqbwVu-30">
           <mxGeometry relative="1" as="geometry">
