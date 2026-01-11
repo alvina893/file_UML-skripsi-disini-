@@ -10211,7 +10211,7 @@
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-11" connectable="0" parent="6SwuYUEBij50HbT-ta7M-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="delivery" vertex="1">
           <mxGeometry relative="1" x="-0.5994" y="1" as="geometry">
-            <mxPoint x="9" y="-1" as="offset" />
+            <mxPoint x="-180" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-10" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="6SwuYUEBij50HbT-ta7M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-6">
@@ -10219,7 +10219,7 @@
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-12" connectable="0" parent="6SwuYUEBij50HbT-ta7M-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="pickup" vertex="1">
           <mxGeometry relative="1" x="-0.2037" y="3" as="geometry">
-            <mxPoint x="39" y="-1" as="offset" />
+            <mxPoint x="-100" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-20" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="6SwuYUEBij50HbT-ta7M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="6SwuYUEBij50HbT-ta7M-19">
@@ -10265,6 +10265,12 @@
               <mxPoint x="4000" y="710" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0i1Pybg5sJOpKfpWQMat-0" parent="GrSHBEEx4EimilLz5uOu-1" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PDP" vertex="1">
+          <mxGeometry height="30" width="50" x="3830" y="473" as="geometry" />
+        </mxCell>
+        <mxCell id="0i1Pybg5sJOpKfpWQMat-1" parent="GrSHBEEx4EimilLz5uOu-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Delivery atau Pickup" vertex="1">
+          <mxGeometry height="8" width="110" x="3800" y="460" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
