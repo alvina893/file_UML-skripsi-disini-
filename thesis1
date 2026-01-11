@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="366" dy="197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9245,11 +9245,11 @@
             <mxPoint x="280" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8GlrzUioZOxdHMj1lBe7-2" edge="1" parent="1" source="_7JFgMRsa0Y7uNnYHq-e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.675;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
+        <mxCell id="8GlrzUioZOxdHMj1lBe7-2" edge="1" parent="1" source="_7JFgMRsa0Y7uNnYHq-e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="491" y="1300" />
-              <mxPoint x="1668" y="1300" />
+              <mxPoint x="1635" y="1300" />
             </Array>
             <mxPoint x="1450" y="1257" as="targetPoint" />
           </mxGeometry>
@@ -9293,11 +9293,11 @@
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengguna (Users)" vertex="1">
           <mxGeometry height="60" width="120" x="437" y="1568" as="geometry" />
         </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-21" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-21" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.738;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="497" y="1670" />
-              <mxPoint x="1703" y="1670" />
+              <mxPoint x="1680" y="1670" />
             </Array>
           </mxGeometry>
         </mxCell>
