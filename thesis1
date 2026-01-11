@@ -10044,7 +10044,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-5" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Packing Barang&lt;div&gt;untuk Dikirim&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="490" as="geometry" />
+          <mxGeometry height="60" width="120" x="33" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="6SwuYUEBij50HbT-ta7M-8" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Packing Barang&lt;div&gt;untuk&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dipickup&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="540" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="1100" width="200" x="4080" as="geometry" />
@@ -10172,9 +10175,6 @@
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-2" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="ZGRS7dwlB0OQ8s0bG8Vx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.002;exitY=0.359;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="6SwuYUEBij50HbT-ta7M-1">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6SwuYUEBij50HbT-ta7M-8" parent="GrSHBEEx4EimilLz5uOu-1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Packing Barang&lt;div&gt;untuk&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dipickup&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="3620" y="530" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
