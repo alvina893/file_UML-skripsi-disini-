@@ -9174,7 +9174,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-2" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="141.28" y="1487" as="geometry" />
+          <mxGeometry height="50" width="100" x="150" y="1487" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-9" parent="u2R2A6VwlVuXDPNBlX9A-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ingin backup dan restore database sistem" vertex="1">
           <mxGeometry height="23" width="172" x="139.57" y="1448" as="geometry" />
