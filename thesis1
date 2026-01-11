@@ -9097,6 +9097,9 @@
         <mxCell id="UXwPgQRpqliRK8S_enux-2" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="98OyI8F133Gv7OhP2Qll-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5qHX6kofHUKhqv3fKICG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VDkNCBOltiM60z1LoLAD-4" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="VDkNCBOltiM60z1LoLAD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pCmKEMaXlxeiSPBmmfWM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-2" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="50" width="100" x="58" y="1355" as="geometry" />
         </mxCell>
