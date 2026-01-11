@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="906" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9103,7 +9103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-27" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan:&lt;div&gt;-&amp;nbsp; Keuangan&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Pembelian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Penjualan&lt;/div&gt;&lt;div&gt;- Pengembalian&lt;/div&gt;&lt;div&gt;- Barang&lt;/div&gt;&lt;div&gt;- Supplier&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="130" x="301.5" y="1558" as="geometry" />
+          <mxGeometry height="110" width="130" x="291.5" y="1558" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Admin (Pemilik Toko)&lt;/font&gt;" vertex="1">
           <mxGeometry height="1970" width="410" as="geometry" />
