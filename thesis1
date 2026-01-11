@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-52" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-769" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9658,7 +9658,7 @@
         <mxCell id="vC7WBh-pkx834pGgs-Um-1" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Username&lt;div&gt;dan Password&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="125" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-4" parent="ibdLh96HV3ljDS0WLSE7-93" style="rhombus;whiteSpace=wrap;html=1;" value="kerja selesai" vertex="1">
+        <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-4" parent="ibdLh96HV3ljDS0WLSE7-93" style="rhombus;whiteSpace=wrap;html=1;" value="kerja selesai?" vertex="1">
           <mxGeometry height="55" width="100" x="239.75" y="1079.5" as="geometry" />
         </mxCell>
         <mxCell id="6AXPL0mxz19k4Qz_WqaX-1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-93" source="HHYZ1ulpQxbiJ7wq4KpE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7EH5S4hUoR7nKpb-Wo7m-2">
