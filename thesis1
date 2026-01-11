@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2380" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2686" dy="375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10016,7 +10016,7 @@
           <mxGeometry height="1100" width="360" x="3400" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-144" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="743" as="geometry" />
+          <mxGeometry height="60" width="120" x="120" y="390" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-3" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="GrSHBEEx4EimilLz5uOu-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="I5HDm6KOtCkL4xNGEPID-1">
           <mxGeometry relative="1" as="geometry" />
@@ -10038,6 +10038,14 @@
         </mxCell>
         <mxCell id="1AtLZ-m7N75qDjocwgRn-0" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Cek Barang di Gudang" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="B2nOSMLKvsT6MS4eSP2T-2" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="B2nOSMLKvsT6MS4eSP2T-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GrSHBEEx4EimilLz5uOu-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2nOSMLKvsT6MS4eSP2T-3" connectable="0" parent="B2nOSMLKvsT6MS4eSP2T-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
+          <mxGeometry relative="1" x="-0.3837" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rhombus;whiteSpace=wrap;html=1;" value="barang berkendala?" vertex="1">
           <mxGeometry height="55" width="100" x="130" y="300" as="geometry" />
