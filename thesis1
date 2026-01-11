@@ -10113,7 +10113,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-10" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="180" y="900" as="geometry" />
+          <mxGeometry height="50" width="100" x="180" y="890" as="geometry" />
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-11" edge="1" parent="GrSHBEEx4EimilLz5uOu-147" source="i7035qa9T7u2WR2KUIBv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="i7035qa9T7u2WR2KUIBv-10">
           <mxGeometry relative="1" as="geometry">
