@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1158" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9035,7 +9035,7 @@
           <mxGeometry height="60" width="120" x="145" y="590" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-19" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="110" y="822.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="137.32" y="822.5" as="geometry" />
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-3" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Tanggapi&amp;nbsp;&lt;div&gt;Pengajuan Pengembalian&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="1176.5" as="geometry" />
@@ -9047,10 +9047,10 @@
           <mxGeometry height="60" width="120" x="196" y="1510" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-30" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="9.5" y="748" as="geometry" />
+          <mxGeometry height="60" width="120" x="32.44" y="747.5" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-31" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Langsung" vertex="1">
-          <mxGeometry height="60" width="120" x="230" y="840.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="257.32" y="840" as="geometry" />
         </mxCell>
         <mxCell id="5qHX6kofHUKhqv3fKICG-1" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
           <mxGeometry height="50" width="100" x="106" y="1181.5" as="geometry" />
@@ -9301,7 +9301,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1152" y="810" />
-              <mxPoint x="290" y="810" />
+              <mxPoint x="317" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
