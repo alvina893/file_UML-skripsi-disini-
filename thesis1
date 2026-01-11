@@ -9189,7 +9189,7 @@
           <mxGeometry height="60" width="120" x="145" y="482.5" as="geometry" />
         </mxCell>
         <mxCell id="Uh5jHPt2FkDiK2KmtAfj-1" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rhombus;whiteSpace=wrap;html=1;" value="jam kerja selesai?" vertex="1">
-          <mxGeometry height="55" width="80" x="160" y="1670" as="geometry" />
+          <mxGeometry height="55" width="80" x="160" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1800" width="202" x="850" as="geometry" />
