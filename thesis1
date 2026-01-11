@@ -9685,7 +9685,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0SBymsXQoBITxTb3hQ---0" parent="ibdLh96HV3ljDS0WLSE7-107" style="rounded=0;whiteSpace=wrap;html=1;" value="Pembeli Belanja" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="285" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-109" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;jumpStyle=sharp;jumpSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="ibdLh96HV3ljDS0WLSE7-108">
           <mxGeometry relative="1" as="geometry">
