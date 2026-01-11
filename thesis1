@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1454" dy="129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-961" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9751,7 +9751,7 @@
         <mxCell id="DkvykAPV82bxvk2o47Sh-0" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Database POS" vertex="1">
           <mxGeometry height="1350" width="210" x="2910" as="geometry" />
         </mxCell>
-        <mxCell id="ku4GZSpMCQ4sKKJ71Osj-0" parent="DkvykAPV82bxvk2o47Sh-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Point of Sale Database" vertex="1">
+        <mxCell id="ku4GZSpMCQ4sKKJ71Osj-0" parent="DkvykAPV82bxvk2o47Sh-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Point of Sale Database:&lt;div&gt;&lt;br&gt;&lt;div&gt;-tbluser&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-tblbarang&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblpenjualan&lt;/div&gt;&lt;div&gt;-tbldetailpenjualan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblpengembalian&lt;/div&gt;&lt;div&gt;-tbldetailpengembalian&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="521" width="170" x="20" y="399" as="geometry" />
         </mxCell>
         <mxCell id="FCjGcLEvNO0O-3OklaYd-4" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="vC7WBh-pkx834pGgs-Um-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="FCjGcLEvNO0O-3OklaYd-0">
