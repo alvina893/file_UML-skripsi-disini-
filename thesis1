@@ -9353,9 +9353,6 @@
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-18" edge="1" parent="1" source="RSNvkmNOCWiIMSWsXGV9-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AhKFBwbL0xTV6BjTTjYy-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AhKFBwbL0xTV6BjTTjYy-22" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="E8parfckR2CZ24kqbwVu-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-23" edge="1" parent="1" source="S4kmXf-wvNceA-pDy9wu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -9471,6 +9468,9 @@
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pembeli Belanja" vertex="1">
           <mxGeometry height="60" width="120" x="1092" y="588" as="geometry" />
+        </mxCell>
+        <mxCell id="OKtUdm6z0JofQI2mP0lA-10" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="E8parfckR2CZ24kqbwVu-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
