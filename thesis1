@@ -8940,7 +8940,7 @@
           <mxGeometry height="1880" width="440" x="360" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-17" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="670" as="geometry" />
+          <mxGeometry height="60" width="120" x="65" y="670" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-25" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Cetak Struk Nota Bukti Penjualan" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="810" as="geometry" />
@@ -8968,17 +8968,17 @@
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-47" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="8FTqRSsI7tniPMxLuMcF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200.00000000000023" y="650" as="sourcePoint" />
+            <mxPoint x="125.00000000000023" y="650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-42" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="364" as="geometry" />
+          <mxGeometry height="60" width="120" x="65" y="364" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-45" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="460" as="geometry" />
+          <mxGeometry height="60" width="120" x="65" y="460" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-50" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="577" as="geometry" />
+          <mxGeometry height="60" width="120" x="65" y="577" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-52" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Langsung" vertex="1">
           <mxGeometry height="60" width="120" x="19" y="810" as="geometry" />
@@ -8987,13 +8987,13 @@
           <mxGeometry height="50" width="100" x="200" y="1181.5" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-35" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Tampilan Login ke Sistem POS" vertex="1">
-          <mxGeometry height="65" width="120" x="140" y="107.5" as="geometry" />
+          <mxGeometry height="65" width="120" x="65" y="107.5" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-40" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Validasi User (Pengguna)" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="210" as="geometry" />
+          <mxGeometry height="60" width="120" x="65" y="210" as="geometry" />
         </mxCell>
         <mxCell id="dORilT4F6aGxkCyVq4dZ-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Dashboard Administrator&lt;div&gt;Sistem POS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="65" width="120" x="140" y="284" as="geometry" />
+          <mxGeometry height="65" width="120" x="65" y="284" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Sistem&lt;div&gt;- Keuangan&lt;br&gt;&lt;div&gt;- Pembelian&lt;/div&gt;&lt;div&gt;- Penjualan&lt;/div&gt;&lt;div&gt;- Pengembalian&lt;/div&gt;&lt;div&gt;- Barang&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="120" x="220" y="1300" as="geometry" />
@@ -9195,15 +9195,6 @@
         <mxCell id="Ey4plcRIesOVcDyoCzdK-36" edge="1" parent="1" source="Ey4plcRIesOVcDyoCzdK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4plcRIesOVcDyoCzdK-38" edge="1" parent="1" source="Ey4plcRIesOVcDyoCzdK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=58.75;exitDy=65;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="559" y="190" />
-              <mxPoint x="180" y="190" />
-            </Array>
-            <mxPoint x="180" y="220" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-41" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ey4plcRIesOVcDyoCzdK-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="250" as="sourcePoint" />
@@ -9356,6 +9347,14 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1470" y="443" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AhKFBwbL0xTV6BjTTjYy-30" edge="1" parent="1" source="Ey4plcRIesOVcDyoCzdK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=58.75;exitDy=65;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="484" y="190" />
+              <mxPoint x="180" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
