@@ -10009,7 +10009,7 @@
         <mxCell id="nkWG246BPE2BQa9vZn5F-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Dashboard&lt;div&gt;Karyawan Sistem POS&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="120" x="100" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="L95lrjUPLvRNP4vo_aI9-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Dashboard&lt;div&gt;Karyawan Sistem POS&lt;/div&gt;" vertex="1">
+        <mxCell id="L95lrjUPLvRNP4vo_aI9-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Penjualan" vertex="1">
           <mxGeometry height="65" width="120" x="100" y="290" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-143" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Karyawan&lt;/font&gt;" vertex="1">
@@ -10114,7 +10114,7 @@
         <mxCell id="Pv901iQT87FOSfyXrWXA-1" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="nkWG246BPE2BQa9vZn5F-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="Pv901iQT87FOSfyXrWXA-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8DDecFvEdnJWz1hIyJWA-0" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="Pv901iQT87FOSfyXrWXA-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="E71LGHb3MbFW88xNptxO-0">
+        <mxCell id="8DDecFvEdnJWz1hIyJWA-0" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="Pv901iQT87FOSfyXrWXA-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="L95lrjUPLvRNP4vo_aI9-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VBgY0G14yZ9MAf0WsogO-2" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZGRS7dwlB0OQ8s0bG8Vx-0">
