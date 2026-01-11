@@ -10003,10 +10003,10 @@
         <mxCell id="6SwuYUEBij50HbT-ta7M-19" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="90" y="870" as="geometry" />
         </mxCell>
-        <mxCell id="BSQz0o5BEo8ocAMyGgzD-7" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Delivery" vertex="1">
+        <mxCell id="BSQz0o5BEo8ocAMyGgzD-7" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Print Struk Penjualan Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="17" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="BSQz0o5BEo8ocAMyGgzD-8" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Pickup" vertex="1">
+        <mxCell id="BSQz0o5BEo8ocAMyGgzD-8" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Print Struk Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="173" y="560" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-143" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Karyawan&lt;/font&gt;" vertex="1">
@@ -10059,7 +10059,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-5" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Packing dan Antar Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="710" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="710" as="geometry" />
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-16" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="6SwuYUEBij50HbT-ta7M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6SwuYUEBij50HbT-ta7M-14">
           <mxGeometry relative="1" as="geometry" />
@@ -10068,16 +10068,16 @@
           <mxGeometry height="60" width="120" x="200" y="710" as="geometry" />
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-13" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Pengiriman Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="790" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="790" as="geometry" />
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-14" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Pengiriman Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="790" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-4" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="474" as="geometry" />
+          <mxGeometry height="60" width="120" x="50" y="474" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-6" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="560" as="geometry" />
+          <mxGeometry height="60" width="120" x="200" y="560" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="1100" width="200" x="4080" as="geometry" />
@@ -10245,7 +10245,7 @@
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-5" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="BSQz0o5BEo8ocAMyGgzD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3500" y="635" />
+              <mxPoint x="3510" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -10255,7 +10255,7 @@
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-10" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="BSQz0o5BEo8ocAMyGgzD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6SwuYUEBij50HbT-ta7M-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3500" y="665" />
+              <mxPoint x="3510" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
