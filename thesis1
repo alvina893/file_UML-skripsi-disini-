@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-52" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1151" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9554,7 +9554,7 @@
           <mxGeometry height="65" width="120" x="96" y="37.5" as="geometry" />
         </mxCell>
         <mxCell id="enzI7hhdUzAFc7bJdIYb-7" parent="ibdLh96HV3ljDS0WLSE7-80" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="27" y="1257.5" as="geometry" />
+          <mxGeometry height="50" width="100" x="27" y="1252.5" as="geometry" />
         </mxCell>
         <mxCell id="LbZz36-S-iRvit2lsa2p-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="shape=display;whiteSpace=wrap;html=1;" value="Dashboard Kasir Sistem POS" vertex="1">
           <mxGeometry height="65" width="120" x="95" y="220" as="geometry" />
