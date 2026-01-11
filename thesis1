@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2607" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2469" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -9965,13 +9965,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-140" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="30" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="17" y="390" as="geometry" />
         </mxCell>
         <mxCell id="ew745l-zbZlc7CUkIGqs-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="RTF" vertex="1">
-          <mxGeometry height="35" width="50" x="190" y="410.75" as="geometry" />
+          <mxGeometry height="35" width="50" x="167" y="410.75" as="geometry" />
         </mxCell>
         <mxCell id="ew745l-zbZlc7CUkIGqs-2" parent="GrSHBEEx4EimilLz5uOu-132" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="10.5" width="90" x="170" y="398.25" as="geometry" />
+          <mxGeometry height="10.5" width="90" x="147" y="398.25" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Tampilan Login ke Sistem POS" vertex="1">
           <mxGeometry height="65" width="120" x="100" y="32.5" as="geometry" />
@@ -10149,7 +10149,7 @@
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-12" connectable="0" parent="B2nOSMLKvsT6MS4eSP2T-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblpengembalian, tbldetailpengembalian, tblbarang" vertex="1">
           <mxGeometry relative="1" x="0.5263" y="1" as="geometry">
-            <mxPoint x="-80" y="2" as="offset" />
+            <mxPoint x="-101" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
