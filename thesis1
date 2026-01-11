@@ -9002,7 +9002,7 @@
           <mxGeometry height="60" width="120" x="19" y="940" as="geometry" />
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-16" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="19" y="1030" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="1083" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Admin (Pemilik Toko)&lt;/font&gt;" vertex="1">
           <mxGeometry height="1880" width="360" as="geometry" />
