@@ -10077,7 +10077,7 @@
           <mxGeometry height="60" width="120" x="33" y="474" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-6" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="190" y="547.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="180" y="550" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="1100" width="200" x="4080" as="geometry" />
@@ -10214,7 +10214,7 @@
             <mxPoint x="-10" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SwuYUEBij50HbT-ta7M-10" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="6SwuYUEBij50HbT-ta7M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-6">
+        <mxCell id="6SwuYUEBij50HbT-ta7M-10" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="6SwuYUEBij50HbT-ta7M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-12" connectable="0" parent="6SwuYUEBij50HbT-ta7M-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="pickup" vertex="1">
