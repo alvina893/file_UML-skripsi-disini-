@@ -10119,18 +10119,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RExB3fjY_1h-fVd51IWk-0" parent="GrSHBEEx4EimilLz5uOu-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="3709" y="1029" as="geometry" />
+          <mxGeometry height="50" width="100" x="3699" y="1259" as="geometry" />
         </mxCell>
         <mxCell id="RExB3fjY_1h-fVd51IWk-1" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="RExB3fjY_1h-fVd51IWk-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=58.75;exitDy=65;entryPerimeter=0;exitPerimeter=0;" target="RExB3fjY_1h-fVd51IWk-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3759" y="1015" />
+              <mxPoint x="3749" y="1245" />
             </Array>
-            <mxPoint x="3725" y="1030" as="sourcePoint" />
+            <mxPoint x="3715" y="1260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RExB3fjY_1h-fVd51IWk-2" parent="GrSHBEEx4EimilLz5uOu-1" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Sistem&lt;div&gt;- Keuangan&lt;div&gt;- Penjualan&lt;/div&gt;&lt;div&gt;- Pengembalian&lt;/div&gt;&lt;div&gt;- Barang&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="65" width="120" x="3700" y="920" as="geometry" />
+          <mxGeometry height="65" width="120" x="3690" y="1150" as="geometry" />
         </mxCell>
         <mxCell id="U451SsX7YhBuyQCa-08l-1" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="L95lrjUPLvRNP4vo_aI9-0" value="">
           <mxGeometry relative="1" as="geometry" />
