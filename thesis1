@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="211" dy="114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9239,8 +9239,8 @@
         <mxCell id="8GlrzUioZOxdHMj1lBe7-2" edge="1" parent="1" source="_7JFgMRsa0Y7uNnYHq-e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.675;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="1310" />
-              <mxPoint x="1668" y="1310" />
+              <mxPoint x="491" y="1300" />
+              <mxPoint x="1668" y="1300" />
             </Array>
             <mxPoint x="1450" y="1257" as="targetPoint" />
           </mxGeometry>
