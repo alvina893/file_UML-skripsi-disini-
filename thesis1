@@ -8975,7 +8975,7 @@
           <mxGeometry height="60" width="120" x="65" y="310" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-45" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="65" y="420" as="geometry" />
+          <mxGeometry height="60" width="120" x="65" y="410" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-50" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pembelian" vertex="1">
           <mxGeometry height="60" width="120" x="65" y="577" as="geometry" />
@@ -9029,7 +9029,7 @@
           <mxGeometry height="60" width="120" x="145" y="310" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-3" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="144.88" y="420" as="geometry" />
+          <mxGeometry height="60" width="120" x="145" y="410" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-8" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Data&lt;div&gt;Pembelian&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="145" y="577" as="geometry" />
@@ -9346,8 +9346,8 @@
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-31" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="400" />
-              <mxPoint x="155" y="400" />
+              <mxPoint x="485" y="390" />
+              <mxPoint x="155" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
