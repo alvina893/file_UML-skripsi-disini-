@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="906" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9007,10 +9007,10 @@
           <mxGeometry height="65" width="120" x="220" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-15" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="930" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="950" as="geometry" />
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-16" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="1060" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-38" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="AhKFBwbL0xTV6BjTTjYy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="AhKFBwbL0xTV6BjTTjYy-37">
           <mxGeometry relative="1" as="geometry" />
@@ -9147,31 +9147,31 @@
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-2" edge="1" parent="RSNvkmNOCWiIMSWsXGV9-10" source="RSNvkmNOCWiIMSWsXGV9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="KFmlhU38JZBsR2kWr4cB-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="970" />
-              <mxPoint x="178" y="970" />
-              <mxPoint x="178" y="1010" />
+              <mxPoint x="160" y="990" />
+              <mxPoint x="178" y="990" />
+              <mxPoint x="178" y="1030" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-9" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="930" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="950" as="geometry" />
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-25" edge="1" parent="RSNvkmNOCWiIMSWsXGV9-10" source="RSNvkmNOCWiIMSWsXGV9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="KFmlhU38JZBsR2kWr4cB-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="178" y="1090" />
-              <mxPoint x="178" y="1020" />
+              <mxPoint x="178" y="1110" />
+              <mxPoint x="178" y="1040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-13" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="1060" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="1080" as="geometry" />
         </mxCell>
         <mxCell id="KFmlhU38JZBsR2kWr4cB-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PDP" vertex="1">
-          <mxGeometry height="40" width="50" x="75" y="1000" as="geometry" />
+          <mxGeometry height="40" width="50" x="75" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Delivery atau Pickup" vertex="1">
-          <mxGeometry height="18" width="112.5" x="43.75" y="1040" as="geometry" />
+          <mxGeometry height="18" width="112.5" x="43.75" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Database" vertex="1">
           <mxGeometry height="1880" width="270" x="1452" as="geometry" />
