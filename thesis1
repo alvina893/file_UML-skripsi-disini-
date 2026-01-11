@@ -9536,7 +9536,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-440" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-442" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -10240,7 +10240,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-2" parent="GrSHBEEx4EimilLz5uOu-1" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Datang Ambil&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="4120" y="620" as="geometry" />
+          <mxGeometry height="60" width="120" x="4120" y="760" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-5" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="BSQz0o5BEo8ocAMyGgzD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-7">
           <mxGeometry relative="1" as="geometry">
