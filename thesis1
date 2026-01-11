@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="336" dy="181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9003,6 +9003,9 @@
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-16" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="AhKFBwbL0xTV6BjTTjYy-28" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Barang" vertex="1">
+          <mxGeometry height="65" width="120" x="300" y="410" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Admin (Pemilik Toko)&lt;/font&gt;" vertex="1">
           <mxGeometry height="1880" width="360" as="geometry" />
@@ -9169,14 +9172,6 @@
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Database" vertex="1">
           <mxGeometry height="1880" width="270" x="1402" as="geometry" />
-        </mxCell>
-        <mxCell id="Ey4plcRIesOVcDyoCzdK-4" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1470" y="475" />
-            </Array>
-            <mxPoint x="1400" y="495.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-8" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.38;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
           <mxGeometry relative="1" as="geometry">
