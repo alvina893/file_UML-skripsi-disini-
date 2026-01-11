@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="893" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9181,6 +9181,9 @@
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-30" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Lakukan&lt;div&gt;Pembelian&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="145" y="482.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3eewlMKBZEdHB-sAxQwB-1" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rhombus;whiteSpace=wrap;html=1;" value="jam kerja&lt;div&gt;habis?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="100" x="142.57" y="1680" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1800" width="202" x="850" as="geometry" />
