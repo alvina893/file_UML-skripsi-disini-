@@ -10104,7 +10104,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-2" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan Delivery&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="125" x="37.5" y="930" as="geometry" />
+          <mxGeometry height="70" width="125" x="37.5" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="i7035qa9T7u2WR2KUIBv-8" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
+          <mxGeometry height="50" width="100" x="180" y="755" as="geometry" />
+        </mxCell>
+        <mxCell id="i7035qa9T7u2WR2KUIBv-9" edge="1" parent="GrSHBEEx4EimilLz5uOu-147" source="i7035qa9T7u2WR2KUIBv-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="i7035qa9T7u2WR2KUIBv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7035qa9T7u2WR2KUIBv-10" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
+          <mxGeometry height="50" width="100" x="180" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="i7035qa9T7u2WR2KUIBv-11" edge="1" parent="GrSHBEEx4EimilLz5uOu-147" source="i7035qa9T7u2WR2KUIBv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="i7035qa9T7u2WR2KUIBv-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WdO45hsQrTkY0a7HRo9R-0" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Database POS" vertex="1">
           <mxGeometry height="1100" width="210" x="4430" as="geometry" />
