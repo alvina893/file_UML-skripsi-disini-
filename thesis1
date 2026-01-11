@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9210,8 +9210,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="178" y="1015" />
-              <mxPoint x="178" y="1048" />
-              <mxPoint x="125" y="1048" />
+              <mxPoint x="178" y="1058" />
+              <mxPoint x="125" y="1058" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -9225,10 +9225,10 @@
           <mxGeometry height="60" width="120" x="40" y="1086" as="geometry" />
         </mxCell>
         <mxCell id="KFmlhU38JZBsR2kWr4cB-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PDP" vertex="1">
-          <mxGeometry height="30" width="50" x="75" y="1040" as="geometry" />
+          <mxGeometry height="30" width="50" x="75" y="1050" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Delivery atau Pickup" vertex="1">
-          <mxGeometry height="10" width="112.5" x="43.75" y="1072" as="geometry" />
+          <mxGeometry height="10" width="112.5" x="43.75" y="1038" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Database" vertex="1">
           <mxGeometry height="1880" width="308" x="1452" as="geometry" />
