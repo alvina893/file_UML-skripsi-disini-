@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="496" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8986,7 +8986,7 @@
         <mxCell id="8FTqRSsI7tniPMxLuMcF-85" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="200" y="1181.5" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4plcRIesOVcDyoCzdK-35" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Sistem POS&amp;nbsp;" vertex="1">
+        <mxCell id="Ey4plcRIesOVcDyoCzdK-35" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Tampilan Login ke Sistem" vertex="1">
           <mxGeometry height="65" width="120" x="140" y="107.5" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-40" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Validasi User (Pengguna)" vertex="1">
@@ -9080,7 +9080,7 @@
             <mxPoint x="260" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-6" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-6" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Username dan Password" vertex="1">
           <mxGeometry height="60" width="120" x="119.75" y="220" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-16" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
