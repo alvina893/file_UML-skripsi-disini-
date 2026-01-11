@@ -10020,8 +10020,16 @@
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rhombus;whiteSpace=wrap;html=1;" value="barang berkendala?" vertex="1">
           <mxGeometry height="55" width="100" x="170" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="B2nOSMLKvsT6MS4eSP2T-4" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="20" y="305" as="geometry" />
+        <mxCell id="B2nOSMLKvsT6MS4eSP2T-4" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
+          <mxGeometry height="50" width="100" x="20" y="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B2nOSMLKvsT6MS4eSP2T-7" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="B2nOSMLKvsT6MS4eSP2T-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="B2nOSMLKvsT6MS4eSP2T-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2nOSMLKvsT6MS4eSP2T-8" connectable="0" parent="B2nOSMLKvsT6MS4eSP2T-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
+          <mxGeometry relative="1" x="-0.2615" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="1100" width="200" x="4080" as="geometry" />
