@@ -9544,7 +9544,7 @@
           <mxGeometry height="170" width="580" x="1790" y="870" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-80" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
-          <mxGeometry height="1330" width="440" x="2070" as="geometry" />
+          <mxGeometry height="1260" width="440" x="2070" as="geometry" />
         </mxCell>
         <mxCell id="FCjGcLEvNO0O-3OklaYd-1" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Validasi User (Pengguna)" vertex="1">
           <mxGeometry height="60" width="120" x="95" y="140" as="geometry" />
@@ -9622,7 +9622,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-93" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;startSize=23;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Kasir&lt;/font&gt;" vertex="1">
-          <mxGeometry height="1330" width="370" x="1700" as="geometry" />
+          <mxGeometry height="1260" width="370" x="1700" as="geometry" />
         </mxCell>
         <mxCell id="FCjGcLEvNO0O-3OklaYd-3" edge="1" parent="ibdLh96HV3ljDS0WLSE7-93" source="ibdLh96HV3ljDS0WLSE7-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vC7WBh-pkx834pGgs-Um-0">
           <mxGeometry relative="1" as="geometry" />
@@ -9674,7 +9674,7 @@
           <mxGeometry height="60" width="120" x="230" y="1172.5" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-107" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
-          <mxGeometry height="1330" width="200" x="2510" as="geometry" />
+          <mxGeometry height="1260" width="200" x="2510" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-108" parent="ibdLh96HV3ljDS0WLSE7-107" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="125" x="37.5" y="445" as="geometry" />
@@ -9718,7 +9718,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-125" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
-          <mxGeometry height="1330" width="200" x="2710" as="geometry" />
+          <mxGeometry height="1260" width="200" x="2710" as="geometry" />
         </mxCell>
         <mxCell id="y7A-flp9n1NqgseWJ4ty-2" edge="1" parent="ibdLh96HV3ljDS0WLSE7-125" source="ibdLh96HV3ljDS0WLSE7-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="y7A-flp9n1NqgseWJ4ty-0">
           <mxGeometry relative="1" as="geometry">
@@ -9750,7 +9750,7 @@
           <mxGeometry height="8" width="110" x="45" y="708" as="geometry" />
         </mxCell>
         <mxCell id="DkvykAPV82bxvk2o47Sh-0" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Database POS" vertex="1">
-          <mxGeometry height="1330" width="210" x="2910" as="geometry" />
+          <mxGeometry height="1260" width="210" x="2910" as="geometry" />
         </mxCell>
         <mxCell id="ku4GZSpMCQ4sKKJ71Osj-0" parent="DkvykAPV82bxvk2o47Sh-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Point of Sale Database:&lt;div&gt;&lt;br&gt;&lt;div&gt;-tbluser&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-tblbarang&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblpenjualan&lt;/div&gt;&lt;div&gt;-tbldetailpenjualan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblpengembalian&lt;/div&gt;&lt;div&gt;-tbldetailpengembalian&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="521" width="170" x="20" y="399" as="geometry" />
