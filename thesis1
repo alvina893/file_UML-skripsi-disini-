@@ -9693,7 +9693,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sckoMklggJOfc7M9gMpr-2" parent="ibdLh96HV3ljDS0WLSE7-107" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="607" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="600" as="geometry" />
         </mxCell>
         <mxCell id="sckoMklggJOfc7M9gMpr-3" edge="1" parent="ibdLh96HV3ljDS0WLSE7-107" source="sckoMklggJOfc7M9gMpr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.6;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="sckoMklggJOfc7M9gMpr-2">
           <mxGeometry relative="1" as="geometry">
@@ -9706,7 +9706,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-1" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="lanjut?" vertex="1">
-          <mxGeometry height="55" width="100" x="90" y="690" as="geometry" />
+          <mxGeometry height="55" width="100" x="90" y="670" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-110" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-90">
           <mxGeometry relative="1" as="geometry">
