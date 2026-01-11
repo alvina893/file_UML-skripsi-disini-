@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1442" dy="135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-769" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9615,8 +9615,10 @@
         <mxCell id="ibdLh96HV3ljDS0WLSE7-90" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengajuan Pengembalian" vertex="1">
           <mxGeometry height="60" width="120" x="33.5" y="900" as="geometry" />
         </mxCell>
-        <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-5" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="Cyg9bTeVN9xKGd2qzgF--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HHYZ1ulpQxbiJ7wq4KpE-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-5" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="Cyg9bTeVN9xKGd2qzgF--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="226.5" y="974" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Cyg9bTeVN9xKGd2qzgF--0" parent="ibdLh96HV3ljDS0WLSE7-80" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="176.5" y="905" as="geometry" />
@@ -9629,9 +9631,6 @@
         </mxCell>
         <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Klik Logout" vertex="1">
           <mxGeometry height="50" width="100" x="43.5" y="1070" as="geometry" />
-        </mxCell>
-        <mxCell id="HHYZ1ulpQxbiJ7wq4KpE-4" parent="ibdLh96HV3ljDS0WLSE7-80" style="rhombus;whiteSpace=wrap;html=1;" value="jam kerja&lt;div&gt;habis?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="100" x="176.5" y="974" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-93" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;startSize=23;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Kasir&lt;/font&gt;" vertex="1">
           <mxGeometry height="1350" width="370" x="1700" as="geometry" />
