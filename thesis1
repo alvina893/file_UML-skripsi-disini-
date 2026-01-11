@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-907" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-573" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9560,7 +9560,7 @@
           <mxGeometry height="65" width="120" x="95" y="220" as="geometry" />
         </mxCell>
         <mxCell id="to_95RgaTEaHBmck0YDa-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Sistem&lt;div&gt;- Keuangan&lt;div&gt;- Penjualan&lt;/div&gt;&lt;div&gt;- Pengembalian&lt;/div&gt;&lt;div&gt;- Barang&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="65" width="120" x="178" y="1170" as="geometry" />
+          <mxGeometry height="110" width="128" x="170" y="1147.5" as="geometry" />
         </mxCell>
         <mxCell id="xhAG183brvdf3FUSuIr9-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Cetak Struk Nota Bukti Penjualan" vertex="1">
           <mxGeometry height="60" width="120" x="158" y="450" as="geometry" />
@@ -9796,8 +9796,8 @@
         <mxCell id="ku4GZSpMCQ4sKKJ71Osj-1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ku4GZSpMCQ4sKKJ71Osj-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=58.750000000000014;entryDy=0;entryPerimeter=0;" target="to_95RgaTEaHBmck0YDa-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3015" y="1140" />
-              <mxPoint x="2307" y="1140" />
+              <mxPoint x="3015" y="1130" />
+              <mxPoint x="2299" y="1130" />
             </Array>
           </mxGeometry>
         </mxCell>
