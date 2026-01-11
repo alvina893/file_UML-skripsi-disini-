@@ -9212,7 +9212,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="110" width="620" x="40" y="1714" as="geometry" />
+          <mxGeometry height="110" width="670" x="-10" y="1714" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ingin tambah pengguna baru ke sistem" vertex="1">
           <mxGeometry height="23" width="162" x="47" y="1704" as="geometry" />
@@ -9265,7 +9265,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="300" width="490" x="40" y="1390" as="geometry" />
+          <mxGeometry height="300" width="540" x="-10" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ingin backup dan restore database sistem" vertex="1">
           <mxGeometry height="23" width="172" x="48" y="1378" as="geometry" />
