@@ -8996,7 +8996,7 @@
           <mxGeometry height="65" width="120" x="140" y="299" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Sistem&lt;div&gt;- Keuangan&lt;br&gt;&lt;div&gt;- Pembelian&lt;/div&gt;&lt;div&gt;- Penjualan&lt;/div&gt;&lt;div&gt;- Pengembalian&lt;/div&gt;&lt;div&gt;- Barang&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="65" width="120" x="140" y="1315.5" as="geometry" />
+          <mxGeometry height="65" width="120" x="200" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Admin (Pemilik Toko)&lt;/font&gt;" vertex="1">
           <mxGeometry height="1880" width="360" as="geometry" />
