@@ -8937,7 +8937,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="110" width="640" x="60" y="1250" as="geometry" />
+          <mxGeometry height="110" width="650" x="50" y="1250" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="300" width="460" x="120" y="1390" as="geometry" />
@@ -9118,7 +9118,7 @@
           <mxGeometry height="60" width="120" x="257.32" y="840" as="geometry" />
         </mxCell>
         <mxCell id="5qHX6kofHUKhqv3fKICG-1" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="75" y="1269" as="geometry" />
+          <mxGeometry height="50" width="100" x="70" y="1269" as="geometry" />
         </mxCell>
         <mxCell id="5qHX6kofHUKhqv3fKICG-2" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="5qHX6kofHUKhqv3fKICG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="AhKFBwbL0xTV6BjTTjYy-53">
           <mxGeometry relative="1" as="geometry" />
@@ -9157,7 +9157,7 @@
           <mxGeometry height="23" width="50" x="191.32" y="1315" as="geometry" />
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-2" parent="u2R2A6VwlVuXDPNBlX9A-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ada pengajuan pengembalian dari kasir/karyawan" vertex="1">
-          <mxGeometry height="23" width="194" x="64.57" y="1230" as="geometry" />
+          <mxGeometry height="23" width="194" x="58.56999999999999" y="1237" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1880" width="202" x="850" as="geometry" />
