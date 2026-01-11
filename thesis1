@@ -8932,12 +8932,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="906" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="772" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="90" width="580" x="130" y="1550" as="geometry" />
+          <mxGeometry height="100" width="580" x="130" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="200" width="580" x="130" y="1320" as="geometry" />
@@ -9303,7 +9303,7 @@
         </mxCell>
         <mxCell id="S4kmXf-wvNceA-pDy9wu-8" connectable="0" parent="mW7wtoV3D0ycJdYA-XbY-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tbluser" vertex="1">
           <mxGeometry relative="1" x="-0.9576" y="-1" as="geometry">
-            <mxPoint x="1" y="-17" as="offset" />
+            <mxPoint x="34" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-7" edge="1" parent="1" source="_7JFgMRsa0Y7uNnYHq-e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_7JFgMRsa0Y7uNnYHq-e-6">
