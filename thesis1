@@ -8955,7 +8955,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-9" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan File Backup Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="1441" as="geometry" />
+          <mxGeometry height="60" width="120" x="140" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-13" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Restore Data Sistem" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="1550" as="geometry" />
@@ -9026,10 +9026,10 @@
           <mxGeometry height="60" width="120" x="230" y="1176.5" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-7" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Backup Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="119" y="1318" as="geometry" />
+          <mxGeometry height="60" width="120" x="120.25" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-11" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Restore Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="119" y="1441" as="geometry" />
+          <mxGeometry height="60" width="120" x="119" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-37" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="RSNvkmNOCWiIMSWsXGV9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-31">
           <mxGeometry relative="1" as="geometry">
@@ -9142,8 +9142,8 @@
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-10" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pCmKEMaXlxeiSPBmmfWM-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="179" y="1420" />
-              <mxPoint x="560" y="1420" />
+              <mxPoint x="179" y="1430" />
+              <mxPoint x="560" y="1430" />
             </Array>
           </mxGeometry>
         </mxCell>
