@@ -9974,13 +9974,13 @@
           <mxGeometry height="10.5" width="90" x="147" y="438.75" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Tampilan Login ke Sistem POS" vertex="1">
-          <mxGeometry height="65" width="120" x="100" y="32.5" as="geometry" />
+          <mxGeometry height="65" width="120" x="109.32" y="32.5" as="geometry" />
         </mxCell>
         <mxCell id="e7VjdTbFh5JGFFWCU-nx-0" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Validasi User (Pengguna)" vertex="1">
-          <mxGeometry height="60" width="120" x="100" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="109.32" y="130" as="geometry" />
         </mxCell>
         <mxCell id="nkWG246BPE2BQa9vZn5F-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Dashboard&lt;div&gt;Karyawan Sistem POS&lt;/div&gt;" vertex="1">
-          <mxGeometry height="65" width="120" x="100" y="212.5" as="geometry" />
+          <mxGeometry height="65" width="120" x="109.32" y="212.5" as="geometry" />
         </mxCell>
         <mxCell id="-emkfG0Qgffg5tNkj5Eh-0" parent="GrSHBEEx4EimilLz5uOu-132" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="160" y="320" as="geometry" />
