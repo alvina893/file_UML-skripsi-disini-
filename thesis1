@@ -9998,10 +9998,10 @@
           <mxGeometry height="55" width="100" x="27" y="490" as="geometry" />
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-17" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status&lt;div&gt;Pickup&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="90" y="805" as="geometry" />
+          <mxGeometry height="60" width="120" x="80" y="770" as="geometry" />
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-19" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="90" y="870" as="geometry" />
+          <mxGeometry height="60" width="120" x="80" y="835" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-7" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Print Struk Penjualan Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="17" y="620" as="geometry" />
