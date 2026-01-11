@@ -9961,17 +9961,14 @@
         <mxCell id="GrSHBEEx4EimilLz5uOu-132" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
           <mxGeometry height="1100" width="320" x="3760" as="geometry" />
         </mxCell>
-        <mxCell id="VBgY0G14yZ9MAf0WsogO-5" edge="1" parent="GrSHBEEx4EimilLz5uOu-132" source="GrSHBEEx4EimilLz5uOu-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ew745l-zbZlc7CUkIGqs-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-140" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="23" y="743" as="geometry" />
+          <mxGeometry height="60" width="120" x="10" y="390" as="geometry" />
         </mxCell>
         <mxCell id="ew745l-zbZlc7CUkIGqs-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="RTF" vertex="1">
-          <mxGeometry height="40" width="50" x="33" y="828" as="geometry" />
+          <mxGeometry height="40" width="50" x="20" y="475" as="geometry" />
         </mxCell>
         <mxCell id="ew745l-zbZlc7CUkIGqs-2" parent="GrSHBEEx4EimilLz5uOu-132" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="23" width="50" x="33" y="869" as="geometry" />
+          <mxGeometry height="23" width="50" x="20" y="516" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=display;whiteSpace=wrap;html=1;" value="Tampilan Login ke Sistem POS" vertex="1">
           <mxGeometry height="65" width="120" x="100" y="32.5" as="geometry" />
@@ -10082,9 +10079,6 @@
             <mxPoint x="3640" y="245" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VBgY0G14yZ9MAf0WsogO-3" parent="GrSHBEEx4EimilLz5uOu-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="3769" y="748" as="geometry" />
-        </mxCell>
         <mxCell id="RExB3fjY_1h-fVd51IWk-0" parent="GrSHBEEx4EimilLz5uOu-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="3709" y="1029" as="geometry" />
         </mxCell>
@@ -10142,6 +10136,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-157" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="2z-aHtrvx2NWDsrHtKMs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="GrSHBEEx4EimilLz5uOu-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="B2nOSMLKvsT6MS4eSP2T-9" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GrSHBEEx4EimilLz5uOu-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
