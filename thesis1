@@ -9537,12 +9537,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1272" dy="225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1190" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-79" parent="ibdLh96HV3ljDS0WLSE7-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="160" width="580" x="1790" y="870" as="geometry" />
+          <mxGeometry height="170" width="580" x="1790" y="870" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-80" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
           <mxGeometry height="1350" width="440" x="2070" as="geometry" />
@@ -9867,10 +9867,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="72qHvSONGouRSAnDqei8-0" parent="ibdLh96HV3ljDS0WLSE7-1" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="RTF" vertex="1">
-          <mxGeometry height="40" width="50" x="2136.5" y="990" as="geometry" />
+          <mxGeometry height="40" width="50" x="2136.5" y="977" as="geometry" />
         </mxCell>
         <mxCell id="72qHvSONGouRSAnDqei8-1" parent="ibdLh96HV3ljDS0WLSE7-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="13" width="100" x="2106.5" y="1030" as="geometry" />
+          <mxGeometry height="13" width="100" x="2106.5" y="1017" as="geometry" />
         </mxCell>
         <mxCell id="72qHvSONGouRSAnDqei8-6" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="72qHvSONGouRSAnDqei8-0">
           <mxGeometry relative="1" as="geometry" />
