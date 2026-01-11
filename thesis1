@@ -9962,7 +9962,7 @@
           <mxGeometry height="1100" width="320" x="3760" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-140" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="10" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="30" y="390" as="geometry" />
         </mxCell>
         <mxCell id="ew745l-zbZlc7CUkIGqs-0" parent="GrSHBEEx4EimilLz5uOu-132" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="RTF" vertex="1">
           <mxGeometry height="40" width="50" x="20" y="475" as="geometry" />
