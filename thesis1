@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-629" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-170" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9545,7 +9545,7 @@
           <mxGeometry height="170" width="580" x="1790" y="960" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-80" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem Point of Sale" vertex="1">
-          <mxGeometry height="1350" width="310" x="2070" as="geometry" />
+          <mxGeometry height="1350" width="418" x="2070" as="geometry" />
         </mxCell>
         <mxCell id="enzI7hhdUzAFc7bJdIYb-2" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="81G-lkS3FQzWwP1OmPdV-0">
           <mxGeometry relative="1" as="geometry" />
@@ -9581,6 +9581,48 @@
         </mxCell>
         <mxCell id="to_95RgaTEaHBmck0YDa-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Sistem&lt;div&gt;- Keuangan&lt;div&gt;- Penjualan&lt;/div&gt;&lt;div&gt;- Pengembalian&lt;/div&gt;&lt;div&gt;- Barang&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="65" width="120" x="96" y="1170" as="geometry" />
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Cetak Struk Nota Bukti Penjualan" vertex="1">
+          <mxGeometry height="60" width="120" x="158" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-1" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="298" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-2" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="xhAG183brvdf3FUSuIr9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="xhAG183brvdf3FUSuIr9-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308" y="670" as="sourcePoint" />
+            <mxPoint x="318" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-3" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="xhAG183brvdf3FUSuIr9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="xhAG183brvdf3FUSuIr9-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="198" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-4" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Langsung" vertex="1">
+          <mxGeometry height="60" width="120" x="17" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-5" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="xhAG183brvdf3FUSuIr9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xhAG183brvdf3FUSuIr9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-6" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Delivery" vertex="1">
+          <mxGeometry height="60" width="120" x="17" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-7" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="158" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-8" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Pickup" vertex="1">
+          <mxGeometry height="60" width="120" x="17" y="569" as="geometry" />
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-9" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="xhAG183brvdf3FUSuIr9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xhAG183brvdf3FUSuIr9-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="137.5" y="599" as="sourcePoint" />
+            <mxPoint x="879.5" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xhAG183brvdf3FUSuIr9-10" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="158" y="569" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-93" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;startSize=23;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Kasir&lt;/font&gt;" vertex="1">
           <mxGeometry height="1350" width="370" x="1700" as="geometry" />
@@ -9619,7 +9661,7 @@
           <mxGeometry height="60" width="120" x="125" y="140" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-107" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
-          <mxGeometry height="1350" width="200" x="2380" as="geometry" />
+          <mxGeometry height="1350" width="200" x="2488" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-108" parent="ibdLh96HV3ljDS0WLSE7-107" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="125" x="37.5" y="850" as="geometry" />
@@ -9649,7 +9691,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-125" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
-          <mxGeometry height="1350" width="200" x="2580" as="geometry" />
+          <mxGeometry height="1350" width="200" x="2688" as="geometry" />
         </mxCell>
         <mxCell id="y7A-flp9n1NqgseWJ4ty-2" edge="1" parent="ibdLh96HV3ljDS0WLSE7-125" source="ibdLh96HV3ljDS0WLSE7-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.897;exitY=0.989;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitPerimeter=0;" target="y7A-flp9n1NqgseWJ4ty-0">
           <mxGeometry relative="1" as="geometry">
@@ -9680,7 +9722,7 @@
           <mxGeometry height="23" width="65" x="67.5" y="641" as="geometry" />
         </mxCell>
         <mxCell id="DkvykAPV82bxvk2o47Sh-0" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Database POS" vertex="1">
-          <mxGeometry height="1350" width="210" x="2780" as="geometry" />
+          <mxGeometry height="1350" width="210" x="2888" as="geometry" />
         </mxCell>
         <mxCell id="ku4GZSpMCQ4sKKJ71Osj-0" parent="DkvykAPV82bxvk2o47Sh-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Point of Sale Database" vertex="1">
           <mxGeometry height="521" width="170" x="20" y="399" as="geometry" />
