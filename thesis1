@@ -10004,7 +10004,7 @@
           <mxGeometry height="60" width="120" x="90" y="870" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-7" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="17" y="650" as="geometry" />
+          <mxGeometry height="60" width="120" x="17" y="620" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-8" parent="GrSHBEEx4EimilLz5uOu-132" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="560" as="geometry" />
@@ -10246,8 +10246,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3500" y="650" />
-              <mxPoint x="3500" y="650" />
-              <mxPoint x="3500" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -10257,7 +10255,7 @@
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-10" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="BSQz0o5BEo8ocAMyGgzD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="6SwuYUEBij50HbT-ta7M-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3493" y="695" />
+              <mxPoint x="3493" y="665" />
             </Array>
           </mxGeometry>
         </mxCell>
