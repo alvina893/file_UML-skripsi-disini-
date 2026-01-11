@@ -10000,9 +10000,6 @@
         <mxCell id="YJMsJnBrmOVUVzAyYY-f-0" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Username&lt;div&gt;dan Password&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="2z-aHtrvx2NWDsrHtKMs-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Pengiriman&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="481" as="geometry" />
-        </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-1" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="1AtLZ-m7N75qDjocwgRn-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="B2nOSMLKvsT6MS4eSP2T-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -10143,6 +10140,9 @@
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-9" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GrSHBEEx4EimilLz5uOu-140">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2z-aHtrvx2NWDsrHtKMs-0" parent="GrSHBEEx4EimilLz5uOu-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Pengiriman&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="4820" y="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
