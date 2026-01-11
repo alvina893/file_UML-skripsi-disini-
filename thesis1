@@ -9580,7 +9580,7 @@
           <mxGeometry height="23" width="50" x="20" y="1101" as="geometry" />
         </mxCell>
         <mxCell id="FCjGcLEvNO0O-3OklaYd-1" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Validasi User (Pengguna)" vertex="1">
-          <mxGeometry height="60" width="120" x="95" y="240" as="geometry" />
+          <mxGeometry height="60" width="120" x="95" y="140" as="geometry" />
         </mxCell>
         <mxCell id="FCjGcLEvNO0O-3OklaYd-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="shape=display;whiteSpace=wrap;html=1;" value="Tampilan Login ke Sistem POS" vertex="1">
           <mxGeometry height="65" width="120" x="96" y="37.5" as="geometry" />
@@ -9793,7 +9793,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MoB_qpmhxbwwhXtdNbZ-1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="vC7WBh-pkx834pGgs-Um-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FCjGcLEvNO0O-3OklaYd-1">
+        <mxCell id="4MoB_qpmhxbwwhXtdNbZ-1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="vC7WBh-pkx834pGgs-Um-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="FCjGcLEvNO0O-3OklaYd-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4MoB_qpmhxbwwhXtdNbZ-2" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="FCjGcLEvNO0O-3OklaYd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="ku4GZSpMCQ4sKKJ71Osj-0">
