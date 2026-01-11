@@ -9052,7 +9052,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4kmXf-wvNceA-pDy9wu-30" connectable="0" parent="S4kmXf-wvNceA-pDy9wu-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
+        <mxCell id="S4kmXf-wvNceA-pDy9wu-30" connectable="0" parent="S4kmXf-wvNceA-pDy9wu-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak ada" vertex="1">
           <mxGeometry relative="1" x="-0.8557" y="-2" as="geometry">
             <mxPoint x="30" y="7" as="offset" />
           </mxGeometry>
