@@ -9121,7 +9121,7 @@
           <mxGeometry height="60" width="120" x="156.38" y="400" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-8" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Data&lt;div&gt;Pembelian&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="156.26" y="640" as="geometry" />
+          <mxGeometry height="60" width="120" x="145" y="640" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-19" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="132.57" y="805" as="geometry" />
