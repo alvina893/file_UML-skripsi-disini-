@@ -8955,10 +8955,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-9" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan File Backup Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="1450" as="geometry" />
+          <mxGeometry height="60" width="120" x="30" y="1450" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-13" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Restore Data Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="1550" as="geometry" />
+          <mxGeometry height="60" width="120" x="30" y="1550" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-8" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="8FTqRSsI7tniPMxLuMcF-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="E8parfckR2CZ24kqbwVu-25">
           <mxGeometry relative="1" as="geometry">
@@ -9278,15 +9278,6 @@
         <mxCell id="Ey4plcRIesOVcDyoCzdK-49" edge="1" parent="1" source="dORilT4F6aGxkCyVq4dZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="jCbEA4ZrdzZ185md5h_U-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OjUVoZmr_gIDcA8PhJhT-2" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="420" y="1580" />
-              <mxPoint x="420" y="1580" />
-            </Array>
-            <mxPoint x="229" y="1590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8GlrzUioZOxdHMj1lBe7-2" edge="1" parent="1" source="_7JFgMRsa0Y7uNnYHq-e-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -9383,6 +9374,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-3" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pCmKEMaXlxeiSPBmmfWM-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDkNCBOltiM60z1LoLAD-5" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
