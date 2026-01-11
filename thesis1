@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="521" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="311" dy="168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9177,7 +9177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-3" parent="E8parfckR2CZ24kqbwVu-31" style="rhombus;whiteSpace=wrap;html=1;" value="tipe&lt;div&gt;penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="100" x="50" y="740" as="geometry" />
+          <mxGeometry height="55" width="100" x="50" y="733" as="geometry" />
         </mxCell>
         <mxCell id="pCmKEMaXlxeiSPBmmfWM-12" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="pCmKEMaXlxeiSPBmmfWM-11">
           <mxGeometry relative="1" as="geometry" />
@@ -9336,6 +9336,7 @@
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-12" edge="1" parent="1" source="AhKFBwbL0xTV6BjTTjYy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="193" y="761" />
               <mxPoint x="193" y="767" />
             </Array>
           </mxGeometry>
@@ -9343,7 +9344,8 @@
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-13" edge="1" parent="1" source="AhKFBwbL0xTV6BjTTjYy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="317" y="781" />
+              <mxPoint x="317" y="774" />
+              <mxPoint x="317" y="813" />
             </Array>
           </mxGeometry>
         </mxCell>
