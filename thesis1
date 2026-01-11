@@ -8937,7 +8937,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OKtUdm6z0JofQI2mP0lA-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="300" width="580" x="130" y="1460" as="geometry" />
+          <mxGeometry height="290" width="440" x="130" y="1460" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="90" width="580" x="130" y="1330" as="geometry" />
@@ -9475,7 +9475,7 @@
         <mxCell id="OKtUdm6z0JofQI2mP0lA-11" edge="1" parent="1" source="AhKFBwbL0xTV6BjTTjYy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="RSNvkmNOCWiIMSWsXGV9-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OKtUdm6z0JofQI2mP0lA-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Restore Data Sistem" vertex="1">
+        <mxCell id="OKtUdm6z0JofQI2mP0lA-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
           <mxGeometry height="60" width="120" x="264.86" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-18" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OKtUdm6z0JofQI2mP0lA-17">
