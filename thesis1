@@ -9098,7 +9098,7 @@
           <mxGeometry height="1880" width="202" x="800" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-1" parent="u2R2A6VwlVuXDPNBlX9A-35" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="Nota Konfirmasi Pembelian Barang sudah Diterima" vertex="1">
-          <mxGeometry height="70" width="125" x="38.5" y="525" as="geometry" />
+          <mxGeometry height="70" width="125" x="38.5" y="533" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-6" edge="1" parent="1" source="E8parfckR2CZ24kqbwVu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8FTqRSsI7tniPMxLuMcF-45">
           <mxGeometry relative="1" as="geometry">
