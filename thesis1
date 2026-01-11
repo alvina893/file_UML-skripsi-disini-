@@ -10061,10 +10061,10 @@
         <mxCell id="6SwuYUEBij50HbT-ta7M-8" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Packing Barang&lt;div&gt;untuk&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Dipickup&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="6SwuYUEBij50HbT-ta7M-13" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Pengiriman Delivery" vertex="1">
+        <mxCell id="6SwuYUEBij50HbT-ta7M-13" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Pengiriman Delivery" vertex="1">
           <mxGeometry height="60" width="120" x="43" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="6SwuYUEBij50HbT-ta7M-14" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Pengiriman Pickup" vertex="1">
+        <mxCell id="6SwuYUEBij50HbT-ta7M-14" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Pengiriman Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="190" y="620" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
