@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-907" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-361" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9891,6 +9891,13 @@
         </mxCell>
         <mxCell id="6AXPL0mxz19k4Qz_WqaX-0" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="sckoMklggJOfc7M9gMpr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=sharp;" target="HHYZ1ulpQxbiJ7wq4KpE-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09ThpW6hZojzap3I21HW-0" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="Cyg9bTeVN9xKGd2qzgF--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="HHYZ1ulpQxbiJ7wq4KpE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2297" y="1074" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
