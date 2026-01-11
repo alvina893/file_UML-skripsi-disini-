@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2509" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2142" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10096,6 +10096,15 @@
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-2" parent="GrSHBEEx4EimilLz5uOu-147" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Datang Ambil&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="i7035qa9T7u2WR2KUIBv-0" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan Pickup&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="125" x="37.5" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="i7035qa9T7u2WR2KUIBv-1" edge="1" parent="GrSHBEEx4EimilLz5uOu-147" source="BSQz0o5BEo8ocAMyGgzD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="i7035qa9T7u2WR2KUIBv-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i7035qa9T7u2WR2KUIBv-2" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan Delivery&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="125" x="40" y="915" as="geometry" />
         </mxCell>
         <mxCell id="WdO45hsQrTkY0a7HRo9R-0" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Database POS" vertex="1">
           <mxGeometry height="1100" width="210" x="4330" as="geometry" />
@@ -10291,6 +10300,9 @@
             </Array>
             <mxPoint x="3570" y="905" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i7035qa9T7u2WR2KUIBv-3" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="0i1Pybg5sJOpKfpWQMat-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="i7035qa9T7u2WR2KUIBv-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
