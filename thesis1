@@ -9234,7 +9234,7 @@
           <mxGeometry height="30" width="50" x="75" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Delivery atau Pickup" vertex="1">
-          <mxGeometry height="18" width="112.5" x="43.75" y="1080" as="geometry" />
+          <mxGeometry height="18" width="112.5" x="43.75" y="1071" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Database" vertex="1">
           <mxGeometry height="1880" width="308" x="1452" as="geometry" />
