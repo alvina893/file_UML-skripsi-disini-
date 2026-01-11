@@ -9634,7 +9634,7 @@
           <mxGeometry height="50" width="100" x="45" y="45" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-98" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="230" y="886" as="geometry" />
+          <mxGeometry height="60" width="120" x="234" y="886" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-99" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Langsung" vertex="1">
           <mxGeometry height="60" width="120" x="124.75" y="450" as="geometry" />
@@ -9652,7 +9652,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T-9CPtggJ3GeKQO9F1-L-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="108" y="891" as="geometry" />
+          <mxGeometry height="50" width="100" x="112" y="891" as="geometry" />
         </mxCell>
         <mxCell id="vC7WBh-pkx834pGgs-Um-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
           <mxGeometry height="60" width="120" x="180" y="40" as="geometry" />
