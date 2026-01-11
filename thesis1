@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-1972" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2576" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -9986,7 +9986,7 @@
           <mxGeometry height="1100" width="360" x="3400" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-144" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="390" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-3" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="GrSHBEEx4EimilLz5uOu-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="I5HDm6KOtCkL4xNGEPID-1">
           <mxGeometry relative="1" as="geometry" />
@@ -10007,7 +10007,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1AtLZ-m7N75qDjocwgRn-0" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Cek Barang di Gudang" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="215" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="215" as="geometry" />
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-2" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="B2nOSMLKvsT6MS4eSP2T-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GrSHBEEx4EimilLz5uOu-144">
           <mxGeometry relative="1" as="geometry" />
@@ -10018,7 +10018,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rhombus;whiteSpace=wrap;html=1;" value="barang berkendala?" vertex="1">
-          <mxGeometry height="55" width="100" x="130" y="300" as="geometry" />
+          <mxGeometry height="55" width="100" x="170" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="B2nOSMLKvsT6MS4eSP2T-4" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
+          <mxGeometry height="50" width="100" x="20" y="305" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
           <mxGeometry height="1100" width="200" x="4080" as="geometry" />
