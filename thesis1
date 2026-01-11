@@ -9516,7 +9516,7 @@
         <mxCell id="vC7WBh-pkx834pGgs-Um-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
           <mxGeometry height="60" width="120" x="124.5" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="vC7WBh-pkx834pGgs-Um-1" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Username dan Password" vertex="1">
+        <mxCell id="vC7WBh-pkx834pGgs-Um-1" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Username&lt;div&gt;dan Password&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="124.75" y="240" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-107" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
