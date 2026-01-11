@@ -8978,7 +8978,7 @@
           <mxGeometry height="60" width="120" x="140" y="460" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-50" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="140" y="590" as="geometry" />
+          <mxGeometry height="60" width="120" x="140" y="570" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-52" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Langsung" vertex="1">
           <mxGeometry height="60" width="120" x="140" y="826" as="geometry" />
