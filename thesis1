@@ -9165,13 +9165,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-2" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="140" y="1487" as="geometry" />
+          <mxGeometry height="50" width="100" x="141.28" y="1487" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-9" parent="u2R2A6VwlVuXDPNBlX9A-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ingin backup dan restore database sistem" vertex="1">
           <mxGeometry height="23" width="172" x="139.57" y="1448" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-6" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="142.57000000000002" y="1675" as="geometry" />
+          <mxGeometry height="50" width="100" x="143.85000000000002" y="1675" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1970" width="202" x="850" as="geometry" />
