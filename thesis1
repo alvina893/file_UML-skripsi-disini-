@@ -9800,9 +9800,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9XMiWpqmBsYJydH_yZTp-0" connectable="0" parent="ku4GZSpMCQ4sKKJ71Osj-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblbarang,&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tblpenjualan, tbldetailpenjualan&lt;/span&gt;&lt;/div&gt;&lt;div&gt;tblpengembalian, tbldetailpengembalian&lt;/div&gt;&lt;div&gt;tblsupplier&lt;/div&gt;" vertex="1">
+        <mxCell id="9XMiWpqmBsYJydH_yZTp-0" connectable="0" parent="ku4GZSpMCQ4sKKJ71Osj-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblbarang,&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tblpenjualan, tbldetailpenjualan&lt;/span&gt;&lt;/div&gt;&lt;div&gt;tblpengembalian, tbldetailpengembalian&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.6367" y="-2" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0SBymsXQoBITxTb3hQ---1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="LbZz36-S-iRvit2lsa2p-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=58.75;exitDy=65;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0SBymsXQoBITxTb3hQ---0">
