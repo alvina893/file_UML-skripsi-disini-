@@ -9311,8 +9311,8 @@
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="110" width="620" x="40" y="1714" as="geometry" />
         </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ingin tambah pengguna" vertex="1">
-          <mxGeometry height="23" width="102" x="48" y="1704" as="geometry" />
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ingin tambah pengguna baru ke sistem" vertex="1">
+          <mxGeometry height="23" width="162" x="47" y="1704" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-15" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-17">
           <mxGeometry relative="1" as="geometry">
