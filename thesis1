@@ -9029,7 +9029,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-16" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="19.5" y="1080" as="geometry" />
+          <mxGeometry height="60" width="120" x="19.5" y="1086" as="geometry" />
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-38" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="AhKFBwbL0xTV6BjTTjYy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="AhKFBwbL0xTV6BjTTjYy-37">
           <mxGeometry relative="1" as="geometry" />
@@ -9044,7 +9044,7 @@
           <mxGeometry height="55" width="80" x="190.5" y="1165" as="geometry" />
         </mxCell>
         <mxCell id="S4kmXf-wvNceA-pDy9wu-22" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="160.5" y="1080" as="geometry" />
+          <mxGeometry height="60" width="120" x="160.5" y="1086" as="geometry" />
         </mxCell>
         <mxCell id="S4kmXf-wvNceA-pDy9wu-25" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="328" y="533" as="geometry" />
@@ -9228,13 +9228,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-13" parent="RSNvkmNOCWiIMSWsXGV9-10" style="rounded=0;whiteSpace=wrap;html=1;" value="Terima Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="1080" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="1086" as="geometry" />
         </mxCell>
         <mxCell id="KFmlhU38JZBsR2kWr4cB-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PDP" vertex="1">
           <mxGeometry height="30" width="50" x="75" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Delivery atau Pickup" vertex="1">
-          <mxGeometry height="18" width="112.5" x="43.75" y="1071" as="geometry" />
+          <mxGeometry height="10" width="112.5" x="43.75" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Database" vertex="1">
           <mxGeometry height="1880" width="308" x="1452" as="geometry" />
@@ -9477,8 +9477,8 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="S4kmXf-wvNceA-pDy9wu-13" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblbarang, tblpenjualan, tbldetailpenjualan" vertex="1">
-          <mxGeometry x="870" y="1110" as="geometry">
-            <mxPoint x="-70" as="offset" />
+          <mxGeometry x="870" y="1106" as="geometry">
+            <mxPoint x="-67" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S4kmXf-wvNceA-pDy9wu-19" edge="1" parent="1" source="S4kmXf-wvNceA-pDy9wu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5qHX6kofHUKhqv3fKICG-1">
