@@ -9998,7 +9998,7 @@
           <mxGeometry height="60" width="120" x="180" y="35" as="geometry" />
         </mxCell>
         <mxCell id="YJMsJnBrmOVUVzAyYY-f-0" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Username&lt;div&gt;dan Password&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="130" as="geometry" />
         </mxCell>
         <mxCell id="2z-aHtrvx2NWDsrHtKMs-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Status Pengiriman&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="40" y="481" as="geometry" />
@@ -10047,7 +10047,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3919" y="110" />
-              <mxPoint x="3580" y="110" />
+              <mxPoint x="3620" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
