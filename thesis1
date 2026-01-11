@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-658" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-629" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9620,13 +9620,13 @@
           <mxGeometry height="60" width="120" x="230" y="980" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-99" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Langsung" vertex="1">
-          <mxGeometry height="60" width="120" x="124.75" y="544" as="geometry" />
+          <mxGeometry height="60" width="120" x="124.75" y="430" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-104" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="14.75" y="544" as="geometry" />
+          <mxGeometry height="60" width="120" x="14.75" y="430" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-105" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="235.25" y="544" as="geometry" />
+          <mxGeometry height="60" width="120" x="235.25" y="430" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-106" parent="ibdLh96HV3ljDS0WLSE7-93" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika barang pembeli bermasalah" vertex="1">
           <mxGeometry height="23" width="118" x="99" y="948" as="geometry" />
@@ -9678,20 +9678,6 @@
         <mxCell id="ibdLh96HV3ljDS0WLSE7-110" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-90">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2115" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-121" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2097" y="652.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-122" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1775" y="700" />
-              <mxPoint x="2137" y="700" />
-            </Array>
-            <mxPoint x="2137" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-125" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
@@ -9812,26 +9798,8 @@
         <mxCell id="Cyg9bTeVN9xKGd2qzgF--0" parent="ibdLh96HV3ljDS0WLSE7-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="2230" y="985" as="geometry" />
         </mxCell>
-        <mxCell id="6p5UFnMueITWXEJowKER-3" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2137" y="574" />
-            </Array>
-            <mxPoint x="2137" y="625" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0SBymsXQoBITxTb3hQ---1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="LbZz36-S-iRvit2lsa2p-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=58.75;exitDy=65;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="0SBymsXQoBITxTb3hQ---0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-100" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="0_2a6CDxrBBb68uDrgf--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-105">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1996" y="411" />
-              <mxPoint x="1996" y="497" />
-            </Array>
-            <mxPoint x="1925" y="486.5" as="sourcePoint" />
-            <mxPoint x="1954.75" y="666.5" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-103" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="0_2a6CDxrBBb68uDrgf--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-99">
           <mxGeometry relative="1" as="geometry">
@@ -9842,6 +9810,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1845" y="486.5" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MW0wi1uM49iZsOIJtGrH-0" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="0_2a6CDxrBBb68uDrgf--0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-105">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
