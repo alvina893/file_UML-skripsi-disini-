@@ -9601,16 +9601,16 @@
           <mxGeometry height="60" width="120" x="158" y="780" as="geometry" />
         </mxCell>
         <mxCell id="xhAG183brvdf3FUSuIr9-8" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Penjualan Pickup" vertex="1">
-          <mxGeometry height="60" width="120" x="17" y="639" as="geometry" />
+          <mxGeometry height="60" width="120" x="16.5" y="700" as="geometry" />
         </mxCell>
         <mxCell id="xhAG183brvdf3FUSuIr9-9" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="xhAG183brvdf3FUSuIr9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="xhAG183brvdf3FUSuIr9-10" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="137.5" y="669" as="sourcePoint" />
-            <mxPoint x="879.5" y="669" as="targetPoint" />
+            <mxPoint x="137" y="730" as="sourcePoint" />
+            <mxPoint x="879" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xhAG183brvdf3FUSuIr9-10" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Update Stok&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="158" y="639" as="geometry" />
+          <mxGeometry height="60" width="120" x="157.5" y="700" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-90" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengajuan Pengembalian" vertex="1">
           <mxGeometry height="60" width="120" x="34.5" y="960" as="geometry" />
@@ -9832,6 +9832,10 @@
         </mxCell>
         <mxCell id="UMELRKxVB7nd44KC6xvy-1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="xhAG183brvdf3FUSuIr9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-126">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2730" y="730" />
+              <mxPoint x="2730" y="670" />
+            </Array>
             <mxPoint x="2550" y="710" as="sourcePoint" />
             <mxPoint x="2952" y="710" as="targetPoint" />
           </mxGeometry>
