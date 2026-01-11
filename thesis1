@@ -9527,7 +9527,7 @@
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-29" connectable="0" parent="OKtUdm6z0JofQI2mP0lA-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblbarang,&lt;div&gt;tblpembelian, tbldetailpembelian,&lt;/div&gt;&lt;div&gt;tblpenjualan, tbldetailpenjualan&lt;/div&gt;&lt;div&gt;tblpengembalian, tbldetailpengembalian&lt;/div&gt;&lt;div&gt;tblsupplier&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0056" y="3" as="geometry">
-            <mxPoint x="44" y="-3" as="offset" />
+            <mxPoint x="34" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
