@@ -8932,7 +8932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1737" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9008,25 +9008,25 @@
           <mxGeometry height="65" width="120" x="300" y="410" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=8;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Admin (Pemilik Toko)&lt;/font&gt;" vertex="1">
-          <mxGeometry height="1880" width="360" as="geometry" />
+          <mxGeometry height="1880" width="410" x="-50" as="geometry" />
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-1" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="110" width="655" x="20" y="1160" as="geometry" />
         </mxCell>
-        <mxCell id="Ey4plcRIesOVcDyoCzdK-34" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="u2R2A6VwlVuXDPNBlX9A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ey4plcRIesOVcDyoCzdK-33">
+        <mxCell id="AhKFBwbL0xTV6BjTTjYy-33" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="u2R2A6VwlVuXDPNBlX9A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ey4plcRIesOVcDyoCzdK-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="129.75" y="35" as="geometry" />
+          <mxGeometry height="50" width="100" x="21" y="63" as="geometry" />
         </mxCell>
         <mxCell id="jCbEA4ZrdzZ185md5h_U-2" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Supplier" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="364" as="geometry" />
+          <mxGeometry height="60" width="120" x="145.13" y="312" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-3" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Barang" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="460" as="geometry" />
+          <mxGeometry height="60" width="120" x="145.13" y="408" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-8" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pembelian" vertex="1">
-          <mxGeometry height="60" width="120" x="120" y="577" as="geometry" />
+          <mxGeometry height="60" width="120" x="145.13" y="525" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-19" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="110.25" y="790" as="geometry" />
@@ -9062,10 +9062,10 @@
           <mxGeometry height="23" width="50" x="35" y="1229" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-33" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
-          <mxGeometry height="60" width="120" x="119.75" y="110" as="geometry" />
+          <mxGeometry height="60" width="120" x="144.88" y="58" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-6" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Username dan Password" vertex="1">
-          <mxGeometry height="60" width="120" x="119.75" y="210" as="geometry" />
+          <mxGeometry height="60" width="120" x="144.88" y="158" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-16" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Logout" vertex="1">
           <mxGeometry height="60" width="120" x="197.25" y="1610" as="geometry" />
