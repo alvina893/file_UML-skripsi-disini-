@@ -9537,7 +9537,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1676" dy="13" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-935" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9843,6 +9843,15 @@
         <mxCell id="UMELRKxVB7nd44KC6xvy-2" connectable="0" parent="UMELRKxVB7nd44KC6xvy-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblbarang, tblpenjualan, tbldetailpenjualan" vertex="1">
           <mxGeometry relative="1" x="-0.8662" y="-2" as="geometry">
             <mxPoint x="85" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sckoMklggJOfc7M9gMpr-4" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="sckoMklggJOfc7M9gMpr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="T-9CPtggJ3GeKQO9F1-L-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2585" y="860" />
+              <mxPoint x="1760" y="860" />
+              <mxPoint x="1760" y="1010" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
