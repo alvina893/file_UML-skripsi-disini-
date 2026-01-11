@@ -9161,15 +9161,6 @@
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-1" parent="RSNvkmNOCWiIMSWsXGV9-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Delivery atau Pickup" vertex="1">
           <mxGeometry height="18" width="112.5" x="43.75" y="1040" as="geometry" />
         </mxCell>
-        <mxCell id="RSNvkmNOCWiIMSWsXGV9-50" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="E8parfckR2CZ24kqbwVu-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="560" y="440" />
-              <mxPoint x="180" y="440" />
-            </Array>
-            <mxPoint x="690" y="370" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Database" vertex="1">
           <mxGeometry height="1880" width="270" x="1402" as="geometry" />
         </mxCell>
@@ -9355,6 +9346,14 @@
             <Array as="points">
               <mxPoint x="484" y="190" />
               <mxPoint x="180" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AhKFBwbL0xTV6BjTTjYy-31" edge="1" parent="1" source="8FTqRSsI7tniPMxLuMcF-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="E8parfckR2CZ24kqbwVu-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="485" y="440" />
+              <mxPoint x="180" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
