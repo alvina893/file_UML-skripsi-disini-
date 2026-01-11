@@ -8932,10 +8932,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1097" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1895" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="90" width="580" x="130" y="1550" as="geometry" />
+        </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="200" width="580" x="130" y="1320" as="geometry" />
         </mxCell>
@@ -9138,6 +9141,20 @@
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-54" parent="u2R2A6VwlVuXDPNBlX9A-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengajuan Pengembalian" vertex="1">
           <mxGeometry height="23" width="50" x="185" y="1204" as="geometry" />
         </mxCell>
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-12" parent="u2R2A6VwlVuXDPNBlX9A-13" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ingin tambah pengguna baru ke sistem" vertex="1">
+          <mxGeometry height="23" width="162" x="134.94" y="1538" as="geometry" />
+        </mxCell>
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-15" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-13" source="mW7wtoV3D0ycJdYA-XbY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="224.94" y="1626" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-13" parent="u2R2A6VwlVuXDPNBlX9A-13" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
+          <mxGeometry height="50" width="100" x="144.94" y="1573" as="geometry" />
+        </mxCell>
+        <mxCell id="mW7wtoV3D0ycJdYA-XbY-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pengguna (Users)" vertex="1">
+          <mxGeometry height="60" width="120" x="264.94" y="1568" as="geometry" />
+        </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1880" width="202" x="850" as="geometry" />
         </mxCell>
@@ -9270,40 +9287,23 @@
             <mxPoint x="-887" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="90" width="580" x="130" y="1640" as="geometry" />
-        </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Jika ingin tambah pengguna baru ke sistem" vertex="1">
-          <mxGeometry height="23" width="162" x="140" y="1627" as="geometry" />
-        </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-15" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="1713" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-13" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="150" y="1660" as="geometry" />
-        </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-20" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="mW7wtoV3D0ycJdYA-XbY-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mW7wtoV3D0ycJdYA-XbY-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Pengguna (Users)" vertex="1">
-          <mxGeometry height="60" width="120" x="270" y="1655" as="geometry" />
-        </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengguna (Users)" vertex="1">
-          <mxGeometry height="60" width="120" x="437" y="1655" as="geometry" />
+          <mxGeometry height="60" width="120" x="437" y="1568" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-21" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" target="Ey4plcRIesOVcDyoCzdK-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="497" y="1770" />
-              <mxPoint x="1702" y="1770" />
+              <mxPoint x="497" y="1680" />
+              <mxPoint x="1702" y="1680" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="S4kmXf-wvNceA-pDy9wu-8" connectable="0" parent="mW7wtoV3D0ycJdYA-XbY-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tbluser" vertex="1">
           <mxGeometry relative="1" x="-0.9576" y="-1" as="geometry">
-            <mxPoint x="1" y="-8" as="offset" />
+            <mxPoint x="1" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_7JFgMRsa0Y7uNnYHq-e-7" edge="1" parent="1" source="_7JFgMRsa0Y7uNnYHq-e-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_7JFgMRsa0Y7uNnYHq-e-6">
@@ -9311,12 +9311,12 @@
         </mxCell>
         <mxCell id="ZF3Bf0QVeHG9MfiEpvKv-2" edge="1" parent="1" source="mW7wtoV3D0ycJdYA-XbY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZF3Bf0QVeHG9MfiEpvKv-1" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="1713" as="sourcePoint" />
-            <mxPoint x="1612" y="960" as="targetPoint" />
+            <mxPoint x="560" y="1626" as="sourcePoint" />
+            <mxPoint x="1612" y="873" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZF3Bf0QVeHG9MfiEpvKv-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="590" y="1660" as="geometry" />
+          <mxGeometry height="50" width="100" x="590" y="1573" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-3" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pCmKEMaXlxeiSPBmmfWM-9">
           <mxGeometry relative="1" as="geometry" />
