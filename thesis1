@@ -9554,13 +9554,13 @@
           <mxGeometry height="65" width="120" x="96" y="37.5" as="geometry" />
         </mxCell>
         <mxCell id="enzI7hhdUzAFc7bJdIYb-7" parent="ibdLh96HV3ljDS0WLSE7-80" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="176.5" y="1177.5" as="geometry" />
+          <mxGeometry height="50" width="100" x="168.5" y="1177.5" as="geometry" />
         </mxCell>
         <mxCell id="LbZz36-S-iRvit2lsa2p-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="shape=display;whiteSpace=wrap;html=1;" value="Dashboard Kasir Sistem POS" vertex="1">
           <mxGeometry height="65" width="120" x="95" y="220" as="geometry" />
         </mxCell>
         <mxCell id="to_95RgaTEaHBmck0YDa-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan Sistem&lt;div&gt;- Keuangan&lt;div&gt;- Penjualan&lt;/div&gt;&lt;div&gt;- Pengembalian&lt;/div&gt;&lt;div&gt;- Barang&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="128" x="298" y="1147.5" as="geometry" />
+          <mxGeometry height="110" width="128" x="291" y="1147.5" as="geometry" />
         </mxCell>
         <mxCell id="xhAG183brvdf3FUSuIr9-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Cetak Struk Nota Bukti Penjualan" vertex="1">
           <mxGeometry height="60" width="120" x="158" y="450" as="geometry" />
