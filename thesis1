@@ -4757,7 +4757,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="kasir-activity-penjualanLangsung" id="1eCtHuaUMLqUwbgt7wrZ">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rhpvyBYeGVy74EJkdohd-0" />
         <mxCell id="rhpvyBYeGVy74EJkdohd-1" parent="rhpvyBYeGVy74EJkdohd-0" />
@@ -5093,7 +5093,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-penjualanLangsung" id="N8hfmSOxxlTzyKM_9B-M">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-0" />
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-1" parent="eQVyr0f1tNnmLrwFSp-Q-0" />
@@ -5437,7 +5437,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="kasir-activity-penjualanPickup" id="nb-S03w3zkvDKbRfmFZ1">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-0" />
         <mxCell id="cvAT7BejKZ3OuZL2EdXY-1" parent="cvAT7BejKZ3OuZL2EdXY-0" />
@@ -5799,7 +5799,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-penjualanPickup" id="fGqkJUz40dg3lg2fmwpt">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AKkEHLHm3sMyQ5BBXcQC-0" />
         <mxCell id="AKkEHLHm3sMyQ5BBXcQC-1" parent="AKkEHLHm3sMyQ5BBXcQC-0" />
@@ -6161,7 +6161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="kasir-activity-penjualanDelivery" id="z2dWNf1oWTDfpeIXJGP1">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="aubbcD0wnSqntcD6yuGs-0" />
         <mxCell id="aubbcD0wnSqntcD6yuGs-1" parent="aubbcD0wnSqntcD6yuGs-0" />
@@ -6893,7 +6893,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="POedYe2NIIbejT8M9xSN" name="kasir-activity-pengembalian-masalahPembeli">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -7001,7 +7001,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="kasir-activity-pendingLUNAS" id="bG6AkoaD4ViMVV2QVY1u">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="zDdOeXQteI1nzpgXuQXT-0" />
         <mxCell id="zDdOeXQteI1nzpgXuQXT-1" parent="zDdOeXQteI1nzpgXuQXT-0" />
@@ -7205,7 +7205,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-pendingLUNAS" id="hCb7GyVd4LujljC6XX4r">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-0" />
         <mxCell id="nZ9n3LiwnjkS3mqQksBL-1" parent="nZ9n3LiwnjkS3mqQksBL-0" />
