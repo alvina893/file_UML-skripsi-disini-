@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2628" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2532" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10291,7 +10291,7 @@
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-7" connectable="0" parent="i7035qa9T7u2WR2KUIBv-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblpenjualan,&lt;div&gt;tbldetailpenjualan&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.8339" y="-2" as="geometry">
-            <mxPoint x="14" y="-2" as="offset" />
+            <mxPoint x="14" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4xQnAXxLPDDi6xj7AhHM-7" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="4xQnAXxLPDDi6xj7AhHM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4xQnAXxLPDDi6xj7AhHM-1">
