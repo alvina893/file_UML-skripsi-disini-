@@ -6519,7 +6519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-penjualanDelivery" id="vJdic9zP1J9IwkJ1AA_V">
-    <mxGraphModel dx="1543" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2277" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-0" />
         <mxCell id="MIHANVPPqOJJCQrdcRwr-1" parent="MIHANVPPqOJJCQrdcRwr-0" />
@@ -6710,7 +6710,7 @@
             <mxPoint x="16" y="44" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MIHANVPPqOJJCQrdcRwr-41" parent="MIHANVPPqOJJCQrdcRwr-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
+        <mxCell id="MIHANVPPqOJJCQrdcRwr-41" parent="MIHANVPPqOJJCQrdcRwr-1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="1440" width="260" x="480" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-42" parent="MIHANVPPqOJJCQrdcRwr-41" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
