@@ -5093,7 +5093,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-penjualanLangsung" id="N8hfmSOxxlTzyKM_9B-M">
-    <mxGraphModel dx="135" dy="71" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="837" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-0" />
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-1" parent="eQVyr0f1tNnmLrwFSp-Q-0" />
@@ -5437,6 +5437,9 @@
               <mxPoint x="410" y="1080" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2gNqX_-1sDcMwW1wDK9w-2" edge="1" parent="eQVyr0f1tNnmLrwFSp-Q-1" source="2gNqX_-1sDcMwW1wDK9w-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="eQVyr0f1tNnmLrwFSp-Q-69">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
