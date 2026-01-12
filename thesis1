@@ -9536,7 +9536,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1620" dy="43" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-211" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9604,15 +9604,15 @@
           <mxGeometry height="60" width="120" x="158" y="639" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-90" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Simpan Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="35" y="889" as="geometry" />
+          <mxGeometry height="60" width="120" x="33.5" y="900" as="geometry" />
         </mxCell>
         <mxCell id="Cyg9bTeVN9xKGd2qzgF--0" parent="ibdLh96HV3ljDS0WLSE7-80" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="178" y="894" as="geometry" />
+          <mxGeometry height="50" width="100" x="176.5" y="905" as="geometry" />
         </mxCell>
         <mxCell id="Cyg9bTeVN9xKGd2qzgF--1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-80" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="Cyg9bTeVN9xKGd2qzgF--0" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="138.5" y="885" as="sourcePoint" />
-            <mxPoint x="756.5" y="791" as="targetPoint" />
+            <mxPoint x="137" y="896" as="sourcePoint" />
+            <mxPoint x="755" y="802" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7EH5S4hUoR7nKpb-Wo7m-0" parent="ibdLh96HV3ljDS0WLSE7-80" style="rounded=0;whiteSpace=wrap;html=1;" value="Keluar dari Sistem" vertex="1">
@@ -9631,7 +9631,7 @@
           <mxGeometry height="50" width="100" x="45" y="45" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-98" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="235.25" y="889" as="geometry" />
+          <mxGeometry height="60" width="120" x="235.25" y="900" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-99" parent="ibdLh96HV3ljDS0WLSE7-93" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Input Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="138.75" y="450" as="geometry" />
@@ -9649,7 +9649,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T-9CPtggJ3GeKQO9F1-L-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="113.25" y="894" as="geometry" />
+          <mxGeometry height="50" width="100" x="113.25" y="905" as="geometry" />
         </mxCell>
         <mxCell id="vC7WBh-pkx834pGgs-Um-0" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Buka Sistem POS" vertex="1">
           <mxGeometry height="60" width="120" x="180" y="40" as="geometry" />
@@ -9883,11 +9883,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3HOez_p1qnDoH1q9lMT-5" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.923;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="ku4GZSpMCQ4sKKJ71Osj-0">
+        <mxCell id="R3HOez_p1qnDoH1q9lMT-5" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="ku4GZSpMCQ4sKKJ71Osj-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2165" y="880" />
-              <mxPoint x="2930" y="880" />
+              <mxPoint x="2164" y="888" />
+              <mxPoint x="2170" y="888" />
             </Array>
             <mxPoint x="2470" y="900" as="sourcePoint" />
           </mxGeometry>
@@ -9904,10 +9904,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="72qHvSONGouRSAnDqei8-0" parent="ibdLh96HV3ljDS0WLSE7-1" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="RTF" vertex="1">
-          <mxGeometry height="40" width="50" x="2138" y="966" as="geometry" />
+          <mxGeometry height="40" width="50" x="2136.5" y="977" as="geometry" />
         </mxCell>
         <mxCell id="72qHvSONGouRSAnDqei8-1" parent="ibdLh96HV3ljDS0WLSE7-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="13" width="100" x="2108" y="1006" as="geometry" />
+          <mxGeometry height="13" width="100" x="2106.5" y="1017" as="geometry" />
         </mxCell>
         <mxCell id="72qHvSONGouRSAnDqei8-6" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="72qHvSONGouRSAnDqei8-0">
           <mxGeometry relative="1" as="geometry" />
