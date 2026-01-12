@@ -6693,13 +6693,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-83" parent="MIHANVPPqOJJCQrdcRwr-3" style="rhombus;whiteSpace=wrap;html=1;" value="metode input" vertex="1">
-          <mxGeometry height="40" width="86" x="132" y="140" as="geometry" />
+          <mxGeometry height="40" width="86" x="132" y="130" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-87" edge="1" parent="MIHANVPPqOJJCQrdcRwr-3" source="MIHANVPPqOJJCQrdcRwr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="40" y="516" />
-              <mxPoint x="40" y="160" />
+              <mxPoint x="40" y="150" />
             </Array>
             <mxPoint x="155" y="265" as="targetPoint" />
           </mxGeometry>
@@ -6723,12 +6723,12 @@
         <mxCell id="kgrrvuUJKmaN0EFLqywZ-4" edge="1" parent="MIHANVPPqOJJCQrdcRwr-3" source="kgrrvuUJKmaN0EFLqywZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-83">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="175" y="125" />
+              <mxPoint x="175" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kgrrvuUJKmaN0EFLqywZ-3" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Penjualan&#39;" vertex="1">
-          <mxGeometry height="50" width="100" x="230" y="100" as="geometry" />
+          <mxGeometry height="50" width="100" x="230" y="86" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-41" parent="MIHANVPPqOJJCQrdcRwr-1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="1380" width="260" x="480" y="-50" as="geometry" />
