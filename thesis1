@@ -10167,7 +10167,7 @@
         <mxCell id="WdO45hsQrTkY0a7HRo9R-0" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Database POS" vertex="1">
           <mxGeometry height="1170" width="210" x="4430" as="geometry" />
         </mxCell>
-        <mxCell id="ZGRS7dwlB0OQ8s0bG8Vx-0" parent="WdO45hsQrTkY0a7HRo9R-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Point of Sale Database" vertex="1">
+        <mxCell id="ZGRS7dwlB0OQ8s0bG8Vx-0" parent="WdO45hsQrTkY0a7HRo9R-0" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Point of Sale Database:&lt;div&gt;&lt;br&gt;&lt;div&gt;-tbluser&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-tblbarang&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblpenjualan&lt;/div&gt;&lt;div&gt;-tbldetailpenjualan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblpengembalian&lt;/div&gt;&lt;div&gt;-tbldetailpengembalian&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="435" width="170" x="20" y="335" as="geometry" />
         </mxCell>
         <mxCell id="vdGM2O9Gdz_XZ9Wiwj2f-0" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="I5HDm6KOtCkL4xNGEPID-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="I5HDm6KOtCkL4xNGEPID-0">
