@@ -4692,7 +4692,7 @@
         <mxCell id="b5nz23Oj7pRvngpHHUyA-13" parent="b5nz23Oj7pRvngpHHUyA-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="730" width="280" x="440" as="geometry" />
         </mxCell>
-        <mxCell id="b5nz23Oj7pRvngpHHUyA-14" parent="b5nz23Oj7pRvngpHHUyA-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
+        <mxCell id="b5nz23Oj7pRvngpHHUyA-14" parent="b5nz23Oj7pRvngpHHUyA-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="b5nz23Oj7pRvngpHHUyA-15" parent="b5nz23Oj7pRvngpHHUyA-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan&lt;div&gt;List Penjualan Pickup&lt;/div&gt;" vertex="1">
@@ -4718,14 +4718,6 @@
         </mxCell>
         <mxCell id="b5nz23Oj7pRvngpHHUyA-22" parent="b5nz23Oj7pRvngpHHUyA-13" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Rincian Penjualan" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="280" as="geometry" />
-        </mxCell>
-        <mxCell id="b5nz23Oj7pRvngpHHUyA-23" edge="1" parent="b5nz23Oj7pRvngpHHUyA-1" source="b5nz23Oj7pRvngpHHUyA-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="b5nz23Oj7pRvngpHHUyA-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="231" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="b5nz23Oj7pRvngpHHUyA-24" parent="b5nz23Oj7pRvngpHHUyA-1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Karyawan&lt;div&gt;sudah login, ada penjualan pickup Lunas pada sistem&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="110" y="62" as="geometry" />
         </mxCell>
         <mxCell id="b5nz23Oj7pRvngpHHUyA-25" edge="1" parent="b5nz23Oj7pRvngpHHUyA-1" source="b5nz23Oj7pRvngpHHUyA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="b5nz23Oj7pRvngpHHUyA-14">
           <mxGeometry relative="1" as="geometry" />
