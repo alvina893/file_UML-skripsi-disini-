@@ -10267,7 +10267,7 @@
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-7" connectable="0" parent="i7035qa9T7u2WR2KUIBv-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblpenjualan, tbldetailpenjualan" vertex="1">
           <mxGeometry relative="1" x="-0.8339" y="-2" as="geometry">
-            <mxPoint x="59" y="-2" as="offset" />
+            <mxPoint x="43" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
