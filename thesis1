@@ -5093,7 +5093,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-penjualanLangsung" id="N8hfmSOxxlTzyKM_9B-M">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-0" />
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-1" parent="eQVyr0f1tNnmLrwFSp-Q-0" />
@@ -6527,7 +6527,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-penjualanDelivery" id="vJdic9zP1J9IwkJ1AA_V">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-0" />
         <mxCell id="MIHANVPPqOJJCQrdcRwr-1" parent="MIHANVPPqOJJCQrdcRwr-0" />
@@ -6540,11 +6540,10 @@
         <mxCell id="MIHANVPPqOJJCQrdcRwr-4" parent="MIHANVPPqOJJCQrdcRwr-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="31" as="geometry" />
         </mxCell>
-        <mxCell id="MIHANVPPqOJJCQrdcRwr-5" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Penjualan&#39;" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="67" as="geometry" />
-        </mxCell>
-        <mxCell id="MIHANVPPqOJJCQrdcRwr-6" edge="1" parent="MIHANVPPqOJJCQrdcRwr-3" source="MIHANVPPqOJJCQrdcRwr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MIHANVPPqOJJCQrdcRwr-6" edge="1" parent="MIHANVPPqOJJCQrdcRwr-3" source="MIHANVPPqOJJCQrdcRwr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="67" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-7" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Scan Barang" vertex="1">
           <mxGeometry height="50" width="100" x="55" y="193" as="geometry" />
@@ -6693,11 +6692,14 @@
         <mxCell id="MIHANVPPqOJJCQrdcRwr-40" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Input Qty" vertex="1">
           <mxGeometry height="50" width="100" x="117" y="276" as="geometry" />
         </mxCell>
+        <mxCell id="llfFz4JNIfqrBsxdlPvl-0" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
+          <mxGeometry height="50" width="100" x="136" y="60" as="geometry" />
+        </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-41" parent="MIHANVPPqOJJCQrdcRwr-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1390" width="260" x="480" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-42" parent="MIHANVPPqOJJCQrdcRwr-41" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="50" width="100" x="80" y="67" as="geometry" />
+          <mxGeometry height="50" width="100" x="80" y="60" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-43" parent="MIHANVPPqOJJCQrdcRwr-41" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="491" as="geometry" />
@@ -6765,8 +6767,9 @@
         <mxCell id="MIHANVPPqOJJCQrdcRwr-63" edge="1" parent="MIHANVPPqOJJCQrdcRwr-41" source="MIHANVPPqOJJCQrdcRwr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MIHANVPPqOJJCQrdcRwr-66" edge="1" parent="MIHANVPPqOJJCQrdcRwr-1" source="MIHANVPPqOJJCQrdcRwr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-42">
+        <mxCell id="MIHANVPPqOJJCQrdcRwr-66" edge="1" parent="MIHANVPPqOJJCQrdcRwr-1" source="llfFz4JNIfqrBsxdlPvl-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-42">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="92" as="sourcePoint" />
             <mxPoint x="545" y="115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -6888,6 +6891,9 @@
               <mxPoint x="435" y="1140" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="llfFz4JNIfqrBsxdlPvl-1" parent="MIHANVPPqOJJCQrdcRwr-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Penjualan&#39;" vertex="1">
+          <mxGeometry height="50" width="100" x="-60" y="-10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
