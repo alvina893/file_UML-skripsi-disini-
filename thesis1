@@ -3040,7 +3040,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WHuSyiZR5QvUj76w856L" name="admin-activity-stok">
-    <mxGraphModel dx="1226" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3177,7 +3177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TkltupiSSOTSOYXcDcor" name="admin-activity-supplier">
-    <mxGraphModel dx="786" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3229,7 +3229,7 @@
         <mxCell id="EMKHfyKzKm_afmR1EEB3-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="720" width="310" x="440" as="geometry" />
         </mxCell>
-        <mxCell id="EMKHfyKzKm_afmR1EEB3-7" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Layar Utama Sistem" vertex="1">
+        <mxCell id="EMKHfyKzKm_afmR1EEB3-7" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-23" parent="EMKHfyKzKm_afmR1EEB3-5" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
@@ -3249,14 +3249,6 @@
         </mxCell>
         <mxCell id="f5u25KnTtSxhrPYpN8t4-1" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Supplier Baru" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="510" as="geometry" />
-        </mxCell>
-        <mxCell id="EMKHfyKzKm_afmR1EEB3-24" edge="1" parent="1" source="EMKHfyKzKm_afmR1EEB3-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" target="EMKHfyKzKm_afmR1EEB3-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="171" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMKHfyKzKm_afmR1EEB3-25" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=18;" value="Admin sudah login" vertex="1">
-          <mxGeometry height="70" width="100" y="50" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-26" edge="1" parent="1" source="EMKHfyKzKm_afmR1EEB3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EMKHfyKzKm_afmR1EEB3-7">
           <mxGeometry relative="1" as="geometry" />
