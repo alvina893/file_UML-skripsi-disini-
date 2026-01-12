@@ -3182,7 +3182,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EMKHfyKzKm_afmR1EEB3-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
-          <mxGeometry height="560" width="310" x="130" as="geometry" />
+          <mxGeometry height="560" width="310" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-2" parent="EMKHfyKzKm_afmR1EEB3-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="143.5" y="40" as="geometry" />
@@ -3227,7 +3227,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-5" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="560" width="310" x="440" as="geometry" />
+          <mxGeometry height="560" width="310" x="310" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-7" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
@@ -3265,7 +3265,7 @@
         <mxCell id="EMKHfyKzKm_afmR1EEB3-6" edge="1" parent="1" source="EMKHfyKzKm_afmR1EEB3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rCb2eiMoYhiCWRohR7WJ-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="595" y="200" as="targetPoint" />
+            <mxPoint x="465" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
