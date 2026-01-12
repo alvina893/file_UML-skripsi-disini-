@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-1618" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2011" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10083,7 +10083,7 @@
           <mxGeometry height="60" width="120" x="200" y="750" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-4" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="468" as="geometry" />
+          <mxGeometry height="60" width="120" x="40" y="482.5" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-6" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="560" as="geometry" />
@@ -10190,12 +10190,12 @@
             <mxPoint x="-42" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SwuYUEBij50HbT-ta7M-9" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="6SwuYUEBij50HbT-ta7M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-4">
+        <mxCell id="6SwuYUEBij50HbT-ta7M-9" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="6SwuYUEBij50HbT-ta7M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-11" connectable="0" parent="6SwuYUEBij50HbT-ta7M-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="delivery" vertex="1">
           <mxGeometry relative="1" x="-0.5994" y="1" as="geometry">
-            <mxPoint x="-144" y="-2" as="offset" />
+            <mxPoint x="-133" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-10" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="6SwuYUEBij50HbT-ta7M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-6">
@@ -10221,7 +10221,7 @@
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-5" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="BSQz0o5BEo8ocAMyGgzD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3510" y="635" />
+              <mxPoint x="3500" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
