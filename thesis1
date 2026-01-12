@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2011" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2628" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10199,7 +10199,7 @@
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-9" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="GrSHBEEx4EimilLz5uOu-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GrSHBEEx4EimilLz5uOu-140">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B2nOSMLKvsT6MS4eSP2T-11" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="ew745l-zbZlc7CUkIGqs-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.162;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZGRS7dwlB0OQ8s0bG8Vx-0">
+        <mxCell id="B2nOSMLKvsT6MS4eSP2T-11" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="ew745l-zbZlc7CUkIGqs-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.195;entryDx=0;entryDy=0;entryPerimeter=0;" target="ZGRS7dwlB0OQ8s0bG8Vx-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-12" connectable="0" parent="B2nOSMLKvsT6MS4eSP2T-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblpengembalian, tbldetailpengembalian, tblbarang" vertex="1">
@@ -10207,12 +10207,12 @@
             <mxPoint x="-152" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SwuYUEBij50HbT-ta7M-2" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="ZGRS7dwlB0OQ8s0bG8Vx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.001;exitY=0.34;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="6SwuYUEBij50HbT-ta7M-1">
+        <mxCell id="6SwuYUEBij50HbT-ta7M-2" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="ZGRS7dwlB0OQ8s0bG8Vx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.001;exitY=0.408;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="6SwuYUEBij50HbT-ta7M-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0i1Pybg5sJOpKfpWQMat-5" connectable="0" parent="6SwuYUEBij50HbT-ta7M-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblpenjualan, tbldetailpenjualan" vertex="1">
           <mxGeometry relative="1" x="-0.6912" y="1" as="geometry">
-            <mxPoint x="-42" y="-1" as="offset" />
+            <mxPoint x="-30" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6SwuYUEBij50HbT-ta7M-9" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="6SwuYUEBij50HbT-ta7M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-4">
