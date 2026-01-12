@@ -6519,7 +6519,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-penjualanDelivery" id="vJdic9zP1J9IwkJ1AA_V">
-    <mxGraphModel dx="1543" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-0" />
         <mxCell id="MIHANVPPqOJJCQrdcRwr-1" parent="MIHANVPPqOJJCQrdcRwr-0" />
@@ -6683,7 +6683,7 @@
           <mxGeometry height="50" width="100" x="117" y="276" as="geometry" />
         </mxCell>
         <mxCell id="llfFz4JNIfqrBsxdlPvl-0" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="125" y="50" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="36" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-83" parent="MIHANVPPqOJJCQrdcRwr-3" style="rhombus;whiteSpace=wrap;html=1;" value="metode input" vertex="1">
           <mxGeometry height="40" width="86" x="132" y="130" as="geometry" />
@@ -6720,6 +6720,12 @@
               <mxPoint x="280" y="170" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kgrrvuUJKmaN0EFLqywZ-4" edge="1" parent="MIHANVPPqOJJCQrdcRwr-3" source="kgrrvuUJKmaN0EFLqywZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kgrrvuUJKmaN0EFLqywZ-3" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Penjualan&#39;" vertex="1">
+          <mxGeometry height="50" width="100" x="230" y="86" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-41" parent="MIHANVPPqOJJCQrdcRwr-1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="1380" width="260" x="480" y="-50" as="geometry" />
@@ -6858,7 +6864,7 @@
             <mxPoint x="570" y="476" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MIHANVPPqOJJCQrdcRwr-84" edge="1" parent="MIHANVPPqOJJCQrdcRwr-1" source="MIHANVPPqOJJCQrdcRwr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-83">
+        <mxCell id="MIHANVPPqOJJCQrdcRwr-84" edge="1" parent="MIHANVPPqOJJCQrdcRwr-1" source="MIHANVPPqOJJCQrdcRwr-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="kgrrvuUJKmaN0EFLqywZ-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-85" edge="1" parent="MIHANVPPqOJJCQrdcRwr-1" source="MIHANVPPqOJJCQrdcRwr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="MIHANVPPqOJJCQrdcRwr-62">
@@ -6887,9 +6893,6 @@
               <mxPoint x="435" y="1090" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="llfFz4JNIfqrBsxdlPvl-1" parent="MIHANVPPqOJJCQrdcRwr-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Penjualan&#39;" vertex="1">
-          <mxGeometry height="50" width="100" x="-60" y="-10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
