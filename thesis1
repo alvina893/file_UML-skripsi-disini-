@@ -3045,7 +3045,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_y7RdQqjLD-7aHaszyTe-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="300" width="580" x="151" y="710" as="geometry" />
+          <mxGeometry height="350" width="580" x="151" y="660" as="geometry" />
         </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="1030" width="280" x="130" as="geometry" />
@@ -3063,10 +3063,22 @@
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-1" connectable="0" parent="EXahoBi8N_f_pk358-Yt-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Perlu ubah stok barang gudang" vertex="1">
-          <mxGeometry x="110" y="700" as="geometry" />
+          <mxGeometry x="110" y="660" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-3" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
-          <mxGeometry height="50" width="100" x="90" y="884" as="geometry" />
+          <mxGeometry height="50" width="100" x="90" y="844" as="geometry" />
+        </mxCell>
+        <mxCell id="jqcUngUZ5n67goPmX3PR-33" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="_y7RdQqjLD-7aHaszyTe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jqcUngUZ5n67goPmX3PR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_y7RdQqjLD-7aHaszyTe-2" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Dua Kali pada Stok di List Barang" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="684" as="geometry" />
+        </mxCell>
+        <mxCell id="jqcUngUZ5n67goPmX3PR-34" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="jqcUngUZ5n67goPmX3PR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jqcUngUZ5n67goPmX3PR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jqcUngUZ5n67goPmX3PR-2" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty Stok Terbaru" vertex="1">
+          <mxGeometry height="50" width="100" x="90" y="764" as="geometry" />
         </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-42" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1030" width="340" x="410" as="geometry" />
@@ -3135,19 +3147,19 @@
           <mxGeometry height="50" width="100" x="105" y="90" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-4" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Perubahan Stok Terbaru" vertex="1">
-          <mxGeometry height="50" width="100" x="40" y="894" as="geometry" />
+          <mxGeometry height="50" width="100" x="17.5" y="844" as="geometry" />
         </mxCell>
-        <mxCell id="jqcUngUZ5n67goPmX3PR-32" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="jqcUngUZ5n67goPmX3PR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jqcUngUZ5n67goPmX3PR-31">
+        <mxCell id="jqcUngUZ5n67goPmX3PR-32" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="jqcUngUZ5n67goPmX3PR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jqcUngUZ5n67goPmX3PR-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-29" parent="EXahoBi8N_f_pk358-Yt-42" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh Status Stok&lt;div&gt;Semua Barang&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="192.5" y="894" as="geometry" />
+          <mxGeometry height="50" width="100" x="150" y="844" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-30" edge="1" parent="EXahoBi8N_f_pk358-Yt-42" source="jqcUngUZ5n67goPmX3PR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jqcUngUZ5n67goPmX3PR-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-31" parent="EXahoBi8N_f_pk358-Yt-42" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="227.5" y="968" as="geometry" />
+          <mxGeometry height="30" width="30" x="280" y="854" as="geometry" />
         </mxCell>
         <mxCell id="1eIafAM1mV06f6Xi7pdY-1" edge="1" parent="1" source="EXahoBi8N_f_pk358-Yt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-43">
           <mxGeometry relative="1" as="geometry" />
@@ -3157,18 +3169,6 @@
         </mxCell>
         <mxCell id="5Pd5KD2uUXG6oOKZhlRU-5" edge="1" parent="1" source="5Pd5KD2uUXG6oOKZhlRU-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="EXahoBi8N_f_pk358-Yt-11">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jqcUngUZ5n67goPmX3PR-33" edge="1" parent="1" source="_y7RdQqjLD-7aHaszyTe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jqcUngUZ5n67goPmX3PR-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_y7RdQqjLD-7aHaszyTe-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Dua Kali pada Stok di List Barang" vertex="1">
-          <mxGeometry height="50" width="100" x="220" y="724" as="geometry" />
-        </mxCell>
-        <mxCell id="jqcUngUZ5n67goPmX3PR-34" edge="1" parent="1" source="jqcUngUZ5n67goPmX3PR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jqcUngUZ5n67goPmX3PR-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jqcUngUZ5n67goPmX3PR-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty Stok Terbaru" vertex="1">
-          <mxGeometry height="50" width="100" x="220" y="804" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-5" edge="1" parent="1" source="jqcUngUZ5n67goPmX3PR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jqcUngUZ5n67goPmX3PR-4">
           <mxGeometry relative="1" as="geometry" />
