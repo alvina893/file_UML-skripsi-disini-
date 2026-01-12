@@ -6529,11 +6529,11 @@
         <mxCell id="MIHANVPPqOJJCQrdcRwr-3" parent="MIHANVPPqOJJCQrdcRwr-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="1380" width="350" x="130" y="-50" as="geometry" />
         </mxCell>
-        <mxCell id="kgrrvuUJKmaN0EFLqywZ-0" edge="1" parent="MIHANVPPqOJJCQrdcRwr-3" source="MIHANVPPqOJJCQrdcRwr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="llfFz4JNIfqrBsxdlPvl-0">
+        <mxCell id="kgrrvuUJKmaN0EFLqywZ-2" edge="1" parent="MIHANVPPqOJJCQrdcRwr-3" source="MIHANVPPqOJJCQrdcRwr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="llfFz4JNIfqrBsxdlPvl-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-4" parent="MIHANVPPqOJJCQrdcRwr-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
-          <mxGeometry height="22" width="23" x="163.5" y="31" as="geometry" />
+          <mxGeometry height="22" width="23" x="68.5" y="50" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-7" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Scan Barang" vertex="1">
           <mxGeometry height="50" width="100" x="55" y="193" as="geometry" />
@@ -6683,7 +6683,7 @@
           <mxGeometry height="50" width="100" x="117" y="276" as="geometry" />
         </mxCell>
         <mxCell id="llfFz4JNIfqrBsxdlPvl-0" parent="MIHANVPPqOJJCQrdcRwr-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="125" y="70" as="geometry" />
+          <mxGeometry height="50" width="100" x="125" y="50" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-83" parent="MIHANVPPqOJJCQrdcRwr-3" style="rhombus;whiteSpace=wrap;html=1;" value="metode input" vertex="1">
           <mxGeometry height="40" width="86" x="132" y="130" as="geometry" />
@@ -6725,7 +6725,7 @@
           <mxGeometry height="1380" width="260" x="480" y="-50" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-42" parent="MIHANVPPqOJJCQrdcRwr-41" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="50" width="100" x="80" y="70" as="geometry" />
+          <mxGeometry height="50" width="100" x="80" y="36" as="geometry" />
         </mxCell>
         <mxCell id="MIHANVPPqOJJCQrdcRwr-43" parent="MIHANVPPqOJJCQrdcRwr-41" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Hitung Total Semua Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="491" as="geometry" />
