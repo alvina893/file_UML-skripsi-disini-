@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2453" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2174" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10031,7 +10031,7 @@
           <mxGeometry height="1160" width="360" x="3400" as="geometry" />
         </mxCell>
         <mxCell id="GrSHBEEx4EimilLz5uOu-144" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Input Pengajuan Pengembalian" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="390" as="geometry" />
+          <mxGeometry height="60" width="120" x="184" y="390" as="geometry" />
         </mxCell>
         <mxCell id="I5HDm6KOtCkL4xNGEPID-3" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="GrSHBEEx4EimilLz5uOu-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="I5HDm6KOtCkL4xNGEPID-1">
           <mxGeometry relative="1" as="geometry" />
@@ -10049,7 +10049,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1AtLZ-m7N75qDjocwgRn-0" parent="GrSHBEEx4EimilLz5uOu-143" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Cek Barang di Gudang" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="215" as="geometry" />
+          <mxGeometry height="60" width="120" x="184" y="215" as="geometry" />
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-2" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="B2nOSMLKvsT6MS4eSP2T-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GrSHBEEx4EimilLz5uOu-144">
           <mxGeometry relative="1" as="geometry" />
@@ -10060,10 +10060,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-0" parent="GrSHBEEx4EimilLz5uOu-143" style="rhombus;whiteSpace=wrap;html=1;" value="barang berkendala?" vertex="1">
-          <mxGeometry height="55" width="100" x="170" y="300" as="geometry" />
+          <mxGeometry height="55" width="100" x="194" y="300" as="geometry" />
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-4" parent="GrSHBEEx4EimilLz5uOu-143" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="20" y="302.5" as="geometry" />
+          <mxGeometry height="50" width="100" x="50" y="305" as="geometry" />
         </mxCell>
         <mxCell id="B2nOSMLKvsT6MS4eSP2T-7" edge="1" parent="GrSHBEEx4EimilLz5uOu-143" source="B2nOSMLKvsT6MS4eSP2T-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="B2nOSMLKvsT6MS4eSP2T-4">
           <mxGeometry relative="1" as="geometry" />
@@ -10092,7 +10092,7 @@
           <mxGeometry height="60" width="120" x="200" y="750" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-4" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Delivery" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="482.5" as="geometry" />
+          <mxGeometry height="60" width="120" x="56" y="482.5" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-6" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Print Struk Penjualan Pickup" vertex="1">
           <mxGeometry height="60" width="120" x="200" y="560" as="geometry" />
@@ -10250,7 +10250,7 @@
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-5" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="BSQz0o5BEo8ocAMyGgzD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="BSQz0o5BEo8ocAMyGgzD-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3500" y="635" />
+              <mxPoint x="3516" y="635" />
             </Array>
           </mxGeometry>
         </mxCell>
