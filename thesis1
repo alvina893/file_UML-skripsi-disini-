@@ -5093,7 +5093,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="admin-activity-penjualanLangsung" id="N8hfmSOxxlTzyKM_9B-M">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="693" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-0" />
         <mxCell id="eQVyr0f1tNnmLrwFSp-Q-1" parent="eQVyr0f1tNnmLrwFSp-Q-0" />
@@ -5424,6 +5424,9 @@
               <mxPoint x="410" y="1080" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2gNqX_-1sDcMwW1wDK9w-0" parent="eQVyr0f1tNnmLrwFSp-Q-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
+          <mxGeometry height="50" width="100" x="300" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
