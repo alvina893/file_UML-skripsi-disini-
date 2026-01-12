@@ -8050,7 +8050,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="use case-admin-kasir-karyawan" id="aXokJk37Y9OfLzogQLj5">
-    <mxGraphModel dx="629" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="MM1PgJB5sDvGe2ciH064-0" />
         <mxCell id="MM1PgJB5sDvGe2ciH064-1" parent="MM1PgJB5sDvGe2ciH064-0" />
@@ -8802,7 +8802,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1258" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="1608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9406,7 +9406,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-211" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-273" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9824,7 +9824,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-1316" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-974" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
