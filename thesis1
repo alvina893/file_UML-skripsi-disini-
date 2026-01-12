@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2011" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2174" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10269,6 +10269,34 @@
           <mxGeometry relative="1" x="-0.8339" y="-2" as="geometry">
             <mxPoint x="43" y="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4xQnAXxLPDDi6xj7AhHM-0" parent="GrSHBEEx4EimilLz5uOu-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
+          <mxGeometry height="50" width="100" x="4078" y="1228" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQnAXxLPDDi6xj7AhHM-1" parent="GrSHBEEx4EimilLz5uOu-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Keluar dari Sistem" vertex="1">
+          <mxGeometry height="60" width="120" x="3927" y="1223" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQnAXxLPDDi6xj7AhHM-2" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="4xQnAXxLPDDi6xj7AhHM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="4xQnAXxLPDDi6xj7AhHM-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQnAXxLPDDi6xj7AhHM-3" parent="GrSHBEEx4EimilLz5uOu-1" style="rhombus;whiteSpace=wrap;html=1;" value="jam kerja&lt;div&gt;selesai?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="100" x="3779.75" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQnAXxLPDDi6xj7AhHM-4" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="4xQnAXxLPDDi6xj7AhHM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="4xQnAXxLPDDi6xj7AhHM-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3830.25" y="1210.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xQnAXxLPDDi6xj7AhHM-5" connectable="0" parent="4xQnAXxLPDDi6xj7AhHM-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
+          <mxGeometry relative="1" x="-0.1391" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xQnAXxLPDDi6xj7AhHM-6" parent="GrSHBEEx4EimilLz5uOu-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Logout" vertex="1">
+          <mxGeometry height="60" width="120" x="3770" y="1223" as="geometry" />
+        </mxCell>
+        <mxCell id="4xQnAXxLPDDi6xj7AhHM-7" edge="1" parent="GrSHBEEx4EimilLz5uOu-1" source="4xQnAXxLPDDi6xj7AhHM-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="4xQnAXxLPDDi6xj7AhHM-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
