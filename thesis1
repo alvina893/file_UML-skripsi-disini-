@@ -9954,7 +9954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2174" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1663" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10107,18 +10107,18 @@
           <mxGeometry height="70" width="125" x="20" y="950" as="geometry" />
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-8" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="180" y="780" as="geometry" />
+          <mxGeometry height="50" width="100" x="160" y="780" as="geometry" />
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-9" edge="1" parent="GrSHBEEx4EimilLz5uOu-147" source="i7035qa9T7u2WR2KUIBv-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="i7035qa9T7u2WR2KUIBv-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-10" parent="GrSHBEEx4EimilLz5uOu-147" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="180" y="890" as="geometry" />
+          <mxGeometry height="50" width="100" x="160" y="890" as="geometry" />
         </mxCell>
         <mxCell id="i7035qa9T7u2WR2KUIBv-11" edge="1" parent="GrSHBEEx4EimilLz5uOu-147" source="i7035qa9T7u2WR2KUIBv-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" target="i7035qa9T7u2WR2KUIBv-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="968" />
+              <mxPoint x="210" y="968" />
             </Array>
           </mxGeometry>
         </mxCell>
