@@ -4604,7 +4604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="karyawan-activity-pengembalian" id="xfdz4Cy4TYtA-JAfU7Ya">
-    <mxGraphModel dx="542" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-0" />
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-1" parent="pJdGSmwLWUdJQ1yrRtWR-0" />
@@ -4625,12 +4625,6 @@
         </mxCell>
         <mxCell id="pJdGSmwLWUdJQ1yrRtWR-11" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Scan Barang" vertex="1">
           <mxGeometry height="50" width="100" x="40" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="pJdGSmwLWUdJQ1yrRtWR-16" edge="1" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="809" as="sourcePoint" />
-            <mxPoint x="155" y="809" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JVqp3NThhDBlLh3byQOU-6" parent="pJdGSmwLWUdJQ1yrRtWR-3" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Pilih Barang" vertex="1">
           <mxGeometry height="50" width="100" x="80" y="320" as="geometry" />
