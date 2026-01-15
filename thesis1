@@ -3121,7 +3121,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f5u25KnTtSxhrPYpN8t4-1" parent="EMKHfyKzKm_afmR1EEB3-5" style="rounded=1;whiteSpace=wrap;html=1;" value="Simpan Supplier Baru" vertex="1">
-          <mxGeometry height="50" width="100" x="16.5" y="410" as="geometry" />
+          <mxGeometry height="50" width="100" x="21.5" y="410" as="geometry" />
         </mxCell>
         <mxCell id="EMKHfyKzKm_afmR1EEB3-26" edge="1" parent="1" source="EMKHfyKzKm_afmR1EEB3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EMKHfyKzKm_afmR1EEB3-7">
           <mxGeometry relative="1" as="geometry" />
