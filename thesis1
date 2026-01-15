@@ -3097,7 +3097,7 @@
         </mxCell>
         <mxCell id="vuhoEY1uysUI-f0eIs5b-9" connectable="0" parent="vuhoEY1uysUI-f0eIs5b-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
           <mxGeometry relative="1" x="-0.8092" as="geometry">
-            <mxPoint x="5" as="offset" />
+            <mxPoint x="21" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vuhoEY1uysUI-f0eIs5b-3" parent="EXahoBi8N_f_pk358-Yt-1" style="rhombus;whiteSpace=wrap;html=1;" value="stok gudang beda?" vertex="1">
