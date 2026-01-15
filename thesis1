@@ -2629,7 +2629,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-5" parent="rr1PyKb1GMVAlypoOTI2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Pengguna (Users)&#39;" vertex="1">
-          <mxGeometry height="50" width="100" x="75" y="170" as="geometry" />
+          <mxGeometry height="50" width="100" x="75" y="175" as="geometry" />
         </mxCell>
         <mxCell id="HseowBRlugHPGg2fRjxk-1" edge="1" parent="rr1PyKb1GMVAlypoOTI2-2" source="rr1PyKb1GMVAlypoOTI2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="HseowBRlugHPGg2fRjxk-0">
           <mxGeometry relative="1" as="geometry" />
@@ -2641,7 +2641,7 @@
           <mxGeometry height="50" width="100" x="75" y="330" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-8" parent="rr1PyKb1GMVAlypoOTI2-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="75" y="90" as="geometry" />
+          <mxGeometry height="50" width="100" x="75" y="80" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-21" edge="1" parent="rr1PyKb1GMVAlypoOTI2-2" source="rr1PyKb1GMVAlypoOTI2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rr1PyKb1GMVAlypoOTI2-8">
           <mxGeometry relative="1" as="geometry" />
@@ -2662,7 +2662,7 @@
           <mxGeometry height="700" width="240" x="-600" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-10" parent="rr1PyKb1GMVAlypoOTI2-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="50" width="100" x="61.58" y="90" as="geometry" />
+          <mxGeometry height="50" width="100" x="61.58" y="80" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-19" parent="rr1PyKb1GMVAlypoOTI2-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Form Popup Reset Password" vertex="1">
           <mxGeometry height="50" width="100" x="61.58" y="330" as="geometry" />
