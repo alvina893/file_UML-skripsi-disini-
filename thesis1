@@ -4225,7 +4225,7 @@
         <mxCell id="8MQuDtOoMOxr4twr4bTz-0" />
         <mxCell id="8MQuDtOoMOxr4twr4bTz-1" parent="8MQuDtOoMOxr4twr4bTz-0" />
         <mxCell id="8MQuDtOoMOxr4twr4bTz-2" parent="8MQuDtOoMOxr4twr4bTz-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="300" width="541" x="190" y="710" as="geometry" />
+          <mxGeometry height="300" width="531" x="200" y="710" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-3" parent="8MQuDtOoMOxr4twr4bTz-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
           <mxGeometry height="1040" width="280" x="130" as="geometry" />
@@ -4243,7 +4243,7 @@
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-8" connectable="0" parent="8MQuDtOoMOxr4twr4bTz-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Perlu ubah stok barang gudang" vertex="1">
-          <mxGeometry x="150" y="710" as="geometry" />
+          <mxGeometry x="156" y="710" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-9" parent="8MQuDtOoMOxr4twr4bTz-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="894" as="geometry" />
