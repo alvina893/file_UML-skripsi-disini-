@@ -3306,12 +3306,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZkdKDVLzf9ZRBfxSJ7LL" name="admin-activity-pembelian">
-    <mxGraphModel dx="1516" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="809" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qSfW9CH8Ka733of-UM4c-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="664" width="590" x="20" y="296" as="geometry" />
+          <mxGeometry height="674" width="590" x="20" y="296" as="geometry" />
         </mxCell>
         <mxCell id="qSfW9CH8Ka733of-UM4c-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="1250" width="370" as="geometry" />
@@ -3372,7 +3372,7 @@
         </mxCell>
         <mxCell id="SuVjZF49dqDCrhD6TU1W-1" connectable="0" parent="V6v30hVfR8jZXQF5jndL-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
           <mxGeometry relative="1" x="-0.1138" y="2" as="geometry">
-            <mxPoint x="-2" as="offset" />
+            <mxPoint x="-2" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CVOz3VTjPCm7RbOz1h-t-1" parent="qSfW9CH8Ka733of-UM4c-1" style="rhombus;whiteSpace=wrap;html=1;" value="ada barangnya?" vertex="1">
