@@ -2619,7 +2619,7 @@
       <root>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-0" />
         <mxCell id="rr1PyKb1GMVAlypoOTI2-1" parent="rr1PyKb1GMVAlypoOTI2-0" />
-        <mxCell id="rr1PyKb1GMVAlypoOTI2-2" parent="rr1PyKb1GMVAlypoOTI2-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengguna (User)" vertex="1">
+        <mxCell id="rr1PyKb1GMVAlypoOTI2-2" parent="rr1PyKb1GMVAlypoOTI2-1" style="swimlane;whiteSpace=wrap;html=1;" value="Administrator" vertex="1">
           <mxGeometry height="700" width="250" x="-850" as="geometry" />
         </mxCell>
         <mxCell id="rr1PyKb1GMVAlypoOTI2-3" parent="rr1PyKb1GMVAlypoOTI2-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
