@@ -2532,12 +2532,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TjjgekzDuZisRvIzVVK_" name="admin-activity-login">
-    <mxGraphModel dx="786" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="segYk1lWUch8yqNIUHLY-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pengguna (User)" vertex="1">
-          <mxGeometry height="570" width="200" as="geometry" />
+          <mxGeometry height="540" width="200" as="geometry" />
         </mxCell>
         <mxCell id="_RYvpxEGwJmtoQe-EZwO-1" parent="segYk1lWUch8yqNIUHLY-1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="88.5" y="40" as="geometry" />
@@ -2552,7 +2552,7 @@
           <mxGeometry height="50" width="100" x="50" y="250" as="geometry" />
         </mxCell>
         <mxCell id="segYk1lWUch8yqNIUHLY-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="570" width="240" x="200" as="geometry" />
+          <mxGeometry height="540" width="240" x="200" as="geometry" />
         </mxCell>
         <mxCell id="_RYvpxEGwJmtoQe-EZwO-3" parent="segYk1lWUch8yqNIUHLY-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
           <mxGeometry height="50" width="100" x="-150" y="90" as="geometry" />
@@ -2597,10 +2597,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_RYvpxEGwJmtoQe-EZwO-17" parent="segYk1lWUch8yqNIUHLY-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan Main Form Pengguna" vertex="1">
-          <mxGeometry height="50" width="100" x="61.58" y="430" as="geometry" />
+          <mxGeometry height="50" width="100" x="61.58" y="418" as="geometry" />
         </mxCell>
         <mxCell id="_RYvpxEGwJmtoQe-EZwO-21" parent="segYk1lWUch8yqNIUHLY-2" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="96.58" y="520" as="geometry" />
+          <mxGeometry height="30" width="30" x="96.58" y="493" as="geometry" />
         </mxCell>
         <mxCell id="_RYvpxEGwJmtoQe-EZwO-6" edge="1" parent="1" source="_RYvpxEGwJmtoQe-EZwO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_RYvpxEGwJmtoQe-EZwO-3">
           <mxGeometry relative="1" as="geometry" />
