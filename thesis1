@@ -3045,12 +3045,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WHuSyiZR5QvUj76w856L" name="admin-activity-stok">
-    <mxGraphModel dx="564" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1348" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_y7RdQqjLD-7aHaszyTe-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="250" width="580" x="21" y="640" as="geometry" />
+          <mxGeometry height="250" width="571" x="30" y="640" as="geometry" />
         </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="910" width="280" as="geometry" />
@@ -3068,7 +3068,7 @@
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-1" connectable="0" parent="EXahoBi8N_f_pk358-Yt-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Perlu ubah stok barang gudang" vertex="1">
-          <mxGeometry x="110" y="640" as="geometry" />
+          <mxGeometry x="116" y="640" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-3" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="824" as="geometry" />
@@ -3088,8 +3088,8 @@
         <mxCell id="vuhoEY1uysUI-f0eIs5b-7" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="vuhoEY1uysUI-f0eIs5b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_y7RdQqjLD-7aHaszyTe-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="30" y="305" />
-              <mxPoint x="30" y="689" />
+              <mxPoint x="20" y="305" />
+              <mxPoint x="20" y="689" />
             </Array>
           </mxGeometry>
         </mxCell>
