@@ -3085,6 +3085,9 @@
         <mxCell id="jqcUngUZ5n67goPmX3PR-2" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input Qty Stok Terbaru" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="744" as="geometry" />
         </mxCell>
+        <mxCell id="vuhoEY1uysUI-f0eIs5b-3" parent="EXahoBi8N_f_pk358-Yt-1" style="rhombus;whiteSpace=wrap;html=1;" value="stok gudang beda?" vertex="1">
+          <mxGeometry height="40" width="75" x="102.5" y="550" as="geometry" />
+        </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-42" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="910" width="340" x="280" as="geometry" />
         </mxCell>
