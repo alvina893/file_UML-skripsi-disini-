@@ -4220,7 +4220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="karyawan-activity-stok" id="sMjPM19LBlH_slXTauT3">
-    <mxGraphModel dx="933" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1866" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-0" />
         <mxCell id="8MQuDtOoMOxr4twr4bTz-1" parent="8MQuDtOoMOxr4twr4bTz-0" />
@@ -4372,6 +4372,11 @@
               <mxPoint x="180" y="315" />
               <mxPoint x="180" y="710" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0AN16eXkGDhaHFj-95H1-0" connectable="0" parent="V2scqGRErUzTB5b-yB5r-0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="iya" vertex="1">
+          <mxGeometry relative="1" x="-0.5897" y="3" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
