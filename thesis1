@@ -4254,9 +4254,6 @@
         <mxCell id="8MQuDtOoMOxr4twr4bTz-10" parent="8MQuDtOoMOxr4twr4bTz-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1040" width="340" x="410" as="geometry" />
         </mxCell>
-        <mxCell id="8MQuDtOoMOxr4twr4bTz-11" edge="1" parent="8MQuDtOoMOxr4twr4bTz-10" source="8MQuDtOoMOxr4twr4bTz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8MQuDtOoMOxr4twr4bTz-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-12" parent="8MQuDtOoMOxr4twr4bTz-10" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan List Stok Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
         </mxCell>
@@ -4354,6 +4351,9 @@
           <mxGeometry height="50" width="100" x="220" y="814" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-44" edge="1" parent="8MQuDtOoMOxr4twr4bTz-1" source="8MQuDtOoMOxr4twr4bTz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MQuDtOoMOxr4twr4bTz-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8MQuDtOoMOxr4twr4bTz-11" edge="1" parent="8MQuDtOoMOxr4twr4bTz-1" source="8MQuDtOoMOxr4twr4bTz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dcl_z_Fvm8li7_AWSNwx-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
