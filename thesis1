@@ -3050,7 +3050,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_y7RdQqjLD-7aHaszyTe-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="240" width="530" x="30" y="640" as="geometry" />
+          <mxGeometry height="240" width="490" x="70" y="640" as="geometry" />
         </mxCell>
         <mxCell id="EXahoBi8N_f_pk358-Yt-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pemilik (Admin)" vertex="1">
           <mxGeometry height="900" width="280" as="geometry" />
@@ -3068,7 +3068,9 @@
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-1" connectable="0" parent="EXahoBi8N_f_pk358-Yt-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Perlu ubah stok barang gudang" vertex="1">
-          <mxGeometry x="116" y="640" as="geometry" />
+          <mxGeometry x="132" y="640" as="geometry">
+            <mxPoint x="23" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jqcUngUZ5n67goPmX3PR-3" parent="EXahoBi8N_f_pk358-Yt-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="813" as="geometry" />
@@ -3088,8 +3090,8 @@
         <mxCell id="vuhoEY1uysUI-f0eIs5b-7" edge="1" parent="EXahoBi8N_f_pk358-Yt-1" source="vuhoEY1uysUI-f0eIs5b-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_y7RdQqjLD-7aHaszyTe-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="20" y="305" />
-              <mxPoint x="20" y="689" />
+              <mxPoint x="50" y="305" />
+              <mxPoint x="50" y="689" />
             </Array>
           </mxGeometry>
         </mxCell>
