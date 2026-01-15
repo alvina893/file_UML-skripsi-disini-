@@ -4220,7 +4220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="karyawan-activity-stok" id="sMjPM19LBlH_slXTauT3">
-    <mxGraphModel dx="1042" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-0" />
         <mxCell id="8MQuDtOoMOxr4twr4bTz-1" parent="8MQuDtOoMOxr4twr4bTz-0" />
@@ -4247,6 +4247,9 @@
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-9" parent="8MQuDtOoMOxr4twr4bTz-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="894" as="geometry" />
+        </mxCell>
+        <mxCell id="Dcl_z_Fvm8li7_AWSNwx-0" parent="8MQuDtOoMOxr4twr4bTz-3" style="rhombus;whiteSpace=wrap;html=1;" value="stok gudang beda?" vertex="1">
+          <mxGeometry height="40" width="75" x="102.5" y="300" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-10" parent="8MQuDtOoMOxr4twr4bTz-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
           <mxGeometry height="1040" width="340" x="410" as="geometry" />
