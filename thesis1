@@ -3433,13 +3433,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-3" parent="dahKemnSM7VH1qRMd_MF-2" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
-          <mxGeometry height="22" width="23" x="44.25" y="54" as="geometry" />
+          <mxGeometry height="22" width="23" x="44.25" y="51" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-4" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Menu &#39;Stok Barang&#39;" vertex="1">
           <mxGeometry height="50" width="100" x="94.25" y="120" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-6" parent="dahKemnSM7VH1qRMd_MF-2" style="rounded=1;whiteSpace=wrap;html=1;" value="Buka Sistem" vertex="1">
-          <mxGeometry height="50" width="100" x="94.25" y="40" as="geometry" />
+          <mxGeometry height="50" width="100" x="94.25" y="37" as="geometry" />
         </mxCell>
         <mxCell id="z46HymlZt9gvfOL-1rAK-0" edge="1" parent="dahKemnSM7VH1qRMd_MF-2" source="KDdctBE9eMKrA6LH6f-A-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-11">
           <mxGeometry relative="1" as="geometry">
@@ -3486,7 +3486,7 @@
           <mxGeometry height="50" width="100" x="85" y="299" as="geometry" />
         </mxCell>
         <mxCell id="dahKemnSM7VH1qRMd_MF-26" parent="dahKemnSM7VH1qRMd_MF-7" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
-          <mxGeometry height="50" width="100" x="85" y="40" as="geometry" />
+          <mxGeometry height="50" width="100" x="85" y="37" as="geometry" />
         </mxCell>
         <mxCell id="51Qn_sreg3CHTERIG29W-1" edge="1" parent="dahKemnSM7VH1qRMd_MF-7" source="tdLoQLts1n676adYL69i-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="dahKemnSM7VH1qRMd_MF-25">
           <mxGeometry relative="1" as="geometry" />
