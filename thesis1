@@ -4220,12 +4220,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="karyawan-activity-stok" id="sMjPM19LBlH_slXTauT3">
-    <mxGraphModel dx="476" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-0" />
         <mxCell id="8MQuDtOoMOxr4twr4bTz-1" parent="8MQuDtOoMOxr4twr4bTz-0" />
         <mxCell id="8MQuDtOoMOxr4twr4bTz-2" parent="8MQuDtOoMOxr4twr4bTz-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="300" width="580" x="151" y="710" as="geometry" />
+          <mxGeometry height="300" width="541" x="190" y="710" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-3" parent="8MQuDtOoMOxr4twr4bTz-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
           <mxGeometry height="1040" width="280" x="130" as="geometry" />
@@ -4243,7 +4243,7 @@
           <mxGeometry height="50" width="100" x="90" y="90" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-8" connectable="0" parent="8MQuDtOoMOxr4twr4bTz-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Perlu ubah stok barang gudang" vertex="1">
-          <mxGeometry x="110" y="710" as="geometry" />
+          <mxGeometry x="150" y="710" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-9" parent="8MQuDtOoMOxr4twr4bTz-3" style="rounded=1;whiteSpace=wrap;html=1;" value="Klik Tombol Update Stok" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="894" as="geometry" />
@@ -4362,6 +4362,14 @@
         <mxCell id="eJBAgY3aa-XR8nmrf92V-1" connectable="0" parent="eJBAgY3aa-XR8nmrf92V-0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tidak" vertex="1">
           <mxGeometry relative="1" x="-0.7561" y="2" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2scqGRErUzTB5b-yB5r-0" edge="1" parent="8MQuDtOoMOxr4twr4bTz-1" source="Dcl_z_Fvm8li7_AWSNwx-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="8MQuDtOoMOxr4twr4bTz-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="315" />
+              <mxPoint x="180" y="759" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
