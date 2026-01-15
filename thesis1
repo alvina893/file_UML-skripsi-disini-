@@ -4228,7 +4228,7 @@
           <mxGeometry height="250" width="490" x="200" y="660" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-3" parent="8MQuDtOoMOxr4twr4bTz-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
-          <mxGeometry height="1040" width="280" x="130" as="geometry" />
+          <mxGeometry height="930" width="280" x="130" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-4" parent="8MQuDtOoMOxr4twr4bTz-3" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
           <mxGeometry height="22" width="23" x="128.5" y="40" as="geometry" />
@@ -4252,7 +4252,7 @@
           <mxGeometry height="40" width="75" x="102.5" y="295" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-10" parent="8MQuDtOoMOxr4twr4bTz-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="1040" width="340" x="410" as="geometry" />
+          <mxGeometry height="930" width="340" x="410" as="geometry" />
         </mxCell>
         <mxCell id="8MQuDtOoMOxr4twr4bTz-12" parent="8MQuDtOoMOxr4twr4bTz-10" style="rounded=1;whiteSpace=wrap;html=1;" value="Tampilkan List Stok Barang" vertex="1">
           <mxGeometry height="50" width="100" x="105" y="200" as="geometry" />
