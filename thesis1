@@ -3760,7 +3760,7 @@
           <mxGeometry height="50" width="100" x="685" y="960" as="geometry" />
         </mxCell>
         <mxCell id="j0s5wpUXIwvH33bu0CoQ-25" parent="z59YmqfFuoYk1kjF_Vfo-1" style="rounded=1;whiteSpace=wrap;html=1;flipH=0;flipV=1;" value="Simpan Perubahan Harga" vertex="1">
-          <mxGeometry height="50" width="100" x="558" y="960" as="geometry" />
+          <mxGeometry height="50" width="100" x="564" y="960" as="geometry" />
         </mxCell>
         <mxCell id="TibE66zZKusDmeTpOTuT-3" edge="1" parent="z59YmqfFuoYk1kjF_Vfo-1" source="j0s5wpUXIwvH33bu0CoQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="j0s5wpUXIwvH33bu0CoQ-27">
           <mxGeometry relative="1" as="geometry" />
