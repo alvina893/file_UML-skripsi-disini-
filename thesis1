@@ -4405,7 +4405,7 @@
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-0" />
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-1" parent="eF6SpXMjWzmOuT8ZaSOb-0" />
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-2" parent="eF6SpXMjWzmOuT8ZaSOb-1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
-          <mxGeometry height="530" width="310" x="130" as="geometry" />
+          <mxGeometry height="520" width="310" x="130" as="geometry" />
         </mxCell>
         <mxCell id="Y_ytN_I_npWYknBbbkdm-1" edge="1" parent="eF6SpXMjWzmOuT8ZaSOb-2" source="eF6SpXMjWzmOuT8ZaSOb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eF6SpXMjWzmOuT8ZaSOb-4">
           <mxGeometry relative="1" as="geometry" />
@@ -4432,10 +4432,10 @@
           <mxGeometry height="50" width="100" x="105" y="310" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-19" parent="eF6SpXMjWzmOuT8ZaSOb-2" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Klik Update&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="100" x="105" y="460" as="geometry" />
+          <mxGeometry height="50" width="100" x="105" y="450" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-13" parent="eF6SpXMjWzmOuT8ZaSOb-1" style="swimlane;whiteSpace=wrap;html=1;" value="Sistem" vertex="1">
-          <mxGeometry height="530" width="280" x="440" as="geometry" />
+          <mxGeometry height="520" width="280" x="440" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-14" parent="eF6SpXMjWzmOuT8ZaSOb-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Login" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="40" as="geometry" />
@@ -4447,16 +4447,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-17" parent="eF6SpXMjWzmOuT8ZaSOb-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Update Penjualan Delivery" vertex="1">
-          <mxGeometry height="50" width="100" x="15" y="460" as="geometry" />
+          <mxGeometry height="50" width="100" x="15" y="450" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-20" parent="eF6SpXMjWzmOuT8ZaSOb-13" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
-          <mxGeometry height="30" width="30" x="243" y="470" as="geometry" />
+          <mxGeometry height="30" width="30" x="243" y="460" as="geometry" />
         </mxCell>
         <mxCell id="Y_ytN_I_npWYknBbbkdm-4" edge="1" parent="eF6SpXMjWzmOuT8ZaSOb-13" source="eF6SpXMjWzmOuT8ZaSOb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="eF6SpXMjWzmOuT8ZaSOb-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-23" parent="eF6SpXMjWzmOuT8ZaSOb-13" style="rounded=1;whiteSpace=wrap;html=1;" value="Refresh List Penjualan Delivery" vertex="1">
-          <mxGeometry height="50" width="100" x="129" y="460" as="geometry" />
+          <mxGeometry height="50" width="100" x="129" y="450" as="geometry" />
         </mxCell>
         <mxCell id="eF6SpXMjWzmOuT8ZaSOb-24" parent="eF6SpXMjWzmOuT8ZaSOb-13" style="rounded=1;whiteSpace=wrap;html=1;flipV=1;" value="Tampilkan Form PopUp Update Status" vertex="1">
           <mxGeometry height="50" width="100" x="90" y="310" as="geometry" />
