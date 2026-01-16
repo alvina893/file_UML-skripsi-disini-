@@ -8848,7 +8848,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="2246" dy="1420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="524" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9114,7 +9114,7 @@
             <mxPoint x="575.0000000000002" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8parfckR2CZ24kqbwVu-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
+        <mxCell id="E8parfckR2CZ24kqbwVu-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Pelanggan" vertex="1">
           <mxGeometry height="1780" width="200" x="1052" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-30" parent="E8parfckR2CZ24kqbwVu-31" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
@@ -9452,7 +9452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-128" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1158" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9589,7 +9589,7 @@
         <mxCell id="7EH5S4hUoR7nKpb-Wo7m-2" parent="ibdLh96HV3ljDS0WLSE7-93" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Logout" vertex="1">
           <mxGeometry height="60" width="120" x="230" y="1172.5" as="geometry" />
         </mxCell>
-        <mxCell id="ibdLh96HV3ljDS0WLSE7-107" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
+        <mxCell id="ibdLh96HV3ljDS0WLSE7-107" parent="ibdLh96HV3ljDS0WLSE7-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pelanggan" vertex="1">
           <mxGeometry height="1260" width="200" x="2510" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-108" parent="ibdLh96HV3ljDS0WLSE7-107" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
@@ -9870,7 +9870,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KARYAWAN - ASI BARU" id="LH18bMnRJPnuXbBNgNv5">
-    <mxGraphModel dx="-2277" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-2951" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="GrSHBEEx4EimilLz5uOu-0" />
         <mxCell id="GrSHBEEx4EimilLz5uOu-1" parent="GrSHBEEx4EimilLz5uOu-0" />
@@ -10045,7 +10045,7 @@
         <mxCell id="4xQnAXxLPDDi6xj7AhHM-6" parent="GrSHBEEx4EimilLz5uOu-143" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Logout" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="1087" as="geometry" />
         </mxCell>
-        <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pembeli" vertex="1">
+        <mxCell id="GrSHBEEx4EimilLz5uOu-147" parent="GrSHBEEx4EimilLz5uOu-1" style="swimlane;whiteSpace=wrap;html=1;" value="Pelanggan" vertex="1">
           <mxGeometry height="1170" width="300" x="4130" as="geometry" />
         </mxCell>
         <mxCell id="BSQz0o5BEo8ocAMyGgzD-2" parent="GrSHBEEx4EimilLz5uOu-147" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Datang Ambil&lt;div&gt;Barang&lt;/div&gt;" vertex="1">
