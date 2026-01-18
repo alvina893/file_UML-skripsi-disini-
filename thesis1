@@ -8849,7 +8849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1055" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2426" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9158,7 +9158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-31" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Pelanggan" vertex="1">
-          <mxGeometry height="1840" width="200" x="1052" as="geometry" />
+          <mxGeometry height="1840" width="318" x="1052" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-30" parent="E8parfckR2CZ24kqbwVu-31" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="125" x="37.5" y="800" as="geometry" />
@@ -9187,7 +9187,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
-          <mxGeometry height="1840" width="200" x="1252" as="geometry" />
+          <mxGeometry height="1840" width="200" x="1367.5" as="geometry" />
         </mxCell>
         <mxCell id="mW7wtoV3D0ycJdYA-XbY-2" edge="1" parent="RSNvkmNOCWiIMSWsXGV9-10" source="RSNvkmNOCWiIMSWsXGV9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="KFmlhU38JZBsR2kWr4cB-1">
           <mxGeometry relative="1" as="geometry">
@@ -9214,7 +9214,7 @@
           <mxGeometry height="10" width="112.5" x="43.75" y="992" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Database" vertex="1">
-          <mxGeometry height="1840" width="308" x="1452" as="geometry" />
+          <mxGeometry height="1840" width="308" x="1567.5" as="geometry" />
         </mxCell>
         <mxCell id="Ey4plcRIesOVcDyoCzdK-42" parent="Ey4plcRIesOVcDyoCzdK-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Point of Sale Database:&lt;div&gt;&lt;br&gt;&lt;div&gt;-tbluser&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblsupplier&lt;/div&gt;&lt;div&gt;-tblbarang&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;-tblpembelian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-tbldetailpembelian&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblpenjualan&lt;/div&gt;&lt;div&gt;-tbldetailpenjualan&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-tblpengembalian&lt;/div&gt;&lt;div&gt;-tbldetailpengembalian&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="521" width="190" x="88" y="527" as="geometry" />
@@ -9241,7 +9241,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="491" y="1300" />
-              <mxPoint x="1635" y="1300" />
+              <mxPoint x="1751" y="1300" />
             </Array>
             <mxPoint x="1450" y="1257" as="targetPoint" />
           </mxGeometry>
@@ -9286,7 +9286,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="497" y="1440" />
-              <mxPoint x="1680" y="1440" />
+              <mxPoint x="1796" y="1440" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -9456,13 +9456,13 @@
         <mxCell id="OKtUdm6z0JofQI2mP0lA-28" edge="1" parent="1" source="Ey4plcRIesOVcDyoCzdK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="OKtUdm6z0JofQI2mP0lA-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1702" y="1613" />
+              <mxPoint x="1818" y="1613" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-29" connectable="0" parent="OKtUdm6z0JofQI2mP0lA-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblbarang,&lt;div&gt;tblpembelian, tbldetailpembelian,&lt;/div&gt;&lt;div&gt;tblpenjualan, tbldetailpenjualan&lt;/div&gt;&lt;div&gt;tblpengembalian, tbldetailpengembalian&lt;/div&gt;&lt;div&gt;tblsupplier&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0056" y="3" as="geometry">
-            <mxPoint x="34" y="-3" as="offset" />
+            <mxPoint x="97" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-1" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PRA" vertex="1">
