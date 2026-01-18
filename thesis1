@@ -9465,7 +9465,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1044" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-965" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9676,10 +9676,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n4IB0Q-cTUuTRlWXZEab-8" parent="ibdLh96HV3ljDS0WLSE7-107" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PRKS" vertex="1">
-          <mxGeometry height="30" width="50" x="236.13" y="382.5" as="geometry" />
+          <mxGeometry height="30" width="50" x="226.13" y="382.5" as="geometry" />
         </mxCell>
         <mxCell id="n4IB0Q-cTUuTRlWXZEab-9" parent="ibdLh96HV3ljDS0WLSE7-107" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Role&lt;div&gt;Kasir&lt;/div&gt;" vertex="1">
-          <mxGeometry height="8" width="85" x="218.63" y="418" as="geometry" />
+          <mxGeometry height="8" width="85" x="208.63" y="420" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-110" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-90">
           <mxGeometry relative="1" as="geometry">
