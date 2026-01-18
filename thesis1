@@ -9534,7 +9534,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1136" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="726" dy="1286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9834,7 +9834,7 @@
         <mxCell id="ZM3zWmXH-wQxTuV-R2jI-0" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ku4GZSpMCQ4sKKJ71Osj-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;jumpStyle=sharp;" target="LbZz36-S-iRvit2lsa2p-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3095" y="252" />
+              <mxPoint x="3185" y="252" />
             </Array>
             <mxPoint x="3020" y="390" as="sourcePoint" />
           </mxGeometry>
