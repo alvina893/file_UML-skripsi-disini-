@@ -9154,7 +9154,7 @@
           <mxGeometry height="60" width="120" x="40" y="580" as="geometry" />
         </mxCell>
         <mxCell id="n1AbUn06-JNY-v_4KGUO-5" parent="E8parfckR2CZ24kqbwVu-31" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="40" as="geometry" />
+          <mxGeometry height="50" width="100" x="50" y="100" as="geometry" />
         </mxCell>
         <mxCell id="n1AbUn06-JNY-v_4KGUO-6" edge="1" parent="E8parfckR2CZ24kqbwVu-31" source="n1AbUn06-JNY-v_4KGUO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=sharp;exitPerimeter=0;" target="n1AbUn06-JNY-v_4KGUO-4">
           <mxGeometry relative="1" as="geometry">
