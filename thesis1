@@ -8849,7 +8849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1733" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1427" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9446,7 +9446,7 @@
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-29" connectable="0" parent="OKtUdm6z0JofQI2mP0lA-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="tblbarang,&lt;div&gt;tblpembelian, tbldetailpembelian,&lt;/div&gt;&lt;div&gt;tblpenjualan, tbldetailpenjualan&lt;/div&gt;&lt;div&gt;tblpengembalian, tbldetailpengembalian&lt;/div&gt;&lt;div&gt;tblsupplier&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="0.0056" y="3" as="geometry">
-            <mxPoint x="34" y="-3" as="offset" />
+            <mxPoint x="-3" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-1" parent="1" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PRA" vertex="1">
