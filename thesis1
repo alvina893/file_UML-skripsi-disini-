@@ -9190,10 +9190,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-2" parent="E8parfckR2CZ24kqbwVu-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Role&lt;div&gt;Admin&lt;/div&gt;" vertex="1">
-          <mxGeometry height="8" width="85" x="60" y="646" as="geometry" />
+          <mxGeometry height="8" width="85" x="121.58" y="654.5" as="geometry" />
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-1" parent="E8parfckR2CZ24kqbwVu-31" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PRA" vertex="1">
-          <mxGeometry height="30" width="50" x="77.5" y="610" as="geometry" />
+          <mxGeometry height="30" width="50" x="139.07999999999998" y="618.5" as="geometry" />
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-3" parent="E8parfckR2CZ24kqbwVu-31" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PRKS" vertex="1">
           <mxGeometry height="30" width="50" x="230.5" y="617" as="geometry" />
@@ -9209,12 +9209,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OwU0FXxL1iChbjqaysLv-6" edge="1" parent="E8parfckR2CZ24kqbwVu-31" source="z8crN-hFsO_nH5RkgcaQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="OzliORfbg-O8t60Of8oP-1">
+        <mxCell id="OwU0FXxL1iChbjqaysLv-6" edge="1" parent="E8parfckR2CZ24kqbwVu-31" source="z8crN-hFsO_nH5RkgcaQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OzliORfbg-O8t60Of8oP-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="600" />
-              <mxPoint x="198" y="600" />
-              <mxPoint x="198" y="625" />
+              <mxPoint x="164" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
