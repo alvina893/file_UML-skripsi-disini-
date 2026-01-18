@@ -9465,7 +9465,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-1062" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-965" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9669,7 +9669,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n4IB0Q-cTUuTRlWXZEab-0" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="ketemu&lt;div&gt;pengguna&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="100" x="170" y="330" as="geometry" />
+          <mxGeometry height="55" width="100" x="171" y="330" as="geometry" />
         </mxCell>
         <mxCell id="n4IB0Q-cTUuTRlWXZEab-2" parent="ibdLh96HV3ljDS0WLSE7-107" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PRA" vertex="1">
           <mxGeometry height="30" width="50" x="195" y="400" as="geometry" />
