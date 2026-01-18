@@ -9661,7 +9661,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="n4IB0Q-cTUuTRlWXZEab-7" edge="1" parent="ibdLh96HV3ljDS0WLSE7-107" source="n4IB0Q-cTUuTRlWXZEab-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0_2a6CDxrBBb68uDrgf--0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="371" />
+              <mxPoint x="170" y="398" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="n4IB0Q-cTUuTRlWXZEab-0" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="ketemu&lt;div&gt;pengguna&lt;/div&gt;" vertex="1">
           <mxGeometry height="55" width="100" x="170" y="330" as="geometry" />
