@@ -9650,15 +9650,15 @@
         <mxCell id="n4IB0Q-cTUuTRlWXZEab-1" edge="1" parent="ibdLh96HV3ljDS0WLSE7-107" source="nEadFEwZsdqxGInNZrDy-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="n4IB0Q-cTUuTRlWXZEab-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="310" />
+              <mxPoint x="220" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nEadFEwZsdqxGInNZrDy-0" parent="ibdLh96HV3ljDS0WLSE7-107" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Pelanggan&lt;div&gt;Belanja&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="80" y="280" as="geometry" />
+          <mxGeometry height="60" width="120" x="80" y="270" as="geometry" />
         </mxCell>
         <mxCell id="n4IB0Q-cTUuTRlWXZEab-0" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="tipe&lt;div&gt;penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="100" x="170" y="350" as="geometry" />
+          <mxGeometry height="55" width="100" x="170" y="330" as="geometry" />
         </mxCell>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-110" edge="1" parent="ibdLh96HV3ljDS0WLSE7-1" source="ibdLh96HV3ljDS0WLSE7-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="ibdLh96HV3ljDS0WLSE7-90">
           <mxGeometry relative="1" as="geometry">
