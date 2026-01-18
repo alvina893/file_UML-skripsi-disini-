@@ -9467,6 +9467,12 @@
         <mxCell id="hO_JdrV3_zK2HQeKHTSQ-4" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pCmKEMaXlxeiSPBmmfWM-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sfgpFUKFvBMOjD_R9T69-1" parent="1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
+          <mxGeometry height="50" width="100" x="560" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="sfgpFUKFvBMOjD_R9T69-2" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="sfgpFUKFvBMOjD_R9T69-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
