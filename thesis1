@@ -9161,29 +9161,29 @@
           <mxGeometry height="1840" width="318" x="1052" as="geometry" />
         </mxCell>
         <mxCell id="E8parfckR2CZ24kqbwVu-30" parent="E8parfckR2CZ24kqbwVu-31" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.2858087448846748;spacing=1;verticalAlign=top;spacingTop=0;" value="&lt;div&gt;Struk Nota&lt;/div&gt;&lt;div&gt;Bukti&lt;/div&gt;&lt;div&gt;Penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="125" x="37.5" y="800" as="geometry" />
+          <mxGeometry height="70" width="125" x="101.58" y="800" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-83" parent="E8parfckR2CZ24kqbwVu-31" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="885" as="geometry" />
+          <mxGeometry height="50" width="100" x="114.08" y="885" as="geometry" />
         </mxCell>
         <mxCell id="8FTqRSsI7tniPMxLuMcF-84" edge="1" parent="E8parfckR2CZ24kqbwVu-31" source="E8parfckR2CZ24kqbwVu-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.502;exitY=0.857;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="8FTqRSsI7tniPMxLuMcF-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100.5" y="686" as="sourcePoint" />
+            <mxPoint x="164.57999999999998" y="686" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AhKFBwbL0xTV6BjTTjYy-3" parent="E8parfckR2CZ24kqbwVu-31" style="rhombus;whiteSpace=wrap;html=1;" value="jenis&lt;div&gt;penjualan?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="100" x="50" y="733" as="geometry" />
+          <mxGeometry height="55" width="100" x="114.08" y="733" as="geometry" />
         </mxCell>
         <mxCell id="n1AbUn06-JNY-v_4KGUO-4" parent="E8parfckR2CZ24kqbwVu-31" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Pelanggan&lt;div&gt;Belanja&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="40" y="580" as="geometry" />
+          <mxGeometry height="60" width="120" x="106.58" y="540" as="geometry" />
         </mxCell>
         <mxCell id="n1AbUn06-JNY-v_4KGUO-5" parent="E8parfckR2CZ24kqbwVu-31" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Mulai" vertex="1">
-          <mxGeometry height="50" width="100" x="50" y="50" as="geometry" />
+          <mxGeometry height="50" width="100" x="116.58" y="50" as="geometry" />
         </mxCell>
         <mxCell id="n1AbUn06-JNY-v_4KGUO-6" edge="1" parent="E8parfckR2CZ24kqbwVu-31" source="n1AbUn06-JNY-v_4KGUO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=sharp;exitPerimeter=0;" target="n1AbUn06-JNY-v_4KGUO-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="98" y="650" as="sourcePoint" />
-            <mxPoint x="98" y="743" as="targetPoint" />
+            <mxPoint x="162.07999999999998" y="650" as="sourcePoint" />
+            <mxPoint x="162.07999999999998" y="743" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RSNvkmNOCWiIMSWsXGV9-10" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Karyawan" vertex="1">
