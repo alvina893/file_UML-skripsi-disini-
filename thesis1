@@ -9465,7 +9465,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="KASIR - ASI BARU" id="Jvd9MaV2YxTaii7OWVDu">
-    <mxGraphModel dx="-965" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-1233" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ibdLh96HV3ljDS0WLSE7-0" />
         <mxCell id="ibdLh96HV3ljDS0WLSE7-1" parent="ibdLh96HV3ljDS0WLSE7-0" />
@@ -9623,7 +9623,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0_2a6CDxrBBb68uDrgf--0" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="tipe&lt;div&gt;penjualan&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="100" x="96.13" y="370" as="geometry" />
+          <mxGeometry height="55" width="100" x="70" y="370" as="geometry" />
         </mxCell>
         <mxCell id="sckoMklggJOfc7M9gMpr-1" parent="ibdLh96HV3ljDS0WLSE7-107" style="rhombus;whiteSpace=wrap;html=1;" value="barang berkendala?" vertex="1">
           <mxGeometry height="55" width="100" x="136.13" y="530" as="geometry" />
@@ -9901,7 +9901,7 @@
             <Array as="points">
               <mxPoint x="1720" y="1107" />
               <mxPoint x="1720" y="360" />
-              <mxPoint x="2631" y="360" />
+              <mxPoint x="2605" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
