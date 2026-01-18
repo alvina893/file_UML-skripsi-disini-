@@ -8849,7 +8849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="1277" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1733" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9013,11 +9013,8 @@
         <mxCell id="VDkNCBOltiM60z1LoLAD-6" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="50" width="100" x="161" y="1579" as="geometry" />
         </mxCell>
-        <mxCell id="OKtUdm6z0JofQI2mP0lA-20" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Keluar dari Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="15" y="1681" as="geometry" />
-        </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-27" parent="u2R2A6VwlVuXDPNBlX9A-1" style="shape=display;whiteSpace=wrap;html=1;" value="Laporan:&lt;div&gt;-&amp;nbsp; Keuangan&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Pembelian&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- Penjualan&lt;/div&gt;&lt;div&gt;- Pengembalian&lt;/div&gt;&lt;div&gt;- Barang&lt;/div&gt;&lt;div&gt;- Supplier&lt;/div&gt;" vertex="1">
-          <mxGeometry height="110" width="130" x="286.5" y="1558" as="geometry" />
+          <mxGeometry height="110" width="130" x="291" y="1629" as="geometry" />
         </mxCell>
         <mxCell id="n1AbUn06-JNY-v_4KGUO-1" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
           <mxGeometry height="35" width="58.5" x="180.75" y="550" as="geometry" />
@@ -9114,8 +9111,8 @@
         <mxCell id="OKtUdm6z0JofQI2mP0lA-30" parent="u2R2A6VwlVuXDPNBlX9A-13" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;" value="Lakukan&lt;div&gt;Pembelian&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="145" y="482.5" as="geometry" />
         </mxCell>
-        <mxCell id="OKtUdm6z0JofQI2mP0lA-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Logout" vertex="1">
-          <mxGeometry height="60" width="120" x="265" y="1681" as="geometry" />
+        <mxCell id="Qr6rg21Y6SJrDQlwmYeX-1" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rhombus;whiteSpace=wrap;html=1;" value="jam kerja&lt;div&gt;selesai?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="55" width="100" x="280" y="1670" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1780" width="202" x="850" as="geometry" />
@@ -9443,7 +9440,7 @@
         <mxCell id="OKtUdm6z0JofQI2mP0lA-28" edge="1" parent="1" source="Ey4plcRIesOVcDyoCzdK-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.855;exitY=1;exitDx=0;exitDy=-4.35;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="OKtUdm6z0JofQI2mP0lA-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1702" y="1613" />
+              <mxPoint x="1703" y="1684" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -9466,6 +9463,12 @@
         </mxCell>
         <mxCell id="bZxp1otI0fEmWrJc6j2j-1" edge="1" parent="1" source="pCmKEMaXlxeiSPBmmfWM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pCmKEMaXlxeiSPBmmfWM-9">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKtUdm6z0JofQI2mP0lA-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Keluar dari Sistem" vertex="1">
+          <mxGeometry height="60" width="120" x="437" y="1930" as="geometry" />
+        </mxCell>
+        <mxCell id="OKtUdm6z0JofQI2mP0lA-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Logout" vertex="1">
+          <mxGeometry height="60" width="120" x="277" y="1930" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
