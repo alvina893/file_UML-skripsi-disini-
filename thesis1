@@ -8849,7 +8849,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ii6t2IdMako04B2zhJRS" name="ADMIN - ASI BARU">
-    <mxGraphModel dx="783" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="347" dy="184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9190,16 +9190,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-2" parent="E8parfckR2CZ24kqbwVu-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Role&lt;div&gt;Admin&lt;/div&gt;" vertex="1">
-          <mxGeometry height="8" width="85" x="121.58" y="654.5" as="geometry" />
+          <mxGeometry height="8" width="85" x="121.58" y="651.75" as="geometry" />
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-1" parent="E8parfckR2CZ24kqbwVu-31" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PRA" vertex="1">
-          <mxGeometry height="30" width="50" x="139.07999999999998" y="618.5" as="geometry" />
+          <mxGeometry height="30" width="50" x="139.07999999999998" y="617" as="geometry" />
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-3" parent="E8parfckR2CZ24kqbwVu-31" style="shape=offPageConnector;whiteSpace=wrap;html=1;" value="PRKS" vertex="1">
           <mxGeometry height="30" width="50" x="230.5" y="617" as="geometry" />
         </mxCell>
         <mxCell id="OzliORfbg-O8t60Of8oP-4" parent="E8parfckR2CZ24kqbwVu-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;rounded=0;spacing=0;fontSize=8;" value="Penjualan Role&lt;div&gt;Kasir&lt;/div&gt;" vertex="1">
-          <mxGeometry height="15.5" width="85" x="213" y="647" as="geometry" />
+          <mxGeometry height="15.5" width="85" x="213" y="648" as="geometry" />
         </mxCell>
         <mxCell id="OwU0FXxL1iChbjqaysLv-4" edge="1" parent="E8parfckR2CZ24kqbwVu-31" source="z8crN-hFsO_nH5RkgcaQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OzliORfbg-O8t60Of8oP-3">
           <mxGeometry relative="1" as="geometry" />
@@ -9215,6 +9215,11 @@
               <mxPoint x="230" y="600" />
               <mxPoint x="164" y="600" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKa8MTv2P8mkD1usg6Xe-1" connectable="0" parent="OwU0FXxL1iChbjqaysLv-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="admin" vertex="1">
+          <mxGeometry relative="1" x="0.1383" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z8crN-hFsO_nH5RkgcaQ-1" parent="E8parfckR2CZ24kqbwVu-31" style="rhombus;whiteSpace=wrap;html=1;" value="ketemu&lt;div&gt;pengguna&lt;/div&gt;" vertex="1">
