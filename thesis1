@@ -9011,10 +9011,10 @@
           <mxGeometry height="50" width="100" x="171.5" y="1351" as="geometry" />
         </mxCell>
         <mxCell id="VDkNCBOltiM60z1LoLAD-6" parent="u2R2A6VwlVuXDPNBlX9A-1" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Selesai" vertex="1">
-          <mxGeometry height="50" width="100" x="155" y="1775" as="geometry" />
+          <mxGeometry height="50" width="100" x="155" y="1753" as="geometry" />
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-20" parent="u2R2A6VwlVuXDPNBlX9A-1" style="rounded=0;whiteSpace=wrap;html=1;" value="Keluar dari Sistem" vertex="1">
-          <mxGeometry height="60" width="120" x="15" y="1770" as="geometry" />
+          <mxGeometry height="60" width="120" x="15" y="1748" as="geometry" />
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-22" edge="1" parent="u2R2A6VwlVuXDPNBlX9A-1" source="OKtUdm6z0JofQI2mP0lA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="VDkNCBOltiM60z1LoLAD-6">
           <mxGeometry relative="1" as="geometry" />
@@ -9118,10 +9118,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sdq_RgHM3it2ok4ppSoT-1" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rhombus;whiteSpace=wrap;html=1;" value="jam kerja&lt;div&gt;selesai?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="55" width="100" x="155" y="1690" as="geometry" />
+          <mxGeometry height="55" width="100" x="290" y="1668" as="geometry" />
         </mxCell>
         <mxCell id="OKtUdm6z0JofQI2mP0lA-17" parent="u2R2A6VwlVuXDPNBlX9A-13" style="rounded=0;whiteSpace=wrap;html=1;" value="Klik Logout" vertex="1">
-          <mxGeometry height="60" width="120" x="145" y="1770" as="geometry" />
+          <mxGeometry height="60" width="120" x="280" y="1748" as="geometry" />
         </mxCell>
         <mxCell id="u2R2A6VwlVuXDPNBlX9A-35" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Supplier" vertex="1">
           <mxGeometry height="1780" width="202" x="850" as="geometry" />
